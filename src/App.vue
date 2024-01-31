@@ -41,12 +41,16 @@
         <footer class="footer">
             <div class="container-fluid footer-content">
                 <div class="pull-right">
-                    <div class="text-right"><a href="https://github.com/monoai/luna-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/monoai/luna-button.svg?style=social"/></a></div>
+                    <div class="text-right"><a href="https://github.com/Yuiffy/suiji-sui-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/Yuiffy/suiji-sui-button.svg?style=social"/></a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
-                <div>{{$t("info.tlHelpers")}}</div>
+<!--                <div>{{$t("info.tlHelpers")}}</div>-->
                 <!--<div><p>Me testing out something</p></div>-->
-                <div><a href="https://twitter.com/monoAI_" target="_blank" @click="linkClick"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
+                <div>
+                  <a href="https://space.bilibili.com/14279" target="_blank" @click="linkClick">带鱼</a>
+                  2024.
+                  <span style="color: rgba(0, 0, 0, 0.5)">Credits to monoAI_ for his <a href="https://github.com/monoai/luna-button" target="_blank">Luna Button.</a></span>
+                  <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
             </div>
         </footer>
     </div>
@@ -157,14 +161,14 @@ class App extends Vue {
     }
     linkClick(){
         // NOTE: Consider using Vuex instead of an event bus.
-        this.$gConst.globalbus.$emit('play', {
-            src: "voices/GR_OniiChan.mp3",
-        })
+        // this.$gConst.globalbus.$emit('play', {
+        //     src: "voices/GR_OniiChan.mp3",
+        // })
 
         //eslint-disable-next-line
-        console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
+        // console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
         //eslint-disable-next-line
-        console.log("ルーナちゃんありがちゅ！");
+        // console.log("ルーナちゃんありがちゅ！");
     }
 }
 
