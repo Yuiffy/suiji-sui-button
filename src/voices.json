@@ -1,20 +1,114 @@
 {
   "voices": [
     {
-      "categoryName": "suiVoice",
+      "categoryName": "suiShortVoice",
       "categoryDescription": {
-        "en-US": "SUI Sentence",
-        "zh-CN": "岁言岁语"
+        "en-US": "Short Sentence",
+        "zh-CN": "短句"
       },
       "voiceList": [
         {
-          "name": "Ahoy",
-          "path": "EN_Ahoy.mp3",
+          "name": "know each other not deep",
+          "path": "了解太不深入.MP3",
           "description": {
-            "ja-JP": "Ahoy",
-            "en-US": "Ahoy",
-            "zh-TW": "Ahoy",
-            "ms-MY": "Ahoi"
+            "en-US": "know each other not deep",
+            "zh-CN": "了解太不深入了"
+          }
+        },
+        {
+          "name": "listen listen",
+          "path": "你听我说你听我说.MP3",
+          "description": {
+            "en-US": "listen listen",
+            "zh-CN": "你听我说你听我说"
+          }
+        },
+        {
+          "name": "too mad less friend",
+          "path": "再狂没朋友.MP3",
+          "description": {
+            "en-US": "too mad less friend",
+            "zh-CN": "再狂没朋友了"
+          }
+        },
+        {
+          "name": "too spicy",
+          "path": "吸溜吸溜辣死了.MP3",
+          "description": {
+            "en-US": "too spicy",
+            "zh-CN": "吸溜吸溜辣死了"
+          }
+        },
+        {
+          "name": "lu duan by side",
+          "path": "在旁边路段.MP3",
+          "description": {
+            "en-US": "lu duan by side",
+            "zh-CN": "在旁边路段"
+          }
+        },
+        {
+          "name": "everyone push good",
+          "path": "大家多多一键三连的说.MP3",
+          "description": {
+            "en-US": "everyone push good",
+            "zh-CN": "大家多多一键三连的说"
+          }
+        },
+        {
+          "name": "ok stop say",
+          "path": "好了好了别说了.MP3",
+          "description": {
+            "en-US": "ok stop say",
+            "zh-CN": "好了好了别说了"
+          }
+        },
+        {
+          "name": "heart break",
+          "path": "心都伤透了的说.MP3",
+          "description": {
+            "en-US": "heart break",
+            "zh-CN": "心都伤透了的说"
+          }
+        },
+        {
+          "name": "I say who let you eat",
+          "path": "我说谁让你吃了.MP3",
+          "description": {
+            "en-US": "I say who let you eat",
+            "zh-CN": "我说谁让你吃了"
+          }
+        },
+        {
+          "name": "every time is very tense",
+          "path": "每次都很紧张.MP3",
+          "description": {
+            "en-US": "every time is very tense",
+            "zh-CN": "每次都很紧张"
+          }
+        },
+        {
+          "name": "suddenly say bad things",
+          "path": "突然讲不好说的话题.MP3",
+          "description": {
+            "en-US": "suddenly say bad things",
+            "zh-CN": "突然讲不好说的话题"
+          }
+        },
+        {
+          "name": "get ssxs life",
+          "path": "索时守星沙的命.MP3",
+          "description": {
+            "en-US": "get ssxs's life",
+            "zh-CN": "索时守星沙的命"
+          }
+        },
+        {
+          "name": "Guizhou compare to Guangxi",
+          "path": "贵州和广西相比.MP3",
+          "description": {
+            "en-US": "Guizhou compare to Guangxi",
+            "zh-CN": "贵州和广西相比"
           }
         }
       ]
@@ -27,13 +121,85 @@
       },
       "voiceList": [
         {
-          "name": "aha",
-          "path": "SFX_Aha.mp3",
+          "name": "wu eeee~",
+          "path": "唔诶.MP3",
           "description": {
-            "ja-JP": "Aha!",
-            "en-US": "Aha!",
-            "zh-TW": "嗯哼",
-            "ms-MY": "Aha!"
+            "en-US": "wu eeee~",
+            "zh-CN": "唔诶~"
+          }
+        },
+        {
+          "name": "bu long bu long",
+          "path": "布隆布隆.MP3",
+          "description": {
+            "en-US": "bu long bu long~",
+            "zh-CN": "布隆布隆~"
+          }
+        },
+        {
+          "name": "beng beng beng beng",
+          "path": "蹦蹦蹦蹦悬疑音效.MP3",
+          "description": {
+            "en-US": "beng beng beng beng",
+            "zh-CN": "蹦蹦蹦蹦悬疑音效~"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "suiLongVoice",
+      "categoryDescription": {
+        "en-US": "Long Sentence",
+        "zh-CN": "长句"
+      },
+      "voiceList": [
+        {
+          "name": "All Kill",
+          "path": "不来一个一个全杀了.MP3",
+          "description": {
+            "en-US": "All kill if not come",
+            "zh-CN": "不来一个个全鲨了"
+          }
+        },
+        {
+          "name": "VR Secret",
+          "path": "不告诉你VR的机密.MP3",
+          "description": {
+            "en-US": "It's VR Secret",
+            "zh-CN": "不告诉你，这是我们VR的机密"
+          }
+        },
+        {
+          "name": "step is trap, nothing to say",
+          "path": "步步都是陷阱没有能说的.MP3",
+          "description": {
+            "en-US": "step is trap, nothing to say",
+            "zh-CN": "步步都是陷阱没有能说的"
+          }
+        },
+        {
+          "name": "Giant Hard Skin",
+          "path": "giant_hard_skin.wav",
+          "description": {
+            "en-US": "Giant Hard Skin",
+            "zh-CN": "巨人硬质化（长）"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "suiMyVoice",
+      "categoryDescription": {
+        "en-US": "My Sentence",
+        "zh-CN": "私货"
+      },
+      "voiceList": [
+        {
+          "name": "Thank daiyu ship",
+          "path": "thank_daiyu_ship.MP3",
+          "description": {
+            "en-US": "Thank daiyu ship",
+            "zh-CN": "谢谢带鱼的舰长"
           }
         }
       ]
