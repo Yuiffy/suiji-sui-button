@@ -84,19 +84,17 @@ const messages = {
   'ms-MY': emms_MY
 }
 
-let locale = 'en-US';
-if(/ja/i.test(navigator.language)){
-  locale = 'ja-JP';
-}
-else if(/cn/i.test(navigator.language)) {
+let locale = 'zh-CN';
+// if(/ja/i.test(navigator.language)){
+//   locale = 'ja-JP';
+// }
+// else
+if(/cn/i.test(navigator.language)) {
   locale = 'zh-CN';
 }
-else if(/cn/i.test(navigator.language)) {
-  locale = 'zh-TW';
-}
-else if(/ms/i.test(navigator.language)) {
-  locale = 'ms-MY';
-}
+// else if(/ms/i.test(navigator.language)) {
+//   locale = 'ms-MY';
+// }
 
 const i18n = new VueI18n({
   locale,

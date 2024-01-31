@@ -1,17 +1,17 @@
 const ja_JP = {
     info: {
-        title: "ルーナボタン",
+        title: "岁己SUIボタン",
         info: "お知らせ",
         null: "空",
-        tlHelpers: "翻訳ヘルパー: こーでー, Uchan, Admiy02",
+        // tlHelpers: "翻訳ヘルパー: こーでー, Uchan, Admiy02",
         toGithub: "Githubで翻訳に参加、音声を追加または提案をしてください。",
         notOfficial: "このサイトはファン作品であり、公式とは関係ありません。",
         overlapTips: "多重再生モードは手動で停止できません。再読み込みで停止して下さい。",
         loopTips: "選択したトラックをループします。他の2つの機能はループがオフになるまで無効になります。",
-        yt_channel: "ルーナのチャンネル",
-        twitter: "ルーナのツイッター",
-        discord: "ルーナのお菓子王国 Discord",
-        lang: "言語: "
+        // yt_channel: "ルーナのチャンネル",
+        // twitter: "ルーナのツイッター",
+        // discord: "ルーナのお菓子王国 Discord",
+        // lang: "言語: "
     },
     action: {
         toggleNavbar: "ナビゲーションバーを切り替える",

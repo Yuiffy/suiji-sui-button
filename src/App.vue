@@ -15,18 +15,19 @@
 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_pink3.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
-                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/twitter_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
-                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/discord_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.discord")}}</a></li>
+                        <li><a href="https://space.bilibili.com/1954091502" target="_blank"><img src="resources/youtube_pink3.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
+                        <li><a href="https://weibo.com/u/7785772638" target="_blank"><img src="resources/twitter_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
+<!--                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/discord_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.discord")}}</a></li>-->
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("info.lang")}} <country-flag :country=changeFlag size='small'/> {{$t("lang." + currentLang)}} <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="javascript:;" @click="chlang('en-US')"><country-flag country="us" size='small'/> {{$t("lang.en-US")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('zh-TW')"><country-flag country="tw" size='small'/> {{$t("lang.zh-TW")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('zh-CN')"><country-flag country="cn" size='small'/> {{$t("lang.zh-CN")}}</a></li>
+<!--                                <li><a href="javascript:;" @click="chlang('zh-TW')"><country-flag country="tw" size='small'/> {{$t("lang.zh-TW")}}</a></li>-->
                                 <li><a href="javascript:;" @click="chlang('ja-JP')"><country-flag country="jp" size='small'/> {{$t("lang.ja-JP")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('ms-MY')"><country-flag country="my" size='small'/> {{$t("lang.ms-MY")}}</a></li>
+<!--                                <li><a href="javascript:;" @click="chlang('ms-MY')"><country-flag country="my" size='small'/> {{$t("lang.ms-MY")}}</a></li>-->
                             </ul>
                         </li>
                     </ul>
@@ -56,7 +57,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mina&family=Open+Sans:wght@600&family=PT+Sans&family=Source+Sans+Pro&family=M+PLUS+Rounded+1c:wght@700&display=swap');
 body{
     padding-top: 70px;
-    background-image: url('/resources/body_bg.png');
+    //background-image: url('/resources/body_bg.png');
     font-family: 'Open Sans', sans-serif;
 }
 .navbar-brand {
@@ -91,7 +92,7 @@ body{
 }
 .navbar-inner{
     background-size: contain;
-    background-image: url('/resources/navbar_bg.png');
+    //background-image: url('/resources/navbar_bg.png');
     background-repeat: repeat-x;
     border-bottom: 3px solid #998ede;
 }
@@ -139,6 +140,8 @@ class App extends Vue {
             return 'tw';
         } else if (this.currentLang == 'ms-MY'){
             return 'my';
+        } else if (this.currentLang == 'zh-CN'){
+            return 'cn';
         } else {
             return 'ph';
         }

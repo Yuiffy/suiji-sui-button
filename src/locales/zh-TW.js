@@ -5,7 +5,7 @@ const zh_TW = {
         null: "空",
         tlHelpers: "翻譯幫手: こーでー, Uchan, Admiy02",
         toGithub: "到Github參與翻譯、追加聲音或提供建議",
-        notOfficial: "本網站由粉絲創作，與Hololive官方沒有關係",
+        notOfficial: "本網站由粉絲創作，與VirtuaReal官方沒有關係",
         overlapTips: "聲音的重疊播放模式無法中途停止，會產生很多次播放，重新整理頁面可以全部停止",
         loopTips: "重複播放你選取的聲音，會一直播放下去。其它2個功能會無效，除非關閉循環功能",
         yt_channel: "璐娜頻道",
