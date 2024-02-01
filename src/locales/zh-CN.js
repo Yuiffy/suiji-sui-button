@@ -6,7 +6,9 @@ const zh_CN = {
         audioStaff: "音频剪辑: mchong111 CatCoffee",
         toGithub: "请在Github参与翻译、增补音频或提出建议",
         notOfficial: "本站为爱好者作品，和VirtuaReal官方没有关联",
-        overlapTips: "重叠播放无法暂停，而且会创建大量线程，玩够了最好刷新一下"
+        overlapTips: "重叠播放无法暂停，而且会创建大量线程，玩够了最好刷新一下",
+        yt_channel: "岁己Bilibili",
+        twitter: "岁己微博",
     },
     action: {
         toggleNavbar: "切换导航栏",
