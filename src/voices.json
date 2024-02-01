@@ -110,6 +110,86 @@
             "en-US": "Guizhou compare to Guangxi",
             "zh-CN": "贵州和广西相比"
           }
+        },
+        {
+          "name": "you this time you over",
+          "path": "你这次你完了.MP3",
+          "description": {
+            "en-US": "you this time you over",
+            "zh-CN": "你这次你完了"
+          }
+        },
+        {
+          "name": "what ever it must be sui win",
+          "path": "反正赢的肯定是岁己SUI.MP3",
+          "description": {
+            "en-US": "what ever it must be sui win",
+            "zh-CN": "反正赢的肯定是岁己SUI"
+          }
+        },
+        {
+          "name": "long time not hear from everyone",
+          "path": "好久没听到大家了，大家大家大家.MP3",
+          "description": {
+            "en-US": "long time not hear from everyone",
+            "zh-CN": "好久没听到大家了，大家大家大家"
+          }
+        },
+        {
+          "name": "enough, enough",
+          "path": "好啦！好啦！.MP3",
+          "description": {
+            "en-US": "enough, enough",
+            "zh-CN": "好啦！好啦！"
+          }
+        },
+        {
+          "name": "kids, I lost",
+          "path": "孩子们输了呀.MP3",
+          "description": {
+            "en-US": "kids, I lost",
+            "zh-CN": "孩子们输了呀"
+          }
+        },
+        {
+          "name": "giant hard skin",
+          "path": "巨人硬质化（短）.MP3",
+          "description": {
+            "en-US": "giant hard skin",
+            "zh-CN": "巨人硬质化"
+          }
+        },
+        {
+          "name": "they again, omg",
+          "path": "怎么又是她们俩，崩溃了.MP3",
+          "description": {
+            "en-US": "they again, omg",
+            "zh-CN": "怎么又是她们俩，崩溃了"
+          }
+        },
+        {
+          "name": "always talk about something else",
+          "path": "总是沟通无关紧要，那对对方了解也太不深入.MP3",
+          "description": {
+            "en-US": "always talk about something else",
+            "zh-CN": "总是沟通无关紧要，那对对方了解也太不深入"
+          }
+        },
+        {
+          "name": "I am pig",
+          "path": "我是猪.MP3",
+          "description": {
+            "en-US": "I am pig",
+            "zh-CN": "我是猪"
+          }
+        },
+        {
+          "name": "is it virtuaReal",
+          "path": "是virtuaReal吧.MP3",
+          "description": {
+            "en-US": "is it virtuaReal",
+            "zh-CN": "是virtuaReal吧"
+          }
         }
       ]
     },
@@ -142,6 +222,46 @@
           "description": {
             "en-US": "beng beng beng beng",
             "zh-CN": "蹦蹦蹦蹦悬疑音效~"
+          }
+        },
+        {
+          "name": "gu gu gu~",
+          "path": "咕咕咕.MP3",
+          "description": {
+            "en-US": "gu gu gu~",
+            "zh-CN": "咕咕咕~"
+          }
+        },
+        {
+          "name": "oho~o hiu~",
+          "path": "哦吼~哦hiu~.MP3",
+          "description": {
+            "en-US": "oho~o hiu~",
+            "zh-CN": "哦吼~哦hiu~"
+          }
+        },
+        {
+          "name": "wah",
+          "path": "核嗓岁己哇嗷.MP3",
+          "description": {
+            "en-US": "wah",
+            "zh-CN": "哇嗷~（核嗓）"
+          }
+        },
+        {
+          "name": "bo bi bo",
+          "path": "波比波.MP3",
+          "description": {
+            "en-US": "bo bi bo",
+            "zh-CN": "波比波"
+          }
+        },
+        {
+          "name": "this how to do it",
+          "path": "这怎么办啊.MP3",
+          "description": {
+            "en-US": "this how to do it",
+            "zh-CN": "这怎么办啊"
           }
         }
       ]
@@ -178,28 +298,19 @@
           }
         },
         {
-          "name": "Giant Hard Skin",
-          "path": "giant_hard_skin.wav",
+          "name": "Is everyone here",
+          "path": "大家在吗大家不安感大爆发啄自己的羽毛.wav",
           "description": {
-            "en-US": "Giant Hard Skin",
-            "zh-CN": "巨人硬质化（长）"
+            "en-US": "Is everyone here? Feeling of unease is exploding, pecking at our own feathers.",
+            "zh-CN": "大家在吗大家不安感大爆发啄自己的羽毛"
           }
-        }
-      ]
-    },
-    {
-      "categoryName": "suiMyVoice",
-      "categoryDescription": {
-        "en-US": "My Sentence",
-        "zh-CN": "私货"
-      },
-      "voiceList": [
+        },
         {
-          "name": "Thank daiyu ship",
-          "path": "thank_daiyu_ship.MP3",
+          "name": "High quality end, light fan cookie, see you next time.",
+          "path": "高质量结束，轻度粉小饼再见.wav",
           "description": {
-            "en-US": "Thank daiyu ship",
-            "zh-CN": "谢谢带鱼的舰长"
+            "en-US": "High quality end, light fan cookie, see you next time.",
+            "zh-CN": "高质量结束，轻度粉小饼再见"
           }
         }
       ]

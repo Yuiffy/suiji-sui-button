@@ -161,9 +161,9 @@ class App extends Vue {
     }
     linkClick(){
         // NOTE: Consider using Vuex instead of an event bus.
-        // this.$gConst.globalbus.$emit('play', {
-        //     src: "voices/GR_OniiChan.mp3",
-        // })
+        this.$gConst.globalbus.$emit('play', {
+            src: "voices/thank_daiyu_ship.MP3",
+        })
 
         //eslint-disable-next-line
         // console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
