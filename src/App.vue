@@ -15,8 +15,8 @@
 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://space.bilibili.com/1954091502" target="_blank"><img src="resources/youtube_pink3.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
-                        <li><a href="https://weibo.com/u/7785772638" target="_blank"><img src="resources/twitter_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
+                        <li><a href="https://space.bilibili.com/1954091502" target="_blank"><img src="resources/bilibili_social_icon.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
+                        <li><a href="https://weibo.com/u/7785772638" target="_blank"><img src="resources/sina-weibo.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
 <!--                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/discord_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.discord")}}</a></li>-->
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
