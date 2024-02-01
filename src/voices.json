@@ -96,14 +96,6 @@
           }
         },
         {
-          "name": "Guizhou compare to Guangxi",
-          "path": "贵州和广西相比.MP3",
-          "description": {
-            "en-US": "Guizhou compare to Guangxi",
-            "zh-CN": "贵州和广西相比"
-          }
-        },
-        {
           "name": "you this time you over",
           "path": "你这次你完了.MP3",
           "description": {
@@ -255,6 +247,39 @@
             "en-US": "bo bi bo",
             "zh-CN": "波比波"
           }
+        },
+        {
+          "name": "yawn",
+          "path": "呵欠.MP3",
+          "description": {
+            "en-US": "yawn",
+            "zh-CN": "呵欠"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "suiSong",
+      "categoryDescription": {
+        "en-US": "Song",
+        "zh-CN": "小唱"
+      },
+      "voiceList": [
+        {
+          "name": "birthday say hi hi",
+          "path": "海底捞生日祝福歌（短）.MP3",
+          "description": {
+            "en-US": "birthday say hi hi",
+            "zh-CN": "生日祝福说嗨嗨"
+          }
+        },
+        {
+          "name": "Guizhou compare to Guangxi",
+          "path": "贵州和广西相比.MP3",
+          "description": {
+            "en-US": "Guizhou compare to Guangxi",
+            "zh-CN": "贵州和广西相比"
+          }
         }
       ]
     },
@@ -303,6 +328,14 @@
           "description": {
             "en-US": "High quality end, light fan cookie, see you next time.",
             "zh-CN": "高质量结束，轻度粉小饼再见"
+          }
+        },
+        {
+          "name": "Twist twist",
+          "path": "反转了反转了.MP3",
+          "description": {
+            "en-US": "Twist twist",
+            "zh-CN": "反转了反转了"
           }
         }
       ]
