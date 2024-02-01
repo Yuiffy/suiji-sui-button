@@ -65,7 +65,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .navbar-brand {
-    font-family: 'M PLUS Rounded 1c', sans-serif;
+    //font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 .nav.navbar-nav li a, .navbar-default .navbar-brand{
     color: white;
