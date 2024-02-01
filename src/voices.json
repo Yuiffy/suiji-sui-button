@@ -8,14 +8,6 @@
       },
       "voiceList": [
         {
-          "name": "know each other not deep",
-          "path": "了解太不深入.MP3",
-          "description": {
-            "en-US": "know each other not deep",
-            "zh-CN": "了解太不深入了"
-          }
-        },
-        {
           "name": "listen listen",
           "path": "你听我说你听我说.MP3",
           "description": {
@@ -190,6 +182,14 @@
             "en-US": "is it virtuaReal",
             "zh-CN": "是virtuaReal吧"
           }
+        },
+        {
+          "name": "this how to do it",
+          "path": "这怎么办啊.MP3",
+          "description": {
+            "en-US": "this how to do it",
+            "zh-CN": "这怎么办啊"
+          }
         }
       ]
     },
@@ -255,14 +255,6 @@
             "en-US": "bo bi bo",
             "zh-CN": "波比波"
           }
-        },
-        {
-          "name": "this how to do it",
-          "path": "这怎么办啊.MP3",
-          "description": {
-            "en-US": "this how to do it",
-            "zh-CN": "这怎么办啊"
-          }
         }
       ]
     },
@@ -299,15 +291,15 @@
         },
         {
           "name": "Is everyone here",
-          "path": "大家在吗大家不安感大爆发啄自己的羽毛.wav",
+          "path": "大家在吗大家不安感大爆发啄自己的羽毛.MP3",
           "description": {
             "en-US": "Is everyone here? Feeling of unease is exploding, pecking at our own feathers.",
             "zh-CN": "大家在吗大家不安感大爆发啄自己的羽毛"
           }
         },
         {
-          "name": "High quality end, light fan cookie, see you next time.",
-          "path": "高质量结束，轻度粉小饼再见.wav",
+          "name": "High quality end",
+          "path": "高质量结束，轻度粉小饼再见.MP3",
           "description": {
             "en-US": "High quality end, light fan cookie, see you next time.",
             "zh-CN": "高质量结束，轻度粉小饼再见"
