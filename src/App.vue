@@ -89,7 +89,7 @@ body{
     color: #c8b1e5;
 }
 .nav a:hover{
-    border-bottom: 2px solid #998ede;
+    border-bottom: 2px solid #d84d4c;
 }
 .navbar {
     min-height: 55px;
@@ -98,7 +98,7 @@ body{
     background-size: contain;
     //background-image: url('/resources/navbar_bg.png');
     background-repeat: repeat-x;
-    border-bottom: 3px solid #998ede;
+    border-bottom: 3px solid #fcd6d1;
 }
 .main-content{
     min-height: 100vh;
@@ -106,8 +106,8 @@ body{
 .footer {
     width: 100%;
     height: auto;
-    background-color: #fecfdf;
-    border-top: 3px solid #fdb3d8;
+    background-color: #fdf3ee;
+    border-top: 3px solid #fcd6d1;
 }
 .footer-content {
     padding-top: 10px;

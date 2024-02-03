@@ -43,10 +43,10 @@
 
 <style lang="scss" scoped>
 .cate-header{
-    background-color: #dd2e44;
+    background-color: #d32245;
     color: white;
-    text-shadow: 0 0 3px #FF0000, 0 0 1px #FF0000;
-    border: 2px solid #ff546d;
+    text-shadow: 0 0 3px #9d5446, 0 0 1px #c78981;
+    border: 2px solid #ba1933;
     border-radius: 10px;
     text-align: center;
     font-size: 20px;
@@ -61,7 +61,7 @@
     background-color: white;
     background-repeat: repeat-x;
     background-size: contain;
-    color: #bf8ac2;
+    color: #cc4c79;
     //text-shadow: -1px 1px 1px #666381,
     //              1px 1px 0px #666381,
     //              1px -1px 0 #666381,
