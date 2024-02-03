@@ -96,14 +96,6 @@
           }
         },
         {
-          "name": "you this time you over",
-          "path": "你这次你完了.MP3",
-          "description": {
-            "en-US": "you this time you over",
-            "zh-CN": "你这次你完了"
-          }
-        },
-        {
           "name": "what ever it must be sui win",
           "path": "反正赢的肯定是岁己SUI.MP3",
           "description": {
@@ -120,14 +112,6 @@
           }
         },
         {
-          "name": "enough, enough",
-          "path": "好啦！好啦！.MP3",
-          "description": {
-            "en-US": "enough, enough",
-            "zh-CN": "好啦！好啦！"
-          }
-        },
-        {
           "name": "kids, I lost",
           "path": "孩子们输了呀.MP3",
           "description": {
@@ -141,14 +125,6 @@
           "description": {
             "en-US": "giant hard skin",
             "zh-CN": "巨人硬质化"
-          }
-        },
-        {
-          "name": "they again, omg",
-          "path": "怎么又是她们俩，崩溃了.MP3",
-          "description": {
-            "en-US": "they again, omg",
-            "zh-CN": "怎么又是她们俩，崩溃了"
           }
         },
         {
@@ -173,6 +149,47 @@
           "description": {
             "en-US": "is it virtuaReal",
             "zh-CN": "是virtuaReal吧"
+          }
+        },
+        {
+          "name": "I want to revive you",
+          "path": "我要把你复活.MP3",
+          "description": {
+            "en-US": "I want to revive you",
+            "zh-CN": "我要把你复活"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "excited loud",
+      "categoryDescription": {
+        "en-US": "excited loud",
+        "zh-CN": "大声"
+      },
+      "voiceList": [
+        {
+          "name": "enough, enough",
+          "path": "好啦！好啦！.MP3",
+          "description": {
+            "en-US": "enough, enough",
+            "zh-CN": "好啦！好啦！"
+          }
+        },
+        {
+          "name": "you this time you over",
+          "path": "你这次你完了.MP3",
+          "description": {
+            "en-US": "you this time you over",
+            "zh-CN": "你这次你完了"
+          }
+        },
+        {
+          "name": "they again, omg",
+          "path": "怎么又是她们俩，崩溃了.MP3",
+          "description": {
+            "en-US": "they again, omg",
+            "zh-CN": "怎么又是她们俩，崩溃了"
           }
         },
         {
@@ -241,14 +258,6 @@
           }
         },
         {
-          "name": "bo bi bo",
-          "path": "波比波.MP3",
-          "description": {
-            "en-US": "bo bi bo",
-            "zh-CN": "波比波"
-          }
-        },
-        {
           "name": "yawn",
           "path": "呵欠.MP3",
           "description": {
@@ -265,6 +274,14 @@
         "zh-CN": "小唱"
       },
       "voiceList": [
+        {
+          "name": "bo bi bo",
+          "path": "波比波.MP3",
+          "description": {
+            "en-US": "bo bi bo",
+            "zh-CN": "波比波"
+          }
+        },
         {
           "name": "birthday say hi hi",
           "path": "海底捞生日祝福歌（短）.MP3",
