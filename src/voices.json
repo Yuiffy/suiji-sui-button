@@ -64,6 +64,14 @@
           }
         },
         {
+          "name": "heart wall",
+          "path": "心之壁了.MP3",
+          "description": {
+            "en-US": "heart wall",
+            "zh-CN": "心之壁了"
+          }
+        },
+        {
           "name": "I say who let you eat",
           "path": "我说谁让你吃了.MP3",
           "description": {
@@ -182,6 +190,38 @@
             "en-US": "is everyone there",
             "zh-CN": "大家大家在吗大家"
           }
+        },
+        {
+          "name": "go die, you who",
+          "path": "去死吧你谁啊.MP3",
+          "description": {
+            "en-US": "go die, you who",
+            "zh-CN": "去死吧你谁啊"
+          }
+        },
+        {
+          "name": "god",
+          "path": "天哪.MP3",
+          "description": {
+            "en-US": "god",
+            "zh-CN": "天哪"
+          }
+        },
+        {
+          "name": "scared, scared",
+          "path": "好可怕好吓人啊好可怕.MP3",
+          "description": {
+            "en-US": "scared, scared",
+            "zh-CN": "好可怕好吓人啊好可怕"
+          }
+        },
+        {
+          "name": "open box the man",
+          "path": "这个人帮我盒一下吧.MP3",
+          "description": {
+            "en-US": "open box the man",
+            "zh-CN": "这个人帮我盒一下吧"
+          }
         }
       ]
     },
@@ -222,6 +262,14 @@
           "description": {
             "en-US": "this how to do it",
             "zh-CN": "这怎么办啊"
+          }
+        },
+        {
+          "name": "god, is you human",
+          "path": "天哪你是人啊（哑）.MP3",
+          "description": {
+            "en-US": "god, is you human?",
+            "zh-CN": "天哪你是人啊（哑）"
           }
         }
       ]
