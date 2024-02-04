@@ -158,6 +158,30 @@
             "en-US": "I want to revive you",
             "zh-CN": "我要把你复活"
           }
+        },
+        {
+          "name": "everyone(sadly)",
+          "path": "大家（委屈）.MP3",
+          "description": {
+            "en-US": "everyone(sadly)",
+            "zh-CN": "大家（委屈）"
+          }
+        },
+        {
+          "name": "everyone(up and down)",
+          "path": "大↓家↑.MP3",
+          "description": {
+            "en-US": "everyone(up and down)",
+            "zh-CN": "大↓家↑"
+          }
+        },
+        {
+          "name": "is everyone there",
+          "path": "大家大家在吗大家.MP3",
+          "description": {
+            "en-US": "is everyone there",
+            "zh-CN": "大家大家在吗大家"
+          }
         }
       ]
     },
@@ -336,7 +360,7 @@
           "path": "大家在吗大家不安感大爆发啄自己的羽毛.MP3",
           "description": {
             "en-US": "Is everyone here? Feeling of unease is exploding, pecking at our own feathers.",
-            "zh-CN": "大家在吗大家不安感大爆发啄自己的羽毛"
+            "zh-CN": "大家快再说一下我在呢不安感大爆发啄自己的羽毛"
           }
         },
         {
