@@ -222,6 +222,46 @@
             "en-US": "open box the man",
             "zh-CN": "这个人帮我盒一下吧"
           }
+        },
+        {
+          "name": "No~",
+          "path": "no~.MP3",
+          "description": {
+            "en-US": "No~",
+            "zh-CN": "No~"
+          }
+        },
+        {
+          "name": "Oh no~",
+          "path": "Oh no.MP3",
+          "description": {
+            "en-US": "Oh no~",
+            "zh-CN": "Oh no~"
+          }
+        },
+        {
+          "name": "Oh no!",
+          "path": "ohno!.MP3",
+          "description": {
+            "en-US": "Oh no!",
+            "zh-CN": "Oh no!"
+          }
+        },
+        {
+          "name": "ai ya, jiajia",
+          "path": "哎呀嘉嘉.MP3",
+          "description": {
+            "en-US": "ai ya, jiajia",
+            "zh-CN": "哎呀嘉嘉"
+          }
+        },
+        {
+          "name": "ai yo, what are you doing",
+          "path": "哎哟，你在干嘛（四川话）.MP3",
+          "description": {
+            "en-US": "ai yo, what are you doing",
+            "zh-CN": "哎哟，你在干嘛（四川话）"
+          }
         }
       ]
     },
@@ -335,6 +375,14 @@
           "description": {
             "en-US": "yawn",
             "zh-CN": "呵欠"
+          }
+        },
+        {
+          "name": "Ah~",
+          "path": "啊~.MP3",
+          "description": {
+            "en-US": "Ah~",
+            "zh-CN": "啊~"
           }
         }
       ]
