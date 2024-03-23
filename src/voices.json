@@ -262,6 +262,14 @@
             "en-US": "ai yo, what are you doing",
             "zh-CN": "哎哟，你在干嘛（四川话）"
           }
+        },
+        {
+          "name": "why, why (sad)",
+          "path": "为什么为什么（哭腔）.MP3",
+          "description": {
+            "en-US": "why, why (sad)",
+            "zh-CN": "为什么为什么（哭腔）.MP3"
+          }
         }
       ]
     },
