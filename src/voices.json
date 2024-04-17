@@ -168,43 +168,11 @@
           }
         },
         {
-          "name": "everyone(sadly)",
-          "path": "大家（委屈）.MP3",
-          "description": {
-            "en-US": "everyone(sadly)",
-            "zh-CN": "大家（委屈）"
-          }
-        },
-        {
-          "name": "everyone(up and down)",
-          "path": "大↓家↑.MP3",
-          "description": {
-            "en-US": "everyone(up and down)",
-            "zh-CN": "大↓家↑"
-          }
-        },
-        {
-          "name": "is everyone there",
-          "path": "大家大家在吗大家.MP3",
-          "description": {
-            "en-US": "is everyone there",
-            "zh-CN": "大家大家在吗大家"
-          }
-        },
-        {
           "name": "go die, you who",
           "path": "去死吧你谁啊.MP3",
           "description": {
             "en-US": "go die, you who",
             "zh-CN": "去死吧你谁啊"
-          }
-        },
-        {
-          "name": "god",
-          "path": "天哪.MP3",
-          "description": {
-            "en-US": "god",
-            "zh-CN": "天哪"
           }
         },
         {
@@ -223,6 +191,66 @@
             "zh-CN": "这个人帮我盒一下吧"
           }
         },
+        {
+          "name": "ai ya, jiajia",
+          "path": "哎呀嘉嘉.MP3",
+          "description": {
+            "en-US": "ai ya, jiajia",
+            "zh-CN": "哎呀嘉嘉"
+          }
+        },
+        {
+          "name": "ai yo, what are you doing",
+          "path": "哎哟，你在干嘛（四川话）.MP3",
+          "description": {
+            "en-US": "ai yo, what are you doing",
+            "zh-CN": "哎哟，你在干嘛（四川话）"
+          }
+        },
+        {
+          "name": "why, why (sad)",
+          "path": "为什么为什么（哭腔）.MP3",
+          "description": {
+            "en-US": "why, why (sad)",
+            "zh-CN": "为什么为什么（哭腔）.MP3"
+          }
+        },
+        {
+          "name": "You like it, please",
+          "path": "你喜欢一下吧.MP3",
+          "description": {
+            "en-US": "You like it, please",
+            "zh-CN": "你喜欢一下吧",
+            "ja-JP": "好きですか、え？"
+          }
+        },
+        {
+          "name": "Ay ya, dont bite me~",
+          "path": "哎呀别咬我~.MP3",
+          "description": {
+            "en-US": "Ay ya, don't bite me~",
+            "zh-CN": "哎呀别咬我~",
+            "ja-JP": "あいや、噛まないで〜"
+          }
+        },
+        {
+          "name": "Ay ya, really annoying~",
+          "path": "哎呀真烦~.MP3",
+          "description": {
+            "en-US": "Ay ya, really annoying~",
+            "zh-CN": "哎呀真烦~",
+            "ja-JP": "あいや、本当にうるさい〜"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "daily languages",
+      "categoryDescription": {
+        "en-US": "daily languages",
+        "zh-CN": "日常用语"
+      },
+      "voiceList": [
         {
           "name": "No~",
           "path": "no~.MP3",
@@ -248,27 +276,44 @@
           }
         },
         {
-          "name": "ai ya, jiajia",
-          "path": "哎呀嘉嘉.MP3",
+          "name": "everyone(sadly)",
+          "path": "大家（委屈）.MP3",
           "description": {
-            "en-US": "ai ya, jiajia",
-            "zh-CN": "哎呀嘉嘉"
+            "en-US": "everyone(sadly)",
+            "zh-CN": "大家（委屈）"
           }
         },
         {
-          "name": "ai yo, what are you doing",
-          "path": "哎哟，你在干嘛（四川话）.MP3",
+          "name": "everyone(up and down)",
+          "path": "大↓家↑.MP3",
           "description": {
-            "en-US": "ai yo, what are you doing",
-            "zh-CN": "哎哟，你在干嘛（四川话）"
+            "en-US": "everyone(up and down)",
+            "zh-CN": "大↓家↑"
           }
         },
         {
-          "name": "why, why (sad)",
-          "path": "为什么为什么（哭腔）.MP3",
+          "name": "is everyone there",
+          "path": "大家大家在吗大家.MP3",
           "description": {
-            "en-US": "why, why (sad)",
-            "zh-CN": "为什么为什么（哭腔）.MP3"
+            "en-US": "is everyone there",
+            "zh-CN": "大家大家在吗大家"
+          }
+        },
+        {
+          "name": "god",
+          "path": "天哪.MP3",
+          "description": {
+            "en-US": "god",
+            "zh-CN": "天哪"
+          }
+        },
+        {
+          "name": "Oh my",
+          "path": "妈呀.MP3",
+          "description": {
+            "en-US": "Oh my",
+            "zh-CN": "妈呀",
+            "ja-JP": "おやまあ"
           }
         }
       ]
@@ -318,6 +363,24 @@
           "description": {
             "en-US": "god, is you human?",
             "zh-CN": "天哪你是人啊（哑）"
+          }
+        },
+        {
+          "name": "No reimbursement for airfare and hotels!",
+          "path": "机票酒店不报销！.MP3",
+          "description": {
+            "en-US": "No reimbursement for airfare and hotels!",
+            "zh-CN": "机票酒店不报销！",
+            "ja-JP": "航空券とホテルの払い戻し無し！"
+          }
+        },
+        {
+          "name": "Ha! Ha! Ha! (triple hit)",
+          "path": "哈！哈！哈！（三连击）.MP3",
+          "description": {
+            "en-US": "Ha! Ha! Ha! (triple hit)",
+            "zh-CN": "哈！哈！哈！（三连击）",
+            "ja-JP": "ハ！ハ！ハ！（トリプルヒット）"
           }
         }
       ]
@@ -391,6 +454,24 @@
           "description": {
             "en-US": "Ah~",
             "zh-CN": "啊~"
+          }
+        },
+        {
+          "name": "Yiya howl (surprised)",
+          "path": "咿呀吼（吓一跳）.MP3",
+          "description": {
+            "en-US": "Yiya howl (surprised)",
+            "zh-CN": "咿呀吼（吓一跳）",
+            "ja-JP": "イーヤハウ（驚いた）"
+          }
+        },
+        {
+          "name": "Bang the desk",
+          "path": "（锤桌）.MP3",
+          "description": {
+            "en-US": "Bang the desk",
+            "zh-CN": "（锤桌）",
+            "ja-JP": "机をたたく"
           }
         }
       ]
