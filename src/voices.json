@@ -241,6 +241,46 @@
             "zh-CN": "哎呀真烦~",
             "ja-JP": "あいや、本当にうるさい〜"
           }
+        },
+        {
+          "name": "Forgot to add Good evening to the Me button",
+          "path": "岁己按钮忘记加晚上好了.MP3",
+          "description": {
+            "en-US": "Forgot to add 'Good evening' to the 'SUI button'",
+            "zh-CN": "岁己按钮忘记加晚上好了"
+          }
+        },
+        {
+          "name": "Good evening, good evening, good evening, good evening!",
+          "path": "晚上好晚上好晚上好晚上好的.MP3",
+          "description": {
+            "en-US": "Good evening, good evening, good evening, good evening!",
+            "zh-CN": "晚上好晚上好晚上好晚上好的"
+          }
+        },
+        {
+          "name": "How many people do you say Good evening to in a day?",
+          "path": "大家到底一天跟多少个人晚上好呢.MP3",
+          "description": {
+            "en-US": "How many people do you say 'Good evening' to in a day?",
+            "zh-CN": "大家到底一天跟多少个人晚上好呢"
+          }
+        },
+        {
+          "name": "Dont try to be an Internet nice guy",
+          "path": "当什么互联网暖男.MP3",
+          "description": {
+            "en-US": "Don't try to be an Internet nice guy",
+            "zh-CN": "当什么互联网暖男"
+          }
+        },
+        {
+          "name": "There are still cookies who only say Good evening to SUI",
+          "path": "相信还是有饼干岁只跟岁己说晚上好的.MP3",
+          "description": {
+            "en-US": "There are still cookies who only say 'Good evening' to SUI",
+            "zh-CN": "相信还是有饼干岁只跟岁己说晚上好的"
+          }
         }
       ]
     },
@@ -314,6 +354,46 @@
             "en-US": "Oh my",
             "zh-CN": "妈呀",
             "ja-JP": "おやまあ"
+          }
+        },
+        {
+          "name": "So moved, boo-hoo!",
+          "path": "好感动呜呜哇哇.MP3",
+          "description": {
+            "en-US": "So moved, boo-hoo!",
+            "zh-CN": "好感动呜呜哇哇"
+          }
+        },
+        {
+          "name": "Good evening 1",
+          "path": "晚上好_1.MP3",
+          "description": {
+            "en-US": "Good evening 1",
+            "zh-CN": "晚上好 1"
+          }
+        },
+        {
+          "name": "Good evening 2",
+          "path": "晚上好_2.MP3",
+          "description": {
+            "en-US": "Good evening 2",
+            "zh-CN": "晚上好 2"
+          }
+        },
+        {
+          "name": "Good evening 3",
+          "path": "晚上好_3.MP3",
+          "description": {
+            "en-US": "Good evening 3",
+            "zh-CN": "晚上好 3"
+          }
+        },
+        {
+          "name": "Good evening! (Loudly)",
+          "path": "晚上好！（大声）.MP3",
+          "description": {
+            "en-US": "Good evening! (Loudly)",
+            "zh-CN": "晚上好！（大声）"
           }
         }
       ]
