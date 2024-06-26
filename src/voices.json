@@ -281,6 +281,15 @@
             "en-US": "There are still cookies who only say 'Good evening' to SUI",
             "zh-CN": "相信还是有饼干岁只跟岁己说晚上好的"
           }
+        },
+        {
+          "name": "Husband 20240623",
+          "path": "老公20240623.MP3",
+          "description": {
+            "en-US": "Husband",
+            "zh-CN": "老公",
+            "ja-JP": "夫"
+          }
         }
       ]
     },
