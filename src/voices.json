@@ -290,6 +290,15 @@
             "zh-CN": "老公",
             "ja-JP": "夫"
           }
+        },
+        {
+          "name": "Im coming out",
+          "path": "我要出来咯.MP3",
+          "description": {
+            "en-US": "I'm coming out",
+            "zh-CN": "我要出来咯",
+            "ja-JP": "私は出るよ"
+          }
         }
       ]
     },
