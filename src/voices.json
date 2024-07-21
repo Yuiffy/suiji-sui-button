@@ -404,6 +404,33 @@
             "en-US": "Good evening! (Loudly)",
             "zh-CN": "晚上好！（大声）"
           }
+        },
+        {
+          "name": "Please",
+          "path": "Please.MP3",
+          "description": {
+            "en-US": "Please",
+            "zh-CN": "请",
+            "ja-JP": "お願いします"
+          }
+        },
+        {
+          "name": "Oh right, right, I remember now",
+          "path": "哦对了对了我想起来.MP3",
+          "description": {
+            "en-US": "Oh right, right, I remember now",
+            "zh-CN": "哦对了对了我想起来",
+            "ja-JP": "ああ、そうそう、思い出した"
+          }
+        },
+        {
+          "name": "Oh speaking of which",
+          "path": "哦说到这个.MP3",
+          "description": {
+            "en-US": "Oh speaking of which",
+            "zh-CN": "哦说到这个",
+            "ja-JP": "それについて言えば"
+          }
         }
       ]
     },
@@ -470,6 +497,15 @@
             "en-US": "Ha! Ha! Ha! (triple hit)",
             "zh-CN": "哈！哈！哈！（三连击）",
             "ja-JP": "ハ！ハ！ハ！（トリプルヒット）"
+          }
+        },
+        {
+          "name": "Turn!",
+          "path": "转！.MP3",
+          "description": {
+            "en-US": "Turn!",
+            "zh-CN": "转！",
+            "ja-JP": "回して！"
           }
         }
       ]
@@ -659,6 +695,15 @@
           "description": {
             "en-US": "maid no happy birthday",
             "zh-CN": "饼干岁宝宝生日快乐（模仿女仆夹夹祝福）"
+          }
+        },
+        {
+          "name": "Log into my voice webpage",
+          "path": "可以把这个转登录到岁己的那个网页里点击一下就不用自己大叫.MP3",
+          "description": {
+            "en-US": "Log into my voice webpage",
+            "zh-CN": "登录到岁己的语音网页里",
+            "ja-JP": "自分の声のウェブページにログイン"
           }
         }
       ]
