@@ -607,6 +607,15 @@
             "zh-CN": "（锤桌）",
             "ja-JP": "机をたたく"
           }
+        },
+        {
+          "name": "Goose! (threatening)",
+          "path": "鹅！（威胁）.MP3",
+          "description": {
+            "en-US": "Goose! (threatening)",
+            "zh-CN": "鹅！（威胁）",
+            "ja-JP": "ガチョウ！（脅迫）"
+          }
         }
       ]
     },
