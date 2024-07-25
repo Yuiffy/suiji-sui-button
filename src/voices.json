@@ -1403,6 +1403,492 @@
       ]
     },
     {
+      "categoryName": "fishGaming 3D mic",
+      "categoryDescription": {
+        "en-US": "Fish Gaming 3D mic",
+        "zh-CN": "人头麦戴夫"
+      },
+      "voiceList": [
+        {
+          "name": "Biu",
+          "path": "Biu.MP3",
+          "description": {
+            "en-US": "Biu",
+            "zh-CN": "Biu",
+            "ja-JP": "ビュ"
+          }
+        },
+        {
+          "name": "oh no oh no",
+          "path": "oh no oh no.MP3",
+          "description": {
+            "en-US": "oh no oh no",
+            "zh-CN": "oh no oh no",
+            "ja-JP": "ああ、ダメだダメだ"
+          }
+        },
+        {
+          "name": "You’re really making it difficult for me",
+          "path": "不是你真有点难为我了.MP3",
+          "description": {
+            "en-US": "You’re really making it difficult for me",
+            "zh-CN": "不是你真有点难为我了",
+            "ja-JP": "あなたは本当に私を困らせている"
+          }
+        },
+        {
+          "name": "No, no, no (bitten by a shark)",
+          "path": "不要不要不要（被鲨鱼咬）.MP3",
+          "description": {
+            "en-US": "No, no, no (bitten by a shark)",
+            "zh-CN": "不要不要不要（被鲨鱼咬）",
+            "ja-JP": "いや、いや、いや（サメに噛まれた）"
+          }
+        },
+        {
+          "name": "You think I can’t beat you, huh? Well, I really can",
+          "path": "你以为我打不过你是吧，我还真是.MP3",
+          "description": {
+            "en-US": "You think I can’t beat you, huh? Well, I really can",
+            "zh-CN": "你以为我打不过你是吧，我还真是",
+            "ja-JP": "私があなたに勝てないと思っているのか？実際には勝てるよ"
+          }
+        },
+        {
+          "name": "Do you now know how to get in? I don’t even know how to get in",
+          "path": "你们现在知道怎么进去了吗，我都不知道怎么进去啊.MP3",
+          "description": {
+            "en-US": "Do you now know how to get in? I don’t even know how to get in",
+            "zh-CN": "你们现在知道怎么进去了吗，我都不知道怎么进去啊",
+            "ja-JP": "今、どうやって入るか分かりましたか？私はどうやって入るか分からない"
+          }
+        },
+        {
+          "name": "Don’t fall in love with me",
+          "path": "你可别爱上我哟.MP3",
+          "description": {
+            "en-US": "Don’t fall in love with me",
+            "zh-CN": "你可别爱上我哟",
+            "ja-JP": "私に恋しないでね"
+          }
+        },
+        {
+          "name": "Why are you shouting so loudly? Sorry",
+          "path": "你吼的那么大声干嘛对不起.MP3",
+          "description": {
+            "en-US": "Why are you shouting so loudly? Sorry",
+            "zh-CN": "你吼的那么大声干嘛对不起",
+            "ja-JP": "なんでそんなに大声で叫ぶの？ごめんなさい"
+          }
+        },
+        {
+          "name": "Do you feel it?",
+          "path": "你有没有觉得.MP3",
+          "description": {
+            "en-US": "Do you feel it?",
+            "zh-CN": "你有没有觉得",
+            "ja-JP": "感じる？"
+          }
+        },
+        {
+          "name": "Actually, I saw it in the tutorial",
+          "path": "其实我也是看教程看到的.MP3",
+          "description": {
+            "en-US": "Actually, I saw it in the tutorial",
+            "zh-CN": "其实我也是看教程看到的",
+            "ja-JP": "実はチュートリアルで見たんだ"
+          }
+        },
+        {
+          "name": "Don’t come, don’t come, bro, I’m sorry",
+          "path": "别来了别来了哥我错了.MP3",
+          "description": {
+            "en-US": "Don’t come, don’t come, bro, I’m sorry",
+            "zh-CN": "别来了别来了哥我错了",
+            "ja-JP": "来ないで、来ないで、兄弟、すみません"
+          }
+        },
+        {
+          "name": "Don’t come, I can’t fit it",
+          "path": "别来了我装不下了.MP3",
+          "description": {
+            "en-US": "Don’t come, I can’t fit it",
+            "zh-CN": "别来了我装不下了",
+            "ja-JP": "来ないで、もう収まりきらない"
+          }
+        },
+        {
+          "name": "No, ah, hmm",
+          "path": "别，啊哼哼.MP3",
+          "description": {
+            "en-US": "No, ah, hmm",
+            "zh-CN": "别，啊哼哼",
+            "ja-JP": "いや、あ、うーん"
+          }
+        },
+        {
+          "name": "Wow, wow, wow, wow, wow",
+          "path": "哇哇哇哇哇.MP3",
+          "description": {
+            "en-US": "Wow, wow, wow, wow, wow",
+            "zh-CN": "哇哇哇哇哇",
+            "ja-JP": "わあ、わあ、わあ、わあ、わあ"
+          }
+        },
+        {
+          "name": "Wow, so happy, I’m going",
+          "path": "哇哇好开心我去.MP3",
+          "description": {
+            "en-US": "Wow, so happy, I’m going",
+            "zh-CN": "哇哇好开心我去",
+            "ja-JP": "わあ、すごく幸せ、行ってくるね"
+          }
+        },
+        {
+          "name": "Hahaha (angry laugh)",
+          "path": "哈哈哈（气声笑）.MP3",
+          "description": {
+            "en-US": "Hahaha (angry laugh)",
+            "zh-CN": "哈哈哈（气声笑）",
+            "ja-JP": "ハハハ（怒った笑い）"
+          }
+        },
+        {
+          "name": "Oh dear ↑↓",
+          "path": "哎呀↑↓.MP3",
+          "description": {
+            "en-US": "Oh dear ↑↓",
+            "zh-CN": "哎呀↑↓",
+            "ja-JP": "ああ↑↓"
+          }
+        },
+        {
+          "name": "Oh dear mama",
+          "path": "哎呀妈呀.MP3",
+          "description": {
+            "en-US": "Oh dear mama",
+            "zh-CN": "哎呀妈呀",
+            "ja-JP": "ああ、お母さん"
+          }
+        },
+        {
+          "name": "Hey, you can’t do that, only one at a time",
+          "path": "哎哎你们不能这样，一次只能来一只.MP3",
+          "description": {
+            "en-US": "Hey, you can’t do that, only one at a time",
+            "zh-CN": "哎哎你们不能这样，一次只能来一只",
+            "ja-JP": "ねえ、そうしちゃダメ、一度に一匹だけだよ"
+          }
+        },
+        {
+          "name": "Hey, hey, hey (electrocuted by jellyfish)",
+          "path": "哎哎哎（被水母电）.MP3",
+          "description": {
+            "en-US": "Hey, hey, hey (electrocuted by jellyfish)",
+            "zh-CN": "哎哎哎（被水母电）",
+            "ja-JP": "ええ、ええ、ええ（クラゲに電気ショック）"
+          }
+        },
+        {
+          "name": "Oh, you’re anxious",
+          "path": "哦你急了.MP3",
+          "description": {
+            "en-US": "Oh, you’re anxious",
+            "zh-CN": "哦你急了",
+            "ja-JP": "ああ、あなたは焦っている"
+          }
+        },
+        {
+          "name": "Ah ha (electrocuted by jellyfish)",
+          "path": "啊哈（被水母电）.MP3",
+          "description": {
+            "en-US": "Ah ha (electrocuted by jellyfish)",
+            "zh-CN": "啊哈（被水母电）",
+            "ja-JP": "あは（クラゲに電気ショック）"
+          }
+        },
+        {
+          "name": "Ah, feels good",
+          "path": "啊舒服了.MP3",
+          "description": {
+            "en-US": "Ah, feels good",
+            "zh-CN": "啊舒服了",
+            "ja-JP": "ああ、気持ちいい"
+          }
+        },
+        {
+          "name": "Ah, ah! Ha~ (joyful)",
+          "path": "啊，啊！哈~（喜悦）.MP3",
+          "description": {
+            "en-US": "Ah, ah! Ha~ (joyful)",
+            "zh-CN": "啊，啊！哈~（喜悦）",
+            "ja-JP": "ああ、あ！は～（喜び）"
+          }
+        },
+        {
+          "name": "Ah, ah (electrocuted by jellyfish)",
+          "path": "啊，啊（被水母电）.MP3",
+          "description": {
+            "en-US": "Ah, ah (electrocuted by jellyfish)",
+            "zh-CN": "啊，啊（被水母电）",
+            "ja-JP": "ああ、あ（クラゲに電気ショック）"
+          }
+        },
+        {
+          "name": "Hello, hello, hello, how’s the sound?",
+          "path": "喂喂喂声音怎么样的说.MP3",
+          "description": {
+            "en-US": "Hello, hello, hello, how’s the sound?",
+            "zh-CN": "喂喂喂声音怎么样的说",
+            "ja-JP": "もしもし、もしもし、もしもし、音はどうですか？"
+          }
+        },
+        {
+          "name": "Happy",
+          "path": "嗨皮了.MP3",
+          "description": {
+            "en-US": "Happy",
+            "zh-CN": "嗨皮了",
+            "ja-JP": "ハッピー"
+          }
+        },
+        {
+          "name": "Hmm, hmm (petting small animal)",
+          "path": "嗯哟哟哟（抚摸小动物）.MP3",
+          "description": {
+            "en-US": "Hmm, hmm (petting small animal)",
+            "zh-CN": "嗯哟哟哟（抚摸小动物）",
+            "ja-JP": "うーん、うーん（小動物を撫でる）"
+          }
+        },
+        {
+          "name": "Oh, you’re a little jerk",
+          "path": "嗷哎呀你这个贱人.MP3",
+          "description": {
+            "en-US": "Oh, you’re a little jerk",
+            "zh-CN": "嗷哎呀你这个贱人",
+            "ja-JP": "ああ、このやろう"
+          }
+        },
+        {
+          "name": "Mom",
+          "path": "妈妈.MP3",
+          "description": {
+            "en-US": "Mom",
+            "zh-CN": "妈妈",
+            "ja-JP": "ママ"
+          }
+        },
+        {
+          "name": "Kids (diving version)",
+          "path": "孩子们（潜水版）.MP3",
+          "description": {
+            "en-US": "Kids",
+            "zh-CN": "孩子们",
+            "ja-JP": "子供たち"
+          }
+        },
+        {
+          "name": "Baby (old man’s voice)",
+          "path": "宝宝（老人音）.MP3",
+          "description": {
+            "en-US": "Baby (old man’s voice)",
+            "zh-CN": "宝宝（老人音）",
+            "ja-JP": "赤ちゃん（老人の声）"
+          }
+        },
+        {
+          "name": "How do you get in, please?",
+          "path": "怎么进去啊请问.MP3",
+          "description": {
+            "en-US": "How do you get in, please?",
+            "zh-CN": "怎么进去啊请问",
+            "ja-JP": "どうやって入るの？教えてください"
+          }
+        },
+        {
+          "name": "Feels like my teammate is dragging me down",
+          "path": "感觉队友拖累了我.MP3",
+          "description": {
+            "en-US": "Feels like my teammate is dragging me down",
+            "zh-CN": "感觉队友拖累了我",
+            "ja-JP": "チームメイトが私を引き下げている感じがする"
+          }
+        },
+        {
+          "name": "I’m not delicious",
+          "path": "我不好吃.MP3",
+          "description": {
+            "en-US": "I’m not delicious",
+            "zh-CN": "我不好吃",
+            "ja-JP": "私は美味しくない"
+          }
+        },
+        {
+          "name": "I’m heading to the entrance",
+          "path": "我前往入口.MP3",
+          "description": {
+            "en-US": "I’m heading to the entrance",
+            "zh-CN": "我前往入口",
+            "ja-JP": "入口に向かっています"
+          }
+        },
+        {
+          "name": "I feel so uncomfortable, so uncomfortable~",
+          "path": "我好难受啊好难受啊~.MP3",
+          "description": {
+            "en-US": "I feel so uncomfortable, so uncomfortable~",
+            "zh-CN": "我好难受啊好难受啊~",
+            "ja-JP": "とても不快、すごく不快〜"
+          }
+        },
+        {
+          "name": "How can I take it away, ah, ah, ah",
+          "path": "我怎么才能把它带走啊啊啊啊.MP3",
+          "description": {
+            "en-US": "How can I take it away, ah, ah, ah",
+            "zh-CN": "我怎么才能把它带走啊啊啊啊",
+            "ja-JP": "どうやってそれを持っていけるの、あ、あ、あ"
+          }
+        },
+        {
+          "name": "I’m going to end the broadcast and start eating alone",
+          "path": "我要下播了开始吃独食时间了.MP3",
+          "description": {
+            "en-US": "I’m going to end the broadcast and start eating alone",
+            "zh-CN": "我要下播了开始吃独食时间了",
+            "ja-JP": "放送を終わらせて、一人で食べ始めるね"
+          }
+        },
+        {
+          "name": "Pick at your eyeballs, touch your big butt",
+          "path": "抠抠你的眼珠子，摸摸你的大屁股.MP3",
+          "description": {
+            "en-US": "Pick at your eyeballs, touch your big butt",
+            "zh-CN": "抠抠你的眼珠子，摸摸你的大屁股",
+            "ja-JP": "目玉をつついて、お尻を触って"
+          }
+        },
+        {
+          "name": "Here we go",
+          "path": "来咯来咯.MP3",
+          "description": {
+            "en-US": "Here we go",
+            "zh-CN": "来咯来咯",
+            "ja-JP": "行くぞ"
+          }
+        },
+        {
+          "name": "Get lost!",
+          "path": "滚！.MP3",
+          "description": {
+            "en-US": "Get lost!",
+            "zh-CN": "滚！",
+            "ja-JP": "出て行け！"
+          }
+        },
+        {
+          "name": "Wait a moment, ah! (urgent)",
+          "path": "等一下嘛，啊！（急）.MP3",
+          "description": {
+            "en-US": "Wait a moment, ah! (urgent)",
+            "zh-CN": "等一下嘛，啊！（急）",
+            "ja-JP": "ちょっと待って、あ！(急いで)"
+          }
+        },
+        {
+          "name": "Red warmth, red warmth, I’m also quite red warmth, get lost",
+          "path": "红温都红温我也挺红温的，滚.MP3",
+          "description": {
+            "en-US": "Red warmth, red warmth, I’m also quite red warmth, get lost",
+            "zh-CN": "红温都红温我也挺红温的，滚",
+            "ja-JP": "赤い温もり、赤い温もり、私もかなり赤い温もりだ、出て行け"
+          }
+        },
+        {
+          "name": "Can’t you set up a teleport point? I really need it",
+          "path": "能不能搞个传送点我很需要.MP3",
+          "description": {
+            "en-US": "Can’t you set up a teleport point? I really need it",
+            "zh-CN": "能不能搞个传送点我很需要",
+            "ja-JP": "テレポートポイントを設置できませんか？本当に必要です"
+          }
+        },
+        {
+          "name": "The most beautiful woman I’ve seen but I’m too shy",
+          "path": "见到过最漂亮的一个女人但是自闭.MP3",
+          "description": {
+            "en-US": "The most beautiful woman I’ve seen but I’m too shy",
+            "zh-CN": "见到过最漂亮的一个女人但是自闭",
+            "ja-JP": "今まで見た中で最も美しい女性だけど、私は内気だ"
+          }
+        },
+        {
+          "name": "Let me in, buddy",
+          "path": "让我进去吧，哥们.MP3",
+          "description": {
+            "en-US": "Let me in, buddy",
+            "zh-CN": "让我进去吧，哥们",
+            "ja-JP": "入れてくれ、友達"
+          }
+        },
+        {
+          "name": "Can you keep up with my speed?",
+          "path": "跟得上我的speed吗.MP3",
+          "description": {
+            "en-US": "Can you keep up with my speed?",
+            "zh-CN": "跟得上我的speed吗",
+            "ja-JP": "私のスピードについてこれる？"
+          }
+        },
+        {
+          "name": "Deeper",
+          "path": "还要再深一点.MP3",
+          "description": {
+            "en-US": "Deeper",
+            "zh-CN": "还要再深一点",
+            "ja-JP": "もっと深く"
+          }
+        },
+        {
+          "name": "So much, how to deal with so much",
+          "path": "这么，多，怎么收拾啊这么多.MP3",
+          "description": {
+            "en-US": "So much, how to deal with so much",
+            "zh-CN": "这么，多，怎么收拾啊这么多",
+            "ja-JP": "こんなに、どうやって対処するの？こんなにたくさん"
+          }
+        },
+        {
+          "name": "I really don’t know how to play this game",
+          "path": "这游戏我真不知道怎么玩.MP3",
+          "description": {
+            "en-US": "I really don’t know how to play this game",
+            "zh-CN": "这游戏我真不知道怎么玩",
+            "ja-JP": "このゲームの遊び方が本当に分からない"
+          }
+        },
+        {
+          "name": "What to do, I can’t find it",
+          "path": "那怎么办我找不着了.MP3",
+          "description": {
+            "en-US": "What to do, I can’t find it",
+            "zh-CN": "那怎么办我找不着了",
+            "ja-JP": "どうしよう、見つからない"
+          }
+        },
+        {
+          "name": "Bottle cork popping sound?",
+          "path": "（拔瓶塞音效？）.MP3",
+          "description": {
+            "en-US": "Bottle cork popping sound?",
+            "zh-CN": "（拔瓶塞音效？）",
+            "ja-JP": "（ボトルコルクの音？）"
+          }
+        }
+      ]
+    },
+    {
       "categoryName": "suiSong",
       "categoryDescription": {
         "en-US": "Song",
