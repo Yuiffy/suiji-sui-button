@@ -1403,10 +1403,10 @@
       ]
     },
     {
-      "categoryName": "fishGaming 3D mic",
+      "categoryName": "fishGaming 3D mic P1",
       "categoryDescription": {
-        "en-US": "Fish Gaming 3D mic",
-        "zh-CN": "人头麦戴夫"
+        "en-US": "Fish Gaming 3D mic P1",
+        "zh-CN": "人头麦戴夫P1"
       },
       "voiceList": [
         {
@@ -1884,6 +1884,708 @@
             "en-US": "Bottle cork popping sound?",
             "zh-CN": "（拔瓶塞音效？）",
             "ja-JP": "（ボトルコルクの音？）"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "fishGaming 3D mic P2",
+      "categoryDescription": {
+        "en-US": "Fish Gaming 3D mic P2",
+        "zh-CN": "人头麦戴夫P2"
+      },
+      "voiceList": [
+        {
+          "name": "happy happy happy",
+          "path": "happy happy happy.MP3",
+          "description": {
+            "en-US": "happy happy happy",
+            "zh-CN": "happy happy happy",
+            "ja-JP": "ハッピー ハッピー ハッピー"
+          }
+        },
+        {
+          "name": "Shift, if you keep doing this, Ill run out of oxygen",
+          "path": "shift你再这样搞我要没有氧气了.MP3",
+          "description": {
+            "en-US": "Shift, if you keep doing this, I'll run out of oxygen",
+            "zh-CN": "shift你再这样搞我要没有氧气了",
+            "ja-JP": "Shift、こんなことを続けると酸素がなくなってしまう"
+          }
+        },
+        {
+          "name": "No~",
+          "path": "不要~.MP3",
+          "description": {
+            "en-US": "No~",
+            "zh-CN": "不要~",
+            "ja-JP": "いや~"
+          }
+        },
+        {
+          "name": "No, no, no (chased by anglerfish)",
+          "path": "不要不要不要啊（被鮟鱇鱼追）.MP3",
+          "description": {
+            "en-US": "No, no, no (chased by anglerfish)",
+            "zh-CN": "不要不要不要啊（被鮟鱇鱼追）",
+            "ja-JP": "いや、いや、いや（アンコウに追われて）"
+          }
+        },
+        {
+          "name": "No, no, no (chased by sawshark)",
+          "path": "不要不要不要（被锯齿鲨追）.MP3",
+          "description": {
+            "en-US": "No, no, no (chased by sawshark)",
+            "zh-CN": "不要不要不要（被锯齿鲨追）",
+            "ja-JP": "いや、いや、いや（ノコギリザメに追われて）"
+          }
+        },
+        {
+          "name": "Stop biting me, I’m already gone ↑",
+          "path": "不要咬我了我不是都走了嘛↑.MP3",
+          "description": {
+            "en-US": "Stop biting me, I’m already gone ↑",
+            "zh-CN": "不要咬我了我不是都走了嘛↑",
+            "ja-JP": "もう噛まないで、私はもう行ってしまったのに↑"
+          }
+        },
+        {
+          "name": "Don’t do this, okay x2",
+          "path": "不要这样好吗x2.MP3",
+          "description": {
+            "en-US": "Don’t do this, okay x2",
+            "zh-CN": "不要这样好吗x2",
+            "ja-JP": "これをしないでね x2"
+          }
+        },
+        {
+          "name": "Just kill me already, why follow me",
+          "path": "你把我杀了算了你，还要跟到哪.MP3",
+          "description": {
+            "en-US": "Just kill me already, why follow me",
+            "zh-CN": "你把我杀了算了你，还要跟到哪",
+            "ja-JP": "とっとと殺してくれ、なんで追いかけてくるの？"
+          }
+        },
+        {
+          "name": "Do you know ↑?",
+          "path": "你知↑道吗？.MP3",
+          "description": {
+            "en-US": "Do you know ↑?",
+            "zh-CN": "你知↑道吗？",
+            "ja-JP": "知ってる？↑"
+          }
+        },
+        {
+          "name": "Another baby, your companions are gone, so lonely",
+          "path": "再来一只宝宝你的同伴都走了留你一个很寂寞.MP3",
+          "description": {
+            "en-US": "Another baby, your companions are gone, so lonely",
+            "zh-CN": "再来一只宝宝你的同伴都走了留你一个很寂寞",
+            "ja-JP": "もう一匹赤ちゃん、仲間はみんな行ってしまった、一人で寂しいね"
+          }
+        },
+        {
+          "name": "Don’t rush, okay",
+          "path": "别急好吗.MP3",
+          "description": {
+            "en-US": "Don’t rush, okay",
+            "zh-CN": "别急好吗",
+            "ja-JP": "急がないで、お願い"
+          }
+        },
+        {
+          "name": "Don’t rush, I’m also anxious",
+          "path": "别急我也很急.MP3",
+          "description": {
+            "en-US": "Don’t rush, I’m also anxious",
+            "zh-CN": "别急我也很急",
+            "ja-JP": "急がないで、私も焦ってる"
+          }
+        },
+        {
+          "name": "No, don’t (angry tone)",
+          "path": "别，不要（气音）.MP3",
+          "description": {
+            "en-US": "No, don’t (angry tone)",
+            "zh-CN": "别，不要（气音）",
+            "ja-JP": "いや、やめて（怒った口調）"
+          }
+        },
+        {
+          "name": "Uh ah ah (baby crying)",
+          "path": "呃啊啊（宝宝哭）.MP3",
+          "description": {
+            "en-US": "Uh ah ah (baby crying)",
+            "zh-CN": "呃啊啊（宝宝哭）",
+            "ja-JP": "うーあーあー（赤ちゃんが泣いている）"
+          }
+        },
+        {
+          "name": "Goo goo~ goo goo~ (happy)",
+          "path": "咕咕~咕咕~（开心）.MP3",
+          "description": {
+            "en-US": "Goo goo~ goo goo~ (happy)",
+            "zh-CN": "咕咕~咕咕~（开心）",
+            "ja-JP": "グーグー~グーグー~（幸せ）"
+          }
+        },
+        {
+          "name": "Wow, so comfortable, tonight I’m going to make a lot of money (laughs) so excited",
+          "path": "哇舒服我去，今晚又要赚大米了（笑嘻）好兴奋.MP3",
+          "description": {
+            "en-US": "Wow, so comfortable, tonight I’m going to make a lot of money (laughs) so excited",
+            "zh-CN": "哇舒服我去，今晚又要赚大米了（笑嘻）好兴奋",
+            "ja-JP": "わあ、気持ちいい、今夜またたくさんお金を稼ぐぞ（笑い）すごく興奮してる"
+          }
+        },
+        {
+          "name": "Hahaha (chubby laugh)",
+          "path": "哈哈哈（肥宅笑声）.MP3",
+          "description": {
+            "en-US": "Hahaha (chubby laugh)",
+            "zh-CN": "哈哈哈（肥宅笑声）",
+            "ja-JP": "ハハハ（デブの笑い声）"
+          }
+        },
+        {
+          "name": "Oh no, don’t grab me",
+          "path": "哎呀别啊你别你别你别抓我.MP3",
+          "description": {
+            "en-US": "Oh no, don’t grab me",
+            "zh-CN": "哎呀别啊你别你别你别抓我",
+            "ja-JP": "ああ、やめて、掴まないで"
+          }
+        },
+        {
+          "name": "Oh my, babies",
+          "path": "哎呀天呐宝宝们.MP3",
+          "description": {
+            "en-US": "Oh my, babies",
+            "zh-CN": "哎呀天呐宝宝们",
+            "ja-JP": "ああ、天よ、赤ちゃんたち"
+          }
+        },
+        {
+          "name": "Oh, it hurts",
+          "path": "哎呀好痛啊.MP3",
+          "description": {
+            "en-US": "Oh, it hurts",
+            "zh-CN": "哎呀好痛啊",
+            "ja-JP": "ああ、痛い"
+          }
+        },
+        {
+          "name": "Oh no",
+          "path": "哎呀完了.MP3",
+          "description": {
+            "en-US": "Oh no",
+            "zh-CN": "哎呀完了",
+            "ja-JP": "ああ、終わった"
+          }
+        },
+        {
+          "name": "Oh, ah, ah, ah (seems like)",
+          "path": "哎哎嘎啊啊啊（似了）.MP3",
+          "description": {
+            "en-US": "Oh, ah, ah, ah (seems like)",
+            "zh-CN": "哎哎嘎啊啊啊（似了）",
+            "ja-JP": "ああ、ああ、ああ（似ている）"
+          }
+        },
+        {
+          "name": "Oh no! (attacked by tiger shark)",
+          "path": "哎哎！（被虎鲨冲锋）.MP3",
+          "description": {
+            "en-US": "Oh no! (attacked by tiger shark)",
+            "zh-CN": "哎哎！（被虎鲨冲锋）",
+            "ja-JP": "ああ！（タイガーシャークに突撃されて）"
+          }
+        },
+        {
+          "name": "Oh, didn’t press it",
+          "path": "哎没按下去.MP3",
+          "description": {
+            "en-US": "Oh, didn’t press it",
+            "zh-CN": "哎没按下去",
+            "ja-JP": "ああ、押さなかった"
+          }
+        },
+        {
+          "name": "Oh~ don’t, don’t",
+          "path": "哦~别别别你不要.MP3",
+          "description": {
+            "en-US": "Oh~ don’t, don’t",
+            "zh-CN": "哦~别别别你不要",
+            "ja-JP": "おお~やめて、やめて"
+          }
+        },
+        {
+          "name": "Oh ↓ yo ↑",
+          "path": "哦↓哟↑.MP3",
+          "description": {
+            "en-US": "Oh ↓ yo ↑",
+            "zh-CN": "哦↓哟↑",
+            "ja-JP": "おお ↓ よ ↑"
+          }
+        },
+        {
+          "name": "Oh um um um (excited)",
+          "path": "哦唔唔唔（兴奋）.MP3",
+          "description": {
+            "en-US": "Oh um um um (excited)",
+            "zh-CN": "哦唔唔唔（兴奋）",
+            "ja-JP": "おおうむむむ（興奮して）"
+          }
+        },
+        {
+          "name": "Oh, Im so happy, can I really be this happy",
+          "path": "哦我好幸福，我真的可以这么幸福吗.MP3",
+          "description": {
+            "en-US": "Oh, I’m so happy, can I really be this happy?",
+            "zh-CN": "哦我好幸福，我真的可以这么幸福吗",
+            "ja-JP": "ああ、私はとても幸せ、こんなに幸せになっていいのかな？"
+          }
+        },
+        {
+          "name": "Oh, oh, oh (afraid), ah, uh (bitten by shark)",
+          "path": "哦，哦，哦（怕）啊呃呃（被鲨鱼咬）.MP3",
+          "description": {
+            "en-US": "Oh, oh, oh (afraid), ah, uh (bitten by shark)",
+            "zh-CN": "哦，哦，哦（怕）啊呃呃（被鲨鱼咬）",
+            "ja-JP": "おお、おお、おお（怖い）、ああ、うー（サメに噛まれて）"
+          }
+        },
+        {
+          "name": "Ah~ ah ↑~ (tiger shark QTE)",
+          "path": "啊~啊↑~（虎鲨QTE）.MP3",
+          "description": {
+            "en-US": "Ah~ ah ↑~ (tiger shark QTE)",
+            "zh-CN": "啊~啊↑~（虎鲨QTE）",
+            "ja-JP": "ああ~ ああ ↑~（タイガーシャークのQTE）"
+          }
+        },
+        {
+          "name": "Ah, two shots and dead, so comfortable",
+          "path": "啊两枪就死了好爽.MP3",
+          "description": {
+            "en-US": "Ah, two shots and dead, so comfortable",
+            "zh-CN": "啊两枪就死了好爽",
+            "ja-JP": "ああ、二発で死んでしまった、すごく気持ちいい"
+          }
+        },
+        {
+          "name": "Ah ha uh ah ha (crying)",
+          "path": "啊哈呃啊哈（哭哭）.MP3",
+          "description": {
+            "en-US": "Ah ha uh ah ha (crying)",
+            "zh-CN": "啊哈呃啊哈（哭哭）",
+            "ja-JP": "ああ、うー、ああ（泣いている）"
+          }
+        },
+        {
+          "name": "Ah, ah, no, wrong",
+          "path": "啊啊不要错了错了.MP3",
+          "description": {
+            "en-US": "Ah, ah, no, wrong",
+            "zh-CN": "啊啊不要错了错了",
+            "ja-JP": "ああ、ああ、いや、間違えた"
+          }
+        },
+        {
+          "name": "Ah, ah ah~ go to hell",
+          "path": "啊啊啊~我去你的.MP3",
+          "description": {
+            "en-US": "Ah, ah ah~ go to hell",
+            "zh-CN": "啊啊啊~我去你的",
+            "ja-JP": "ああ、ああ~くたばれ"
+          }
+        },
+        {
+          "name": "Ah pff (disdain)",
+          "path": "啊噗（不屑）.MP3",
+          "description": {
+            "en-US": "Ah pff (disdain)",
+            "zh-CN": "啊噗（不屑）",
+            "ja-JP": "ああ、ふっ（軽蔑）"
+          }
+        },
+        {
+          "name": "Ah, uh, uh (straining)",
+          "path": "啊，呃，呃（使劲）.MP3",
+          "description": {
+            "en-US": "Ah, uh, uh (straining)",
+            "zh-CN": "啊，呃，呃（使劲）",
+            "ja-JP": "ああ、うー、うー（力を入れて）"
+          }
+        },
+        {
+          "name": "Drink! (energetic)",
+          "path": "喝！（中气十足）.MP3",
+          "description": {
+            "en-US": "Drink! (energetic)",
+            "zh-CN": "喝！（中气十足）",
+            "ja-JP": "飲め！（元気いっぱい）"
+          }
+        },
+        {
+          "name": "Meow",
+          "path": "喵的.MP3",
+          "description": {
+            "en-US": "Meow",
+            "zh-CN": "喵的",
+            "ja-JP": "ニャー"
+          }
+        },
+        {
+          "name": "Click, uh (can’t press left key)",
+          "path": "嗑，呃呃（按不下左键）.MP3",
+          "description": {
+            "en-US": "Click, uh (can’t press left key)",
+            "zh-CN": "嗑，呃呃（按不下左键）",
+            "ja-JP": "クリック、うー（左キーが押せない）"
+          }
+        },
+        {
+          "name": "So similar, I’m going (dumb)",
+          "path": "好想似啊我去（哑）.MP3",
+          "description": {
+            "en-US": "So similar, I’m going (dumb)",
+            "zh-CN": "好想似啊我去（哑）",
+            "ja-JP": "すごく似ている、行ってしまう（おバカ）"
+          }
+        },
+        {
+          "name": "Okay",
+          "path": "好的.MP3",
+          "description": {
+            "en-US": "Okay",
+            "zh-CN": "好的",
+            "ja-JP": "わかった"
+          }
+        },
+        {
+          "name": "Kid, are you still hungry?",
+          "path": "孩子你是不是没吃饱啊.MP3",
+          "description": {
+            "en-US": "Kid, are you still hungry?",
+            "zh-CN": "孩子你是不是没吃饱啊",
+            "ja-JP": "子供、お腹が空いているの？"
+          }
+        },
+        {
+          "name": "Just carry on with the burden",
+          "path": "就这么负重前行吧.MP3",
+          "description": {
+            "en-US": "Just carry on with the burden",
+            "zh-CN": "就这么负重前行吧",
+            "ja-JP": "このまま重荷を背負って進むだけ"
+          }
+        },
+        {
+          "name": "What’s up? (Jia Jia)",
+          "path": "干嘛？（嘉嘉）.MP3",
+          "description": {
+            "en-US": "What’s up? (Jia Jia)",
+            "zh-CN": "干嘛？（嘉嘉）",
+            "ja-JP": "何？（ジャジャ）"
+          }
+        },
+        {
+          "name": "Come quickly, teach me",
+          "path": "快来快来教我.MP3",
+          "description": {
+            "en-US": "Come quickly, teach me",
+            "zh-CN": "快来快来教我",
+            "ja-JP": "早く来て、教えて"
+          }
+        },
+        {
+          "name": "(rapid breathing) (bitten by tiger shark)",
+          "path": "（高速呼吸）（被虎鲨咬）.MP3",
+          "description": {
+            "en-US": "(rapid breathing) (bitten by tiger shark)",
+            "zh-CN": "（高速呼吸）（被虎鲨咬）",
+            "ja-JP": "（速い呼吸）（タイガーシャークに噛まれる）"
+          }
+        },
+        {
+          "name": "Quick breathing",
+          "path": "快速呼吸长.MP3",
+          "description": {
+            "en-US": "Quick breathing",
+            "zh-CN": "快速呼吸长",
+            "ja-JP": "速い呼吸"
+          }
+        },
+        {
+          "name": "Why is there no damage, but I’m injured?",
+          "path": "怎么谁也没有伤害但是我自己受伤了.MP3",
+          "description": {
+            "en-US": "Why is there no damage, but I’m injured?",
+            "zh-CN": "怎么谁也没有伤害但是我自己受伤了",
+            "ja-JP": "どうして誰もダメージを与えていないのに、私だけが怪我しているの？"
+          }
+        },
+        {
+          "name": "So, still need more?",
+          "path": "总之还是要再来一些是么.MP3",
+          "description": {
+            "en-US": "So, still need more?",
+            "zh-CN": "总之还是要再来一些是么",
+            "ja-JP": "結局、まだ必要なの？"
+          }
+        },
+        {
+          "name": "I’m so rich",
+          "path": "我太有钱了呀.MP3",
+          "description": {
+            "en-US": "I’m so rich",
+            "zh-CN": "我太有钱了呀",
+            "ja-JP": "私はとてもお金持ちだ"
+          }
+        },
+        {
+          "name": "I can’t beat you? Are you kidding me, baby",
+          "path": "我打不过？你开什么玩笑啊宝宝.MP3",
+          "description": {
+            "en-US": "I can’t beat you? Are you kidding me, baby",
+            "zh-CN": "我打不过？你开什么玩笑啊宝宝",
+            "ja-JP": "私があなたに勝てない？冗談でしょう、赤ちゃん"
+          }
+        },
+        {
+          "name": "I think I’m almost graduating",
+          "path": "我觉得我快要毕业了.MP3",
+          "description": {
+            "en-US": "I think I’m almost graduating",
+            "zh-CN": "我觉得我快要毕业了",
+            "ja-JP": "もうすぐ卒業しそうだと思う"
+          }
+        },
+        {
+          "name": "Who will I meet and what will the conversation be",
+          "path": "我遇见谁会有怎样的对白.MP3",
+          "description": {
+            "en-US": "Who will I meet and what will the conversation be",
+            "zh-CN": "我遇见谁会有怎样的对白",
+            "ja-JP": "誰に会って、どんな会話になるのか"
+          }
+        },
+        {
+          "name": "I’m sorry (angry tone)",
+          "path": "我错了（气音）.MP3",
+          "description": {
+            "en-US": "I’m sorry (angry tone)",
+            "zh-CN": "我错了（气音）",
+            "ja-JP": "ごめんなさい（怒った口調）"
+          }
+        },
+        {
+          "name": "Funny, really a bit funny",
+          "path": "搞笑，真是有点搞笑了.MP3",
+          "description": {
+            "en-US": "Funny, really a bit funny",
+            "zh-CN": "搞笑，真是有点搞笑了",
+            "ja-JP": "面白い、ほんとにちょっと面白い"
+          }
+        },
+        {
+          "name": "Did it spill (uh) pretend not to see",
+          "path": "是不是倒掉了（呃）假装没看见吧.MP3",
+          "description": {
+            "en-US": "Did it spill (uh) pretend not to see",
+            "zh-CN": "是不是倒掉了（呃）假装没看见吧",
+            "ja-JP": "こぼれた？（うー）見なかったことにしよう"
+          }
+        },
+        {
+          "name": "Isn’t it urgent, sorry, I’m also very anxious",
+          "path": "是不是很急，对不起我也很急.MP3",
+          "description": {
+            "en-US": "Isn’t it urgent, sorry, I’m also very anxious",
+            "zh-CN": "是不是很急，对不起我也很急",
+            "ja-JP": "急いでいるの？ごめん、私もすごく焦ってる"
+          }
+        },
+        {
+          "name": "Sometimes I feel too much of a genius, so these games are too easy",
+          "path": "有时候觉得自己太天才了所以这些游戏太简单了.MP3",
+          "description": {
+            "en-US": "Sometimes I feel too much of a genius, so these games are too easy",
+            "zh-CN": "有时候觉得自己太天才了所以这些游戏太简单了",
+            "ja-JP": "時々、自分が天才すぎてこれらのゲームが簡単すぎると感じる"
+          }
+        },
+        {
+          "name": "Here they come, kids, come give me money, quickly",
+          "path": "来了孩子们快来给我掏钱快点快点.MP3",
+          "description": {
+            "en-US": "Here they come, kids, come give me money, quickly",
+            "zh-CN": "来了孩子们快来给我掏钱快点快点",
+            "ja-JP": "来た、子供たち、早くお金を渡して"
+          }
+        },
+        {
+          "name": "Here they come, don’t leave, okay, don’t leave, my dish~ so uncomfortable",
+          "path": "来了来了别走好吗别走好吗~我的菜啊~好难受我去.MP3",
+          "description": {
+            "en-US": "Here they come, don’t leave, okay, don’t leave, my dish~ so uncomfortable",
+            "zh-CN": "来了来了别走好吗别走好吗~我的菜啊~好难受我去",
+            "ja-JP": "来た、来た、離れないで、お願い、離れないで、私の料理~とても不快"
+          }
+        },
+        {
+          "name": "Here they come, want some tea? Here they come",
+          "path": "来了来了想喝茶是吧来了来了.MP3",
+          "description": {
+            "en-US": "Here they come, want some tea? Here they come",
+            "zh-CN": "来了来了想喝茶是吧来了来了",
+            "ja-JP": "来た、ティーが欲しいの？来た来た"
+          }
+        },
+        {
+          "name": "Here they come, don’t rush",
+          "path": "来了，来了你别急好吗.MP3",
+          "description": {
+            "en-US": "Here they come, don’t rush",
+            "zh-CN": "来了，来了你别急好吗",
+            "ja-JP": "来た、急がないで"
+          }
+        },
+        {
+          "name": "What to do if nothing can be sacrificed?",
+          "path": "没有可以舍弃的怎么办啊.MP3",
+          "description": {
+            "en-US": "What to do if nothing can be sacrificed?",
+            "zh-CN": "没有可以舍弃的怎么办啊",
+            "ja-JP": "何も捨てられない場合はどうすればいいの？"
+          }
+        },
+        {
+          "name": "Didn’t see, didn’t see, didn’t see",
+          "path": "没看见没看着没看着.MP3",
+          "description": {
+            "en-US": "Didn’t see, didn’t see, didn’t see",
+            "zh-CN": "没看见没看着没看着",
+            "ja-JP": "見なかった、見なかった、見なかった"
+          }
+        },
+        {
+          "name": "Then what?",
+          "path": "然后呢.MP3",
+          "description": {
+            "en-US": "Then what?",
+            "zh-CN": "然后呢",
+            "ja-JP": "それから？"
+          }
+        },
+        {
+          "name": "(laugh out loud)",
+          "path": "（笑出鸭叫）.MP3",
+          "description": {
+            "en-US": "laugh out loud",
+            "zh-CN": "笑出鸭叫",
+            "ja-JP": "笑い出す"
+          }
+        },
+        {
+          "name": "Laugh out duck quack 2",
+          "path": "笑出鸭叫2.MP3",
+          "description": {
+            "en-US": "Laugh out duck quack 2",
+            "zh-CN": "笑出鸭叫2",
+            "ja-JP": "笑い出すアヒルの鳴き声2"
+          }
+        },
+        {
+          "name": "Laugh out duck quack 3",
+          "path": "笑出鸭叫3.MP3",
+          "description": {
+            "en-US": "Laugh out duck quack 3",
+            "zh-CN": "笑出鸭叫3",
+            "ja-JP": "笑い出すアヒルの鳴き声3"
+          }
+        },
+        {
+          "name": "Laugh out loud 4",
+          "path": "笑出鸭叫4.MP3",
+          "description": {
+            "en-US": "Laugh out loud 4",
+            "zh-CN": "笑出鸭叫4",
+            "ja-JP": "笑い出す4"
+          }
+        },
+        {
+          "name": "Yay~ woo~ woof~ heehee",
+          "path": "耶~呜~汪~嘻嘻.MP3",
+          "description": {
+            "en-US": "Yay~ woo~ woof~ heehee",
+            "zh-CN": "耶~呜~汪~嘻嘻",
+            "ja-JP": "やった〜、うー、ワン、ひひ"
+          }
+        },
+        {
+          "name": "Speaking in藏话",
+          "path": "说藏话了.MP3",
+          "description": {
+            "en-US": "Speaking in藏话",
+            "zh-CN": "说藏话了",
+            "ja-JP": "藏话で話す"
+          }
+        },
+        {
+          "name": "Hurry and get that",
+          "path": "赶紧来个那个吧.MP3",
+          "description": {
+            "en-US": "Hurry and get that",
+            "zh-CN": "赶紧来个那个吧",
+            "ja-JP": "急いでそれを手に入れて"
+          }
+        },
+        {
+          "name": "What is this again?",
+          "path": "这个又是什么啊.MP3",
+          "description": {
+            "en-US": "What is this again?",
+            "zh-CN": "这个又是什么啊",
+            "ja-JP": "これまた何？"
+          }
+        },
+        {
+          "name": "Tuna, tuna, we love you",
+          "path": "金枪鱼金枪鱼我们喜欢你.MP3",
+          "description": {
+            "en-US": "Tuna, tuna, we love you",
+            "zh-CN": "金枪鱼金枪鱼我们喜欢你",
+            "ja-JP": "マグロ、マグロ、私たちはあなたが好き"
+          }
+        },
+        {
+          "name": "Tuna, tuna, my favorite tuna",
+          "path": "金枪鱼金枪鱼我最爱的金枪鱼.MP3",
+          "description": {
+            "en-US": "Tuna, tuna, my favorite tuna",
+            "zh-CN": "金枪鱼金枪鱼我最爱的金枪鱼",
+            "ja-JP": "マグロ、マグロ、私の大好きなマグロ"
+          }
+        },
+        {
+          "name": "Looks like a little penguin",
+          "path": "长得像小企鹅似的.MP3",
+          "description": {
+            "en-US": "Looks like a little penguin",
+            "zh-CN": "长得像小企鹅似的",
+            "ja-JP": "小さなペンギンのように見える"
+          }
+        },
+        {
+          "name": "Not eating, not knowing what to do, keeps calling",
+          "path": "饭也不吃不知道想干嘛一直叫.MP3",
+          "description": {
+            "en-US": "Not eating, not knowing what to do, keeps calling",
+            "zh-CN": "饭也不吃不知道想干嘛一直叫",
+            "ja-JP": "食べない、何をしたいのかわからない、ずっと呼び続ける"
           }
         }
       ]
