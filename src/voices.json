@@ -2587,6 +2587,213 @@
             "zh-CN": "饭也不吃不知道想干嘛一直叫",
             "ja-JP": "食べない、何をしたいのかわからない、ずっと呼び続ける"
           }
+        },
+        {
+          "name": "tm",
+          "path": "tm.MP3",
+          "description": {
+            "en-US": "tm",
+            "zh-CN": "tm",
+            "ja-JP": "tm"
+          }
+        },
+        {
+          "name": "Don’t suck me, your mouth stinks",
+          "path": "不要吸我，好臭啊你嘴巴.MP3",
+          "description": {
+            "en-US": "Don’t suck me, your mouth stinks",
+            "zh-CN": "不要吸我，好臭啊你嘴巴",
+            "ja-JP": "吸わないで、口が臭いよ"
+          }
+        },
+        {
+          "name": "Your death is near",
+          "path": "你死期将近.MP3",
+          "description": {
+            "en-US": "Your death is near",
+            "zh-CN": "你死期将近",
+            "ja-JP": "あなたの死期が近い"
+          }
+        },
+        {
+          "name": "You ask for too much, child, really greedy",
+          "path": "你要的也太多了孩子，真是有够贪心.MP3",
+          "description": {
+            "en-US": "You ask for too much, child, really greedy",
+            "zh-CN": "你要的也太多了孩子，真是有够贪心",
+            "ja-JP": "君の要求は多すぎるよ、子供、本当に貪欲だ"
+          }
+        },
+        {
+          "name": "Oh don’t blow me",
+          "path": "哎别吹我.MP3",
+          "description": {
+            "en-US": "Oh don’t blow me",
+            "zh-CN": "哎别吹我",
+            "ja-JP": "ああ、吹かないで"
+          }
+        },
+        {
+          "name": "Oh~ (seeing shark)",
+          "path": "哎呀~（看到鲨鱼）.MP3",
+          "description": {
+            "en-US": "Oh~ (seeing shark)",
+            "zh-CN": "哎呀~（看到鲨鱼）",
+            "ja-JP": "ああ〜（サメを見て）"
+          }
+        },
+        {
+          "name": "Oh really really",
+          "path": "哎呀真的真的.MP3",
+          "description": {
+            "en-US": "Oh really really",
+            "zh-CN": "哎呀真的真的",
+            "ja-JP": "ああ、本当に本当に"
+          }
+        },
+        {
+          "name": "Oh, oh, oh (picking up bullets)",
+          "path": "哦，哦，哦（捡子弹）.MP3",
+          "description": {
+            "en-US": "Oh, oh, oh (picking up bullets)",
+            "zh-CN": "哦，哦，哦（捡子弹）",
+            "ja-JP": "おお、おお、おお（弾を拾う）"
+          }
+        },
+        {
+          "name": "Hmm don’t eat me I don’t taste good",
+          "path": "嗯不要吃我我不好吃.MP3",
+          "description": {
+            "en-US": "Hmm don’t eat me I don’t taste good",
+            "zh-CN": "嗯不要吃我我不好吃",
+            "ja-JP": "うーん、食べないで、私は美味しくない"
+          }
+        },
+        {
+          "name": "Its butt is leaking out for such a short time, can I only shoot its butt?",
+          "path": "它屁股漏出来只有这么一小会，我只能射他屁股吗是.MP3",
+          "description": {
+            "en-US": "Its butt is leaking out for such a short time, can I only shoot its butt?",
+            "zh-CN": "它屁股漏出来只有这么一小会，我只能射他屁股吗是",
+            "ja-JP": "お尻がこんなに短時間で漏れちゃうなんて、私はお尻しか撃てないの？"
+          }
+        },
+        {
+          "name": "Come on, hmm",
+          "path": "快来嘛嗯.MP3",
+          "description": {
+            "en-US": "Come on, hmm",
+            "zh-CN": "快来嘛嗯",
+            "ja-JP": "来て、うーん"
+          }
+        },
+        {
+          "name": "What to do?",
+          "path": "怎么办呢.MP3",
+          "description": {
+            "en-US": "What to do?",
+            "zh-CN": "怎么办呢",
+            "ja-JP": "どうしよう？"
+          }
+        },
+        {
+          "name": "I’m ashore, I am",
+          "path": "我上岸了我就.MP3",
+          "description": {
+            "en-US": "I’m ashore, I am",
+            "zh-CN": "我上岸了我就",
+            "ja-JP": "私は陸に上がった、私は"
+          }
+        },
+        {
+          "name": "I’m using the hook",
+          "path": "我在用钩子.MP3",
+          "description": {
+            "en-US": "I’m using the hook",
+            "zh-CN": "我在用钩子",
+            "ja-JP": "私はフックを使っている"
+          }
+        },
+        {
+          "name": "I want to eat your meat",
+          "path": "我要吃你的肉.MP3",
+          "description": {
+            "en-US": "I want to eat your meat",
+            "zh-CN": "我要吃你的肉",
+            "ja-JP": "あなたの肉を食べたい"
+          }
+        },
+        {
+          "name": "Do I need to continue working?",
+          "path": "我还需要继续工作吗.MP3",
+          "description": {
+            "en-US": "Do I need to continue working?",
+            "zh-CN": "我还需要继续工作吗",
+            "ja-JP": "私は働き続ける必要がありますか？"
+          }
+        },
+        {
+          "name": "Found the best angle",
+          "path": "找到了最好的角度.MP3",
+          "description": {
+            "en-US": "Found the best angle",
+            "zh-CN": "找到了最好的角度",
+            "ja-JP": "最高の角度を見つけた"
+          }
+        },
+        {
+          "name": "Nobody likes you",
+          "path": "没人喜欢你.MP3",
+          "description": {
+            "en-US": "Nobody likes you",
+            "zh-CN": "没人喜欢你",
+            "ja-JP": "誰もあなたが好きじゃない"
+          }
+        },
+        {
+          "name": "Love and career both prosperous",
+          "path": "爱情事业双丰收.MP3",
+          "description": {
+            "en-US": "Love and career both prosperous",
+            "zh-CN": "爱情事业双丰收",
+            "ja-JP": "愛と仕事の両方が繁栄している"
+          }
+        },
+        {
+          "name": "Finally ah ah ah (crying with emotion)",
+          "path": "终于啊啊啊呃呃呃（感动哭了）.MP3",
+          "description": {
+            "en-US": "Finally ah ah ah (crying with emotion)",
+            "zh-CN": "终于啊啊啊呃呃呃（感动哭了）",
+            "ja-JP": "ついにあああ（感動して泣いた）"
+          }
+        },
+        {
+          "name": "Eh, my r ah ah ah",
+          "path": "诶我r啊啊啊.MP3",
+          "description": {
+            "en-US": "Eh, my r ah ah ah",
+            "zh-CN": "诶我r啊啊啊",
+            "ja-JP": "ええ、私のrあああ"
+          }
+        },
+        {
+          "name": "(sucking sound)",
+          "path": "（嗦嘴巴）.MP3",
+          "description": {
+            "en-US": "(sucking sound)",
+            "zh-CN": "（嗦嘴巴）",
+            "ja-JP": "（吸う音）"
+          }
+        },
+        {
+          "name": "(king of herring) Ribbonfish",
+          "path": "（鲱王皇）带鱼.MP3",
+          "description": {
+            "en-US": "(king of herring) Ribbonfish",
+            "zh-CN": "（鲱王皇）带鱼",
+            "ja-JP": "（ニシン王）タチウオ"
+          }
         }
       ]
     },
