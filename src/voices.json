@@ -2794,6 +2794,15 @@
             "zh-CN": "（鲱王皇）带鱼",
             "ja-JP": "（ニシン王）タチウオ"
           }
+        },
+        {
+          "name": "Oh, almost!",
+          "path": "哎呀差一点啊.MP3",
+          "description": {
+            "en-US": "Oh, almost!",
+            "zh-CN": "哎呀差一点啊",
+            "ja-JP": "ああ、もう少し！"
+          }
         }
       ]
     },
