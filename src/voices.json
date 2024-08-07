@@ -516,6 +516,15 @@
             "zh-CN": "转！",
             "ja-JP": "回して！"
           }
+        },
+        {
+          "name": "What’s so funny?",
+          "path": "哪里好笑啦.MP3",
+          "description": {
+            "en-US": "What’s so funny?",
+            "zh-CN": "哪里好笑啦",
+            "ja-JP": "何がそんなに面白いの？"
+          }
         }
       ]
     },
