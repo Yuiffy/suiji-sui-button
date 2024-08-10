@@ -1408,6 +1408,177 @@
             "zh-CN": "（快速呼吸）",
             "ja-JP": "（急速な呼吸）"
           }
+        },
+        {
+          "name": "I think~",
+          "path": "I think~.MP3",
+          "description": {
+            "en-US": "I think~",
+            "zh-CN": "I think~",
+            "ja-JP": "私は思う〜"
+          }
+        },
+        {
+          "name": "I don’t want to work anymore, I’ve achieved financial freedom",
+          "path": "不想干了，我已经实现财富自由.MP3",
+          "description": {
+            "en-US": "I don’t want to work anymore, I’ve achieved financial freedom",
+            "zh-CN": "不想干了，我已经实现财富自由",
+            "ja-JP": "もう働きたくない、私は経済的自由を達成しました"
+          }
+        },
+        {
+          "name": "I said before I was going to graduate and you all said how impossible",
+          "path": "之前就说要毕业了你们还说怎么可能.MP3",
+          "description": {
+            "en-US": "I said before I was going to graduate and you all said how impossible",
+            "zh-CN": "之前就说要毕业了你们还说怎么可能",
+            "ja-JP": "以前、卒業するって言ったのに、みんなはそんなことできるわけがないと言っていた"
+          }
+        },
+        {
+          "name": "What are you thinking about, my gosh",
+          "path": "你们在想什么啊我的天啊.MP3",
+          "description": {
+            "en-US": "What are you thinking about, my gosh",
+            "zh-CN": "你们在想什么啊我的天啊",
+            "ja-JP": "君たちは何を考えているのか、ああ私の神よ"
+          }
+        },
+        {
+          "name": "Can I choose baby mode?",
+          "path": "可以选宝宝模式么.MP3",
+          "description": {
+            "en-US": "Can I choose baby mode?",
+            "zh-CN": "可以选宝宝模式么",
+            "ja-JP": "ベビーモードを選べますか？"
+          }
+        },
+        {
+          "name": "Boom boom boom boom boom (thinking)",
+          "path": "哄哄哄哄哄（思考）.MP3",
+          "description": {
+            "en-US": "Boom boom boom boom boom (thinking)",
+            "zh-CN": "哄哄哄哄哄（思考）",
+            "ja-JP": "ブンブンブンブン（考え中）"
+          }
+        },
+        {
+          "name": "Oh, an unsatisfied little cat",
+          "path": "唉不知道满足的一个小猫咪.MP3",
+          "description": {
+            "en-US": "Oh, an unsatisfied little cat",
+            "zh-CN": "唉不知道满足的一个小猫咪",
+            "ja-JP": "ああ、満足を知らない小さな猫"
+          }
+        },
+        {
+          "name": "Ah~ (a bit of a loss)",
+          "path": "啊~（有点亏）.MP3",
+          "description": {
+            "en-US": "Ah~ (a bit of a loss)",
+            "zh-CN": "啊~（有点亏）",
+            "ja-JP": "ああ〜（少し損をした）"
+          }
+        },
+        {
+          "name": "Pop pop boom boom~",
+          "path": "啵啵蹦蹦~.MP3",
+          "description": {
+            "en-US": "Pop pop boom boom~",
+            "zh-CN": "啵啵蹦蹦~",
+            "ja-JP": "ポップポップボンボン〜"
+          }
+        },
+        {
+          "name": "Hmm~ hmm~ hmm~ hmm (thinking)",
+          "path": "嗯~嗯~嗯~嗯（思考）.MP3",
+          "description": {
+            "en-US": "Hmm~ hmm~ hmm~ hmm (thinking)",
+            "zh-CN": "嗯~嗯~嗯~嗯（思考）",
+            "ja-JP": "うーん、うーん、うーん、うーん（考え中）"
+          }
+        },
+        {
+          "name": "Hmm~ (sigh)",
+          "path": "嗯~（叹气）.MP3",
+          "description": {
+            "en-US": "Hmm~ (sigh)",
+            "zh-CN": "嗯~（叹气）",
+            "ja-JP": "うーん〜（ため息）"
+          }
+        },
+        {
+          "name": "I’m going to graduate",
+          "path": "我要毕业了.MP3",
+          "description": {
+            "en-US": "I’m going to graduate",
+            "zh-CN": "我要毕业了",
+            "ja-JP": "私は卒業するつもりです"
+          }
+        },
+        {
+          "name": "Really, I don’t want to say it",
+          "path": "真的是，不想说了.MP3",
+          "description": {
+            "en-US": "Really, I don’t want to say it",
+            "zh-CN": "真的是，不想说了",
+            "ja-JP": "本当に、言いたくない"
+          }
+        },
+        {
+          "name": "Indeed quite colorful",
+          "path": "确实挺色的.MP3",
+          "description": {
+            "en-US": "Indeed quite colorful",
+            "zh-CN": "确实挺色的",
+            "ja-JP": "確かにかなり色っぽい"
+          }
+        },
+        {
+          "name": "Serving tea and water, why does no one do it, such a simple thing",
+          "path": "端茶倒水怎么没人做啊这么简单的事.MP3",
+          "description": {
+            "en-US": "Serving tea and water, why does no one do it, such a simple thing",
+            "zh-CN": "端茶倒水怎么没人做啊这么简单的事",
+            "ja-JP": "お茶や水を出すこと、なぜ誰もやらないのか、こんな簡単なこと"
+          }
+        },
+        {
+          "name": "Isn’t this just graduating?",
+          "path": "这不就是毕业了吗.MP3",
+          "description": {
+            "en-US": "Isn’t this just graduating?",
+            "zh-CN": "这不就是毕业了吗",
+            "ja-JP": "これが卒業ということではないの？"
+          }
+        },
+        {
+          "name": "This game, its beginner guide has issues",
+          "path": "这个游戏，它的新手引导有问题.MP3",
+          "description": {
+            "en-US": "This game, its beginner guide has issues",
+            "zh-CN": "这个游戏，它的新手引导有问题",
+            "ja-JP": "このゲーム、その初心者ガイドには問題がある"
+          }
+        },
+        {
+          "name": "Graduating already, I’m so sad",
+          "path": "这就毕业啦，我好伤心啊.MP3",
+          "description": {
+            "en-US": "Graduating already, I’m so sad",
+            "zh-CN": "这就毕业啦，我好伤心啊",
+            "ja-JP": "もう卒業だ、私はとても悲しい"
+          }
+        },
+        {
+          "name": "Is this game very difficult?",
+          "path": "这很难很难吗这个游戏.MP3",
+          "description": {
+            "en-US": "Is this game very difficult?",
+            "zh-CN": "这很难很难吗这个游戏",
+            "ja-JP": "このゲームはとても難しいのですか？"
+          }
         }
       ]
     },
