@@ -1415,7 +1415,7 @@
       "categoryName": "fishGaming 3D mic P1",
       "categoryDescription": {
         "en-US": "Fish Gaming 3D mic P1",
-        "zh-CN": "人头麦戴夫P1"
+        "zh-CN": "人头麦戴夫1"
       },
       "voiceList": [
         {
@@ -1901,7 +1901,7 @@
       "categoryName": "fishGaming 3D mic P2",
       "categoryDescription": {
         "en-US": "Fish Gaming 3D mic P2",
-        "zh-CN": "人头麦戴夫P2"
+        "zh-CN": "人头麦戴夫2"
       },
       "voiceList": [
         {
@@ -2811,6 +2811,591 @@
             "en-US": "Oh, almost!",
             "zh-CN": "哎呀差一点啊",
             "ja-JP": "ああ、もう少し！"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "fishGaming 3D mic P3",
+      "categoryDescription": {
+        "en-US": "Fish Gaming 3D mic P3",
+        "zh-CN": "人头麦戴夫3"
+      },
+      "voiceList": [
+        {
+          "name": "I think",
+          "path": "I think.MP3",
+          "description": {
+            "en-US": "I think",
+            "zh-CN": "I think",
+            "ja-JP": "私は思う"
+          }
+        },
+        {
+          "name": "right now",
+          "path": "right now.MP3",
+          "description": {
+            "en-US": "right now",
+            "zh-CN": "right now",
+            "ja-JP": "今すぐ"
+          }
+        },
+        {
+          "name": "No, no, no",
+          "path": "不对不对不对.MP3",
+          "description": {
+            "en-US": "No, no, no",
+            "zh-CN": "不对不对不对",
+            "ja-JP": "違う、違う、違う"
+          }
+        },
+        {
+          "name": "No, no, I’m logging off",
+          "path": "不对不对我要下播了.MP3",
+          "description": {
+            "en-US": "No, no, I’m logging off",
+            "zh-CN": "不对不对我要下播了",
+            "ja-JP": "違う、違う、私は放送を終わります"
+          }
+        },
+        {
+          "name": "Can’t imagine how rich, all my wealth is here, I must be rich",
+          "path": "不敢想多有钱，全部身价都在这了，我得多有钱.MP3",
+          "description": {
+            "en-US": "Can’t imagine how rich, all my wealth is here, I must be rich",
+            "zh-CN": "不敢想多有钱，全部身价都在这了，我得多有钱",
+            "ja-JP": "どれだけお金持ちか想像できない、すべての財産がここにある、私はお金持ちであるに違いない"
+          }
+        },
+        {
+          "name": "What, was that important?",
+          "path": "什么，刚才那很重要吗.MP3",
+          "description": {
+            "en-US": "What, was that important?",
+            "zh-CN": "什么，刚才那很重要吗",
+            "ja-JP": "何、それは重要でしたか？"
+          }
+        },
+        {
+          "name": "He ate me",
+          "path": "他把我吃了.MP3",
+          "description": {
+            "en-US": "He ate me",
+            "zh-CN": "他把我吃了",
+            "ja-JP": "彼は私を食べた"
+          }
+        },
+        {
+          "name": "He must be here for my help",
+          "path": "他肯定是来找我帮忙的.MP3",
+          "description": {
+            "en-US": "He must be here for my help",
+            "zh-CN": "他肯定是来找我帮忙的",
+            "ja-JP": "彼はきっと私に助けを求めに来たに違いない"
+          }
+        },
+        {
+          "name": "Meow meow you meow meow (singing)",
+          "path": "你喵喵的你喵喵（唱）.MP3",
+          "description": {
+            "en-US": "Meow meow you meow meow (singing)",
+            "zh-CN": "你喵喵的你喵喵（唱）",
+            "ja-JP": "ニャーニャー、ニャーニャー（歌う）"
+          }
+        },
+        {
+          "name": "What do you think?",
+          "path": "你觉得呢.MP3",
+          "description": {
+            "en-US": "What do you think?",
+            "zh-CN": "你觉得呢",
+            "ja-JP": "あなたはどう思いますか？"
+          }
+        },
+        {
+          "name": "Don’t touch me, okay? You stink",
+          "path": "别碰我行不行你很臭.MP3",
+          "description": {
+            "en-US": "Don’t touch me, okay? You stink",
+            "zh-CN": "别碰我行不行你很臭",
+            "ja-JP": "触らないで、いい？君は臭い"
+          }
+        },
+        {
+          "name": "So he was mocking me, I will kill you",
+          "path": "原来他是嘲讽我，我杀了你.MP3",
+          "description": {
+            "en-US": "So he was mocking me, I will kill you",
+            "zh-CN": "原来他是嘲讽我，我杀了你",
+            "ja-JP": "彼は私を嘲笑していた、殺す"
+          }
+        },
+        {
+          "name": "Wuwu~ (joy)",
+          "path": "呜呜~（喜悦）.MP3",
+          "description": {
+            "en-US": "Wuwu~ (joy)",
+            "zh-CN": "呜呜~（喜悦）",
+            "ja-JP": "うう〜（喜び）"
+          }
+        },
+        {
+          "name": "Hehe~ (happy)",
+          "path": "呵咳~（开心）.MP3",
+          "description": {
+            "en-US": "Hehe~ (happy)",
+            "zh-CN": "呵咳~（开心）",
+            "ja-JP": "へへ〜（嬉しい）"
+          }
+        },
+        {
+          "name": "Cough uhh I clicked it",
+          "path": "咳呃呃呃我在点了.MP3",
+          "description": {
+            "en-US": "Cough uhh I clicked it",
+            "zh-CN": "咳呃呃呃我在点了",
+            "ja-JP": "咳うー、クリックしました"
+          }
+        },
+        {
+          "name": "Cough, it makes me angry",
+          "path": "咳，气死我了.MP3",
+          "description": {
+            "en-US": "Cough, it makes me angry",
+            "zh-CN": "咳，气死我了",
+            "ja-JP": "咳、私は怒っています"
+          }
+        },
+        {
+          "name": "Boom boom boom boom boom",
+          "path": "哄哄哄哄哄.MP3",
+          "description": {
+            "en-US": "Boom boom boom boom boom",
+            "zh-CN": "哄哄哄哄哄",
+            "ja-JP": "ボンボンボンボンボン"
+          }
+        },
+        {
+          "name": "Hayiiyi",
+          "path": "哈咦咦咦.MP3",
+          "description": {
+            "en-US": "Hayiiyi",
+            "zh-CN": "哈咦咦咦",
+            "ja-JP": "ハイイイイ"
+          }
+        },
+        {
+          "name": "Oh, why did you grab me?",
+          "path": "哎呀你抓我一下干嘛.MP3",
+          "description": {
+            "en-US": "Oh, why did you grab me?",
+            "zh-CN": "哎呀你抓我一下干嘛",
+            "ja-JP": "ああ、なんで私を掴んだの？"
+          }
+        },
+        {
+          "name": "Owu~ pain pain pain",
+          "path": "哦呜~痛痛痛.MP3",
+          "description": {
+            "en-US": "Owu~ pain pain pain",
+            "zh-CN": "哦呜~痛痛痛",
+            "ja-JP": "オウ〜痛い痛い痛い"
+          }
+        },
+        {
+          "name": "Hum hum hum (long pig cry)",
+          "path": "哼哼哼（长猪叫）.MP3",
+          "description": {
+            "en-US": "Hum hum hum (long pig cry)",
+            "zh-CN": "哼哼哼（长猪叫）",
+            "ja-JP": "フンフンフン（長い豚の鳴き声）"
+          }
+        },
+        {
+          "name": "Alright, lets end it here, logging off guys",
+          "path": "唉就玩到这吧，下播了宝子们.MP3",
+          "description": {
+            "en-US": "Alright, let's end it here, logging off guys",
+            "zh-CN": "唉就玩到这吧，下播了宝子们",
+            "ja-JP": "よし、ここで終わりにしよう、みんな放送を終わるよ"
+          }
+        },
+        {
+          "name": "Oh, my back is so tired",
+          "path": "唉我的腰好累.MP3",
+          "description": {
+            "en-US": "Oh, my back is so tired",
+            "zh-CN": "唉我的腰好累",
+            "ja-JP": "ああ、腰がすごく疲れた"
+          }
+        },
+        {
+          "name": "Uei?",
+          "path": "唔诶？.MP3",
+          "description": {
+            "en-US": "Uei?",
+            "zh-CN": "唔诶？",
+            "ja-JP": "うえ？"
+          }
+        },
+        {
+          "name": "Ah~ I’m exhausted, it’s so hard to make money",
+          "path": "啊~累死我了真不容易赚点钱.MP3",
+          "description": {
+            "en-US": "Ah~ I’m exhausted, it’s so hard to make money",
+            "zh-CN": "啊~累死我了真不容易赚点钱",
+            "ja-JP": "ああ〜疲れた、お金を稼ぐのは本当に大変だ"
+          }
+        },
+        {
+          "name": "Meow meow meow song",
+          "path": "喵喵喵之歌.MP3",
+          "description": {
+            "en-US": "Meow meow meow song",
+            "zh-CN": "喵喵喵之歌",
+            "ja-JP": "ニャーニャーニャーの歌"
+          }
+        },
+        {
+          "name": "Hmm~",
+          "path": "嗯~.MP3",
+          "description": {
+            "en-US": "Hmm~",
+            "zh-CN": "嗯~",
+            "ja-JP": "うーん〜"
+          }
+        },
+        {
+          "name": "Hmm you really are a",
+          "path": "嗯你真是个.MP3",
+          "description": {
+            "en-US": "Hmm you really are a",
+            "zh-CN": "嗯你真是个",
+            "ja-JP": "うーん、君は本当に〜"
+          }
+        },
+        {
+          "name": "Hmm ei ah haha I won’t die, right?",
+          "path": "嗯诶啊哈哈我不会死了吧.MP3",
+          "description": {
+            "en-US": "Hmm ei ah haha I won’t die, right?",
+            "zh-CN": "嗯诶啊哈哈我不会死了吧",
+            "ja-JP": "うーん、ええ、あはは、私は死なないよね？"
+          }
+        },
+        {
+          "name": "So rich",
+          "path": "太有钱了.MP3",
+          "description": {
+            "en-US": "So rich",
+            "zh-CN": "太有钱了",
+            "ja-JP": "お金持ちすぎる"
+          }
+        },
+        {
+          "name": "What to do, so rich, I’m graduating from this game again",
+          "path": "太有钱了怎么办，这个游戏我又要毕业了.MP3",
+          "description": {
+            "en-US": "What to do, so rich, I’m graduating from this game again",
+            "zh-CN": "太有钱了怎么办，这个游戏我又要毕业了",
+            "ja-JP": "どうしよう、お金持ちすぎる、このゲームからまた卒業だ"
+          }
+        },
+        {
+          "name": "So annoying",
+          "path": "好烦啊.MP3",
+          "description": {
+            "en-US": "So annoying",
+            "zh-CN": "好烦啊",
+            "ja-JP": "うざい"
+          }
+        },
+        {
+          "name": "Okay, I’m sorry",
+          "path": "好的对不起.MP3",
+          "description": {
+            "en-US": "Okay, I’m sorry",
+            "zh-CN": "好的对不起",
+            "ja-JP": "分かった、ごめんなさい"
+          }
+        },
+        {
+          "name": "Kids, I want to sleep (刺激战场)",
+          "path": "孩子们我想睡觉了（刺激战场）.MP3",
+          "description": {
+            "en-US": "Kids, I want to sleep (刺激战场)",
+            "zh-CN": "孩子们我想睡觉了（刺激战场）",
+            "ja-JP": "子供たち、私は寝たい（刺激戦場）"
+          }
+        },
+        {
+          "name": "It’s here to take my life",
+          "path": "它是来要我的命的.MP3",
+          "description": {
+            "en-US": "It’s here to take my life",
+            "zh-CN": "它是来要我的命的",
+            "ja-JP": "命を奪いに来た"
+          }
+        },
+        {
+          "name": "Baby, wait a minute",
+          "path": "宝宝你等一下哦.MP3",
+          "description": {
+            "en-US": "Baby, wait a minute",
+            "zh-CN": "宝宝你等一下哦",
+            "ja-JP": "赤ちゃん、ちょっと待って"
+          }
+        },
+        {
+          "name": "Come on, it’s the last time",
+          "path": "快来最后一次了.MP3",
+          "description": {
+            "en-US": "Come on, it’s the last time",
+            "zh-CN": "快来最后一次了",
+            "ja-JP": "来て、最後だよ"
+          }
+        },
+        {
+          "name": "Die quickly, please, baby",
+          "path": "快死吧我求求你了宝宝.MP3",
+          "description": {
+            "en-US": "Die quickly, please, baby",
+            "zh-CN": "快死吧我求求你了宝宝",
+            "ja-JP": "早く死んで、お願い、赤ちゃん"
+          }
+        },
+        {
+          "name": "Hurry hurry hurry",
+          "path": "快点快点快点儿.MP3",
+          "description": {
+            "en-US": "Hurry hurry hurry",
+            "zh-CN": "快点快点快点儿",
+            "ja-JP": "急いで、急いで、急いで"
+          }
+        },
+        {
+          "name": "I don’t want to stream anymore",
+          "path": "我不想播了.MP3",
+          "description": {
+            "en-US": "I don’t want to stream anymore",
+            "zh-CN": "我不想播了",
+            "ja-JP": "もうストリームしたくない"
+          }
+        },
+        {
+          "name": "I don’t want to die down here",
+          "path": "我不想死在下面.MP3",
+          "description": {
+            "en-US": "I don’t want to die down here",
+            "zh-CN": "我不想死在下面",
+            "ja-JP": "ここで死にたくない"
+          }
+        },
+        {
+          "name": "I’ll never speak藏话again",
+          "path": "我再也不说藏话了.MP3",
+          "description": {
+            "en-US": "I’ll never speak藏话again",
+            "zh-CN": "我再也不说藏话了",
+            "ja-JP": "もう藏話は話さない"
+          }
+        },
+        {
+          "name": "I’m heavy now",
+          "path": "我很重我现在.MP3",
+          "description": {
+            "en-US": "I’m heavy now",
+            "zh-CN": "我很重我现在",
+            "ja-JP": "私は今重い"
+          }
+        },
+        {
+          "name": "I’m afraid I’ll explain here, what to do?",
+          "path": "我怕我交代在这了怎么办.MP3",
+          "description": {
+            "en-US": "I’m afraid I’ll explain here, what to do?",
+            "zh-CN": "我怕我交代在这了怎么办",
+            "ja-JP": "ここで説明するのが怖い、どうしよう？"
+          }
+        },
+        {
+          "name": "I want to sleep",
+          "path": "我想睡觉觉了.MP3",
+          "description": {
+            "en-US": "I want to sleep",
+            "zh-CN": "我想睡觉觉了",
+            "ja-JP": "私は寝たい"
+          }
+        },
+        {
+          "name": "I want to leave this place right now",
+          "path": "我现在立刻我就想离开这个地方.MP3",
+          "description": {
+            "en-US": "I want to leave this place right now",
+            "zh-CN": "我现在立刻我就想离开这个地方",
+            "ja-JP": "今すぐこの場所を離れたい"
+          }
+        },
+        {
+          "name": "My micro-operation is simply amazing, isn’t it?",
+          "path": "我的微操作简直太厉害了，是么.MP3",
+          "description": {
+            "en-US": "My micro-operation is simply amazing, isn’t it?",
+            "zh-CN": "我的微操作简直太厉害了，是么",
+            "ja-JP": "私の微操作は本当に素晴らしいでしょう？"
+          }
+        },
+        {
+          "name": "My heart is already messed up",
+          "path": "我的心已经乱了.MP3",
+          "description": {
+            "en-US": "My heart is already messed up",
+            "zh-CN": "我的心已经乱了",
+            "ja-JP": "私の心はすでに乱れている"
+          }
+        },
+        {
+          "name": "I’m really graduating, so rich",
+          "path": "我真的毕业，太有钱了.MP3",
+          "description": {
+            "en-US": "I’m really graduating, so rich",
+            "zh-CN": "我真的毕业，太有钱了",
+            "ja-JP": "本当に卒業してる、金持ちすぎる"
+          }
+        },
+        {
+          "name": "I really didn’t speak藏话this time",
+          "path": "我这次真没说藏话.MP3",
+          "description": {
+            "en-US": "I really didn’t speak藏话this time",
+            "zh-CN": "我这次真没说藏话",
+            "ja-JP": "今回、本当に藏話は話さなかった"
+          }
+        },
+        {
+          "name": "Finding the Goo Goo Chicken is equivalent to",
+          "path": "找回咕咕鸡相当于是.MP3",
+          "description": {
+            "en-US": "Finding the Goo Goo Chicken is equivalent to",
+            "zh-CN": "找回咕咕鸡相当于是",
+            "ja-JP": "グーグーチキンを見つけるのは相当する"
+          }
+        },
+        {
+          "name": "End your life here",
+          "path": "把你生命在此终结.MP3",
+          "description": {
+            "en-US": "End your life here",
+            "zh-CN": "把你生命在此终结",
+            "ja-JP": "ここで命を終わらせる"
+          }
+        },
+        {
+          "name": "Cheer饼民们",
+          "path": "欢呼吧饼民们.MP3",
+          "description": {
+            "en-US": "Cheer饼民们",
+            "zh-CN": "欢呼吧饼民们",
+            "ja-JP": "歓声を上げて饼民たち"
+          }
+        },
+        {
+          "name": "Really cheating, cheating, too cheating",
+          "path": "真是赖皮，赖，太赖了.MP3",
+          "description": {
+            "en-US": "Really cheating, cheating, too cheating",
+            "zh-CN": "真是赖皮，赖，太赖了",
+            "ja-JP": "本当にずるい、ずるい、ずるすぎる"
+          }
+        },
+        {
+          "name": "Keke, am I amazing?",
+          "path": "科科我厉害吗.MP3",
+          "description": {
+            "en-US": "Keke, am I amazing?",
+            "zh-CN": "科科我厉害吗",
+            "ja-JP": "ココ、私はすごい？"
+          }
+        },
+        {
+          "name": "Cheating, cheating",
+          "path": "耍赖耍赖.MP3",
+          "description": {
+            "en-US": "Cheating, cheating",
+            "zh-CN": "耍赖耍赖",
+            "ja-JP": "ズルをする、ズルをする"
+          }
+        },
+        {
+          "name": "Comfortable, comfortable comfortable",
+          "path": "舒服，舒服舒服.MP3",
+          "description": {
+            "en-US": "Comfortable, comfortable comfortable",
+            "zh-CN": "舒服，舒服舒服",
+            "ja-JP": "快適、快適、快適"
+          }
+        },
+        {
+          "name": "Eh, there’s one more",
+          "path": "诶还有一条呢.MP3",
+          "description": {
+            "en-US": "Eh, there’s one more",
+            "zh-CN": "诶还有一条呢",
+            "ja-JP": "ええ、もう一つあります"
+          }
+        },
+        {
+          "name": "Start playing hard as soon as you get up",
+          "path": "起床就开始狠狠玩.MP3",
+          "description": {
+            "en-US": "Start playing hard as soon as you get up",
+            "zh-CN": "起床就开始狠狠玩",
+            "ja-JP": "起きたらすぐに一生懸命遊び始める"
+          }
+        },
+        {
+          "name": "It’s quite slow to be honest",
+          "path": "还挺慢的说实话.MP3",
+          "description": {
+            "en-US": "It’s quite slow to be honest",
+            "zh-CN": "还挺慢的说实话",
+            "ja-JP": "正直言ってかなり遅い"
+          }
+        },
+        {
+          "name": "Now I’m almost dead, are you happy?",
+          "path": "这下我快死了你高兴了吧.MP3",
+          "description": {
+            "en-US": "Now I’m almost dead, are you happy?",
+            "zh-CN": "这下我快死了你高兴了吧",
+            "ja-JP": "これで私はほとんど死んでるけど、嬉しい？"
+          }
+        },
+        {
+          "name": "(breathing) it makes me angry",
+          "path": "（呼吸）气死我了.MP3",
+          "description": {
+            "en-US": "(breathing) it makes me angry",
+            "zh-CN": "（呼吸）气死我了",
+            "ja-JP": "（呼吸）私は怒っている"
+          }
+        },
+        {
+          "name": "(pig cry)",
+          "path": "（猪叫）.MP3",
+          "description": {
+            "en-US": "(pig cry)",
+            "zh-CN": "（猪叫）",
+            "ja-JP": "（豚の鳴き声）"
+          }
+        },
+        {
+          "name": "(old man laugh)",
+          "path": "（老人笑）.MP3",
+          "description": {
+            "en-US": "(old man laugh)",
+            "zh-CN": "（老人笑）",
+            "ja-JP": "（老人の笑い声）"
           }
         }
       ]
