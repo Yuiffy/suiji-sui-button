@@ -625,6 +625,15 @@
             "zh-CN": "鹅！（威胁）",
             "ja-JP": "ガチョウ！（脅迫）"
           }
+        },
+        {
+          "name": "Hmm uh!",
+          "path": "嗯呃！.MP3",
+          "description": {
+            "en-US": "Hmm uh!",
+            "zh-CN": "嗯呃！",
+            "ja-JP": "うーん、うっ！"
+          }
         }
       ]
     },
@@ -3674,6 +3683,33 @@
             "en-US": "Log into my voice webpage",
             "zh-CN": "登录到岁己的语音网页里",
             "ja-JP": "自分の声のウェブページにログイン"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "bad words",
+      "categoryDescription": {
+        "en-US": "bad words",
+        "zh-CN": "不好说的话"
+      },
+      "voiceList": [
+        {
+          "name": "All must die",
+          "path": "都得死.MP3",
+          "description": {
+            "en-US": "All must die",
+            "zh-CN": "都得死",
+            "ja-JP": "全員死ぬべきだ"
+          }
+        },
+        {
+          "name": "Crash and die, you dead thing",
+          "path": "闯死你死东西.MP3",
+          "description": {
+            "en-US": "Crash and die, you dead thing",
+            "zh-CN": "闯死你死东西",
+            "ja-JP": "ぶつかって死ね、死んだもの"
           }
         }
       ]
