@@ -299,6 +299,114 @@
             "zh-CN": "我要出来咯",
             "ja-JP": "私は出るよ"
           }
+        },
+        {
+          "name": "No laughing, thats enough, be careful not to overheat",
+          "path": "不准笑了差不多得了，等下红温了要.MP3",
+          "description": {
+            "en-US": "No laughing, that's enough, be careful not to overheat",
+            "zh-CN": "不准笑了差不多得了，等下红温了要",
+            "ja-JP": "笑うな、それで十分だ、次に赤くならないように注意して"
+          }
+        },
+        {
+          "name": "Where is this?",
+          "path": "不是这是哪啊这.MP3",
+          "description": {
+            "en-US": "Where is this?",
+            "zh-CN": "不是这是哪啊这",
+            "ja-JP": "ここはどこですか？"
+          }
+        },
+        {
+          "name": "Will secretly scold with a secondary account",
+          "path": "会私下在小号骂的.MP3",
+          "description": {
+            "en-US": "Will secretly scold with a secondary account",
+            "zh-CN": "会私下在小号骂的",
+            "ja-JP": "サブアカウントで秘密裏に叱るだろう"
+          }
+        },
+        {
+          "name": "Are you satisfied now?",
+          "path": "你满意了吧.MP3",
+          "description": {
+            "en-US": "Are you satisfied now?",
+            "zh-CN": "你满意了吧",
+            "ja-JP": "これで満足ですか？"
+          }
+        },
+        {
+          "name": "Hum hum, hehe, hahahaha (crazy)",
+          "path": "哼哼，呵呵，哈哈哈哈（疯了）.MP3",
+          "description": {
+            "en-US": "Hum hum, hehe, hahahaha (crazy)",
+            "zh-CN": "哼哼，呵呵，哈哈哈哈（疯了）",
+            "ja-JP": "フンフン、ヘヘ、ハハハハハ（クレイジー）"
+          }
+        },
+        {
+          "name": "Alright, I’m acting hahaha",
+          "path": "好吧我是演的哈哈哈.MP3",
+          "description": {
+            "en-US": "Alright, I’m acting hahaha",
+            "zh-CN": "好吧我是演的哈哈哈",
+            "ja-JP": "はい、私は演技しているよ、ハハハ"
+          }
+        },
+        {
+          "name": "Many people don’t know this, right?",
+          "path": "很多人都不知道这个吧.MP3",
+          "description": {
+            "en-US": "Many people don’t know this, right?",
+            "zh-CN": "很多人都不知道这个吧",
+            "ja-JP": "多くの人はこれを知らないでしょう？"
+          }
+        },
+        {
+          "name": "Hurry up, make it fast",
+          "path": "快点，搞快.MP3",
+          "description": {
+            "en-US": "Hurry up, make it fast",
+            "zh-CN": "快点，搞快",
+            "ja-JP": "急いで、早くして"
+          }
+        },
+        {
+          "name": "Why is it loading so long, I’m anxious",
+          "path": "怎么加载这么久，我都急了.MP3",
+          "description": {
+            "en-US": "Why is it loading so long, I’m anxious",
+            "zh-CN": "怎么加载这么久，我都急了",
+            "ja-JP": "どうしてこんなに長くロードしているの、私は焦っている"
+          }
+        },
+        {
+          "name": "No laughing allowed in this live stream, no smiling, no laughing out loud",
+          "path": "本直播间不许笑禁止微笑禁止大笑.MP3",
+          "description": {
+            "en-US": "No laughing allowed in this live stream, no smiling, no laughing out loud",
+            "zh-CN": "本直播间不许笑禁止微笑禁止大笑",
+            "ja-JP": "このライブ配信では笑うことは禁止、微笑むことも、大声で笑うことも禁止"
+          }
+        },
+        {
+          "name": "What on earth does this world want?",
+          "path": "这个世界到底要怎样.MP3",
+          "description": {
+            "en-US": "What on earth does this world want?",
+            "zh-CN": "这个世界到底要怎样",
+            "ja-JP": "この世界は一体何を求めているの？"
+          }
+        },
+        {
+          "name": "Never in my life have I been called a normie by so many people",
+          "path": "这辈子没被这么多人说是现充.MP3",
+          "description": {
+            "en-US": "Never in my life have I been called a normie by so many people",
+            "zh-CN": "这辈子没被这么多人说是现充",
+            "ja-JP": "この人生でこんなに多くの人にリア充と言われたことはない"
+          }
         }
       ]
     },
@@ -419,7 +527,7 @@
           "path": "Please.MP3",
           "description": {
             "en-US": "Please",
-            "zh-CN": "请",
+            "zh-CN": "Please",
             "ja-JP": "お願いします"
           }
         },
@@ -439,6 +547,60 @@
             "en-US": "Oh speaking of which",
             "zh-CN": "哦说到这个",
             "ja-JP": "それについて言えば"
+          }
+        },
+        {
+          "name": "Ah? Isn’t it?",
+          "path": "啊？不是吗.MP3",
+          "description": {
+            "en-US": "Ah? Isn’t it?",
+            "zh-CN": "啊？不是吗",
+            "ja-JP": "あれ？違うの？"
+          }
+        },
+        {
+          "name": "Ah? Is it?",
+          "path": "啊？是吗.MP3",
+          "description": {
+            "en-US": "Ah? Is it?",
+            "zh-CN": "啊？是吗",
+            "ja-JP": "あれ？そうなの？"
+          }
+        },
+        {
+          "name": "Exactly!",
+          "path": "就是！.MP3",
+          "description": {
+            "en-US": "Exactly!",
+            "zh-CN": "就是！",
+            "ja-JP": "その通り！"
+          }
+        },
+        {
+          "name": "What’s up?",
+          "path": "干嘛呀.MP3",
+          "description": {
+            "en-US": "What’s up?",
+            "zh-CN": "干嘛呀",
+            "ja-JP": "何してるの？"
+          }
+        },
+        {
+          "name": "Speechless",
+          "path": "无语了.MP3",
+          "description": {
+            "en-US": "Speechless",
+            "zh-CN": "无语了",
+            "ja-JP": "言葉がない"
+          }
+        },
+        {
+          "name": "Is it? Ah~",
+          "path": "是吗？啊~.MP3",
+          "description": {
+            "en-US": "Is it? Ah~",
+            "zh-CN": "是吗？啊~",
+            "ja-JP": "そうなの？ああ〜"
           }
         }
       ]
@@ -524,6 +686,15 @@
             "en-US": "What’s so funny?",
             "zh-CN": "哪里好笑啦",
             "ja-JP": "何がそんなに面白いの？"
+          }
+        },
+        {
+          "name": "What are you laughing at? From today on, no laughing in the live stream!",
+          "path": "笑什么笑，从今天开始直播间不准笑！.MP3",
+          "description": {
+            "en-US": "What are you laughing at? From today on, no laughing in the live stream!",
+            "zh-CN": "笑什么笑，从今天开始直播间不准笑！",
+            "ja-JP": "何を笑っているの？今日からライブ配信で笑ってはいけません！"
           }
         }
       ]
@@ -633,6 +804,15 @@
             "en-US": "Hmm uh!",
             "zh-CN": "嗯呃！",
             "ja-JP": "うーん、うっ！"
+          }
+        },
+        {
+          "name": "Beep beep beep beep pop pop pop pop",
+          "path": "哔哔哔哔啵啵啵啵啵.MP3",
+          "description": {
+            "en-US": "Beep beep beep beep pop pop pop pop",
+            "zh-CN": "哔哔哔哔啵啵啵啵啵",
+            "ja-JP": "ビーッビーッビーッビーッ、ポップポップポップポップ"
           }
         }
       ]
