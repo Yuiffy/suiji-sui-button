@@ -407,6 +407,204 @@
             "zh-CN": "这辈子没被这么多人说是现充",
             "ja-JP": "この人生でこんなに多くの人にリア充と言われたことはない"
           }
+        },
+        {
+          "name": "Don’t grab me",
+          "path": "你不要抓我.MP3",
+          "description": {
+            "en-US": "Don’t grab me",
+            "zh-CN": "你不要抓我",
+            "ja-JP": "掴まないで"
+          }
+        },
+        {
+          "name": "You formula, I also formula",
+          "path": "你们公式我也公式.MP3",
+          "description": {
+            "en-US": "You formula, I also formula",
+            "zh-CN": "你们公式我也公式",
+            "ja-JP": "君の公式、私も公式"
+          }
+        },
+        {
+          "name": "Can you stop having a crush on me?",
+          "path": "可以别暗恋我吗.MP3",
+          "description": {
+            "en-US": "Can you stop having a crush on me?",
+            "zh-CN": "可以别暗恋我吗",
+            "ja-JP": "私に片思いするのをやめてもらえますか？"
+          }
+        },
+        {
+          "name": "Ugh, so hopeless",
+          "path": "呃呃好绝望啊.MP3",
+          "description": {
+            "en-US": "Ugh, so hopeless",
+            "zh-CN": "呃呃好绝望啊",
+            "ja-JP": "うーん、絶望的だ"
+          }
+        },
+        {
+          "name": "Hey stop using this formula, okay?",
+          "path": "嘿别用这个公式了行不.MP3",
+          "description": {
+            "en-US": "Hey stop using this formula, okay?",
+            "zh-CN": "嘿别用这个公式了行不",
+            "ja-JP": "ねぇ、この公式を使うのをやめて、いい？"
+          }
+        },
+        {
+          "name": "I don’t know anymore!",
+          "path": "已经不知道啦！.MP3",
+          "description": {
+            "en-US": "I don’t know anymore!",
+            "zh-CN": "已经不知道啦！",
+            "ja-JP": "もうわからない！"
+          }
+        },
+        {
+          "name": "When you said the key point is 15point8, I felt it didnt hit",
+          "path": "当你说重点是15.8我觉得没进入.MP3",
+          "description": {
+            "en-US": "When you said the key point is 15.8, I felt it didn't hit",
+            "zh-CN": "当你说重点是15.8我觉得没进入",
+            "ja-JP": "君がポイントは15.8だと言った時、私はそれがヒットしなかったと感じた"
+          }
+        },
+        {
+          "name": "Forget about time, it feels like being immersed in the game",
+          "path": "忘记时间有种进入游戏的感觉.MP3",
+          "description": {
+            "en-US": "Forget about time, it feels like being immersed in the game",
+            "zh-CN": "忘记时间有种进入游戏的感觉",
+            "ja-JP": "時間を忘れて、ゲームに没頭している感じがする"
+          }
+        },
+        {
+          "name": "Forget to mention the bullfrog isn’t fresh, it feels like not entering the bullfrog",
+          "path": "忘记说过牛蛙不新鲜，有种没进入牛蛙的感觉.MP3",
+          "description": {
+            "en-US": "Forget to mention the bullfrog isn’t fresh, it feels like not entering the bullfrog",
+            "zh-CN": "忘记说过牛蛙不新鲜，有种没进入牛蛙的感觉",
+            "ja-JP": "牛蛙が新鮮ではないことを言い忘れた、牛蛙に入っていない感じがする"
+          }
+        },
+        {
+          "name": "Why is there no water?",
+          "path": "怎么没水啦.MP3",
+          "description": {
+            "en-US": "Why is there no water?",
+            "zh-CN": "怎么没水啦",
+            "ja-JP": "なぜ水がないの？"
+          }
+        },
+        {
+          "name": "I’m really scratching my head",
+          "path": "我真的都在抠头了.MP3",
+          "description": {
+            "en-US": "I’m really scratching my head",
+            "zh-CN": "我真的都在抠头了",
+            "ja-JP": "私は本当に頭をかいている"
+          }
+        },
+        {
+          "name": "No one loves you, no one likes you, no one wants you",
+          "path": "没人爱你，没人喜欢你，没人想要你.MP3",
+          "description": {
+            "en-US": "No one loves you, no one likes you, no one wants you",
+            "zh-CN": "没人爱你，没人喜欢你，没人想要你",
+            "ja-JP": "誰もあなたを愛していない、誰もあなたが好きではない、誰もあなたが欲しくない"
+          }
+        },
+        {
+          "name": "No immersive enjoyment of bullfrog",
+          "path": "没有沉浸式享受牛蛙.MP3",
+          "description": {
+            "en-US": "No immersive enjoyment of bullfrog",
+            "zh-CN": "没有沉浸式享受牛蛙",
+            "ja-JP": "牛蛙を没頭して楽しむことはない"
+          }
+        },
+        {
+          "name": "Who are you showing that comment frame to?",
+          "path": "端个弹幕架子给谁看呢.MP3",
+          "description": {
+            "en-US": "Who are you showing that comment frame to?",
+            "zh-CN": "端个弹幕架子给谁看呢",
+            "ja-JP": "そのコメントフレームを誰に見せているの？"
+          }
+        },
+        {
+          "name": "Hey, you can’t do this, ugh ah! Ugh cough",
+          "path": "诶你不能这样，呃啊！呃咳.MP3",
+          "description": {
+            "en-US": "Hey, you can’t do this, ugh ah! Ugh cough",
+            "zh-CN": "诶你不能这样，呃啊！呃咳",
+            "ja-JP": "ねぇ、こんなことはできない、うぐああ！うぐ咳"
+          }
+        },
+        {
+          "name": "Thanks for the second-level little fountain, ribbonfish (Mickey Mouse)",
+          "path": "谢谢带鱼的二级小喷泉（米老鼠）.MP3",
+          "description": {
+            "en-US": "Thanks for the second-level little fountain, ribbonfish (Mickey Mouse)",
+            "zh-CN": "谢谢带鱼的二级小喷泉（米老鼠）",
+            "ja-JP": "リボンフィッシュの二級小噴水をありがとう（ミッキーマウス）"
+          }
+        },
+        {
+          "name": "How many more? I don’t want to play anymore, hmm hmm hmm~",
+          "path": "还有几下啊，不想玩了，嗯嗯嗯~.MP3",
+          "description": {
+            "en-US": "How many more? I don’t want to play anymore, hmm hmm hmm~",
+            "zh-CN": "还有几下啊，不想玩了，嗯嗯嗯~",
+            "ja-JP": "あと何回？もう遊びたくない、うーんうーんうーん〜"
+          }
+        },
+        {
+          "name": "Isn’t it over yet?",
+          "path": "还没结束啊.MP3",
+          "description": {
+            "en-US": "Isn’t it over yet?",
+            "zh-CN": "还没结束啊",
+            "ja-JP": "まだ終わってないの？"
+          }
+        },
+        {
+          "name": "This is good (high pitch)",
+          "path": "这下好（高音）.MP3",
+          "description": {
+            "en-US": "This is good (high pitch)",
+            "zh-CN": "这下好（高音）",
+            "ja-JP": "これでいい（高音）"
+          }
+        },
+        {
+          "name": "Is this water important?",
+          "path": "这个水很重要吗.MP3",
+          "description": {
+            "en-US": "Is this water important?",
+            "zh-CN": "这个水很重要吗",
+            "ja-JP": "この水は重要ですか？"
+          }
+        },
+        {
+          "name": "Such an old formula, still using it? Use some new formulas",
+          "path": "这么老的公式还拿出来用啊，用点新公式吧.MP3",
+          "description": {
+            "en-US": "Such an old formula, still using it? Use some new formulas",
+            "zh-CN": "这么老的公式还拿出来用啊，用点新公式吧",
+            "ja-JP": "こんな古い公式をまだ使っているの？新しい公式を使いなさい"
+          }
+        },
+        {
+          "name": "Then wouldn’t you lose everything, have nothing (laugh)",
+          "path": "那你岂不是什么都失去什么都没有了（笑）.MP3",
+          "description": {
+            "en-US": "Then wouldn’t you lose everything, have nothing (laugh)",
+            "zh-CN": "那你岂不是什么都失去什么都没有了（笑）",
+            "ja-JP": "それならすべてを失い、何もなくなってしまうのでは（笑）"
+          }
         }
       ]
     },
@@ -602,6 +800,33 @@
             "zh-CN": "是吗？啊~",
             "ja-JP": "そうなの？ああ〜"
           }
+        },
+        {
+          "name": "Hahahaha (seeing the formula)",
+          "path": "哈哈哈哈（看到公式）.MP3",
+          "description": {
+            "en-US": "Hahahaha (seeing the formula)",
+            "zh-CN": "哈哈哈哈（看到公式）",
+            "ja-JP": "ハハハハ（公式を見て）"
+          }
+        },
+        {
+          "name": "Hehe~ ei",
+          "path": "嘿嘿~诶.MP3",
+          "description": {
+            "en-US": "Hehe~ ei",
+            "zh-CN": "嘿嘿~诶",
+            "ja-JP": "へへ〜えい"
+          }
+        },
+        {
+          "name": "Red bean?",
+          "path": "红豆泥？.MP3",
+          "description": {
+            "en-US": "Red bean?",
+            "zh-CN": "红豆泥？",
+            "ja-JP": "小豆？"
+          }
         }
       ]
     },
@@ -695,6 +920,15 @@
             "en-US": "What are you laughing at? From today on, no laughing in the live stream!",
             "zh-CN": "笑什么笑，从今天开始直播间不准笑！",
             "ja-JP": "何を笑っているの？今日からライブ配信で笑ってはいけません！"
+          }
+        },
+        {
+          "name": "What! (loud)",
+          "path": "什么！（大声）.MP3",
+          "description": {
+            "en-US": "What! (loud)",
+            "zh-CN": "什么！（大声）",
+            "ja-JP": "何！(大声)"
           }
         }
       ]
@@ -813,6 +1047,96 @@
             "en-US": "Beep beep beep beep pop pop pop pop",
             "zh-CN": "哔哔哔哔啵啵啵啵啵",
             "ja-JP": "ビーッビーッビーッビーッ、ポップポップポップポップ"
+          }
+        },
+        {
+          "name": "nia! nia",
+          "path": "nia!nia.MP3",
+          "description": {
+            "en-US": "nia! nia",
+            "zh-CN": "nia! nia",
+            "ja-JP": "ニャ！ニャ"
+          }
+        },
+        {
+          "name": "niaaaaaaa!!!!",
+          "path": "niaaaaaaa!!!!.MP3",
+          "description": {
+            "en-US": "niaaaaaaa!!!!",
+            "zh-CN": "niaaaaaaa!!!!",
+            "ja-JP": "ニャァァァァァ!!!!"
+          }
+        },
+        {
+          "name": "nia ah wah wah wah wah (Donald Duck)",
+          "path": "nia啊哇哇哇哇哇（唐老鸭）.MP3",
+          "description": {
+            "en-US": "nia ah wah wah wah wah (Donald Duck)",
+            "zh-CN": "nia啊哇哇哇哇哇（唐老鸭）",
+            "ja-JP": "ニャああワワワワ（ドナルドダック）"
+          }
+        },
+        {
+          "name": "nia!",
+          "path": "nia！.MP3",
+          "description": {
+            "en-US": "nia!",
+            "zh-CN": "nia！",
+            "ja-JP": "ニャ！"
+          }
+        },
+        {
+          "name": "You big! Ugh cough ugh cough",
+          "path": "你大！呃咳呃咳.MP3",
+          "description": {
+            "en-US": "You big! Ugh cough ugh cough",
+            "zh-CN": "你大！呃咳呃咳",
+            "ja-JP": "お前大きい！うぐ咳うぐ咳"
+          }
+        },
+        {
+          "name": "Ugh~ ugh~ (being chased by missile)",
+          "path": "呃~呃~（被导弹追）.MP3",
+          "description": {
+            "en-US": "Ugh~ ugh~ (being chased by missile)",
+            "zh-CN": "呃~呃~（被导弹追）",
+            "ja-JP": "うー、うー（ミサイルに追われる）"
+          }
+        },
+        {
+          "name": "Oh oh ah! nia!",
+          "path": "哦哦啊！nia！.MP3",
+          "description": {
+            "en-US": "Oh oh ah! nia!",
+            "zh-CN": "哦哦啊！nia！",
+            "ja-JP": "オオア！ニャ！"
+          }
+        },
+        {
+          "name": "Meow! (being bombed)",
+          "path": "喵！（被炸）.MP3",
+          "description": {
+            "en-US": "Meow! (being bombed)",
+            "zh-CN": "喵！（被炸）",
+            "ja-JP": "ニャー！（爆撃される）"
+          }
+        },
+        {
+          "name": "(Rapid breathing) ugh ah",
+          "path": "（呼吸急促）呃啊.MP3",
+          "description": {
+            "en-US": "(Rapid breathing) ugh ah",
+            "zh-CN": "（呼吸急促）呃啊",
+            "ja-JP": "（速い呼吸）うーあ"
+          }
+        },
+        {
+          "name": "(Rapid breathing) mic pop",
+          "path": "（快速呼吸）喷麦.MP3",
+          "description": {
+            "en-US": "(Rapid breathing) mic pop",
+            "zh-CN": "（快速呼吸）喷麦",
+            "ja-JP": "（速い呼吸）マイクポップ"
           }
         }
       ]
@@ -3890,6 +4214,33 @@
             "en-US": "Crash and die, you dead thing",
             "zh-CN": "闯死你死东西",
             "ja-JP": "ぶつかって死ね、死んだもの"
+          }
+        },
+        {
+          "name": "Ah, dead fish!",
+          "path": "啊，死鱼！.MP3",
+          "description": {
+            "en-US": "Ah, dead fish!",
+            "zh-CN": "啊，死鱼！",
+            "ja-JP": "ああ、死んだ魚！"
+          }
+        },
+        {
+          "name": "What a swordfish, really a disgusting one",
+          "path": "真是个剑鱼，真是个很恶心的一个.MP3",
+          "description": {
+            "en-US": "What a swordfish, really a disgusting one",
+            "zh-CN": "真是个剑鱼，真是个很恶心的一个",
+            "ja-JP": "本当に剣魚、ほんとに気持ち悪い"
+          }
+        },
+        {
+          "name": "Yay, you garbage",
+          "path": "耶，你这个辣鸡.MP3",
+          "description": {
+            "en-US": "Yay, you garbage",
+            "zh-CN": "耶，你这个辣鸡",
+            "ja-JP": "やった、ゴミ"
           }
         }
       ]
