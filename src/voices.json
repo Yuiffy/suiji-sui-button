@@ -598,12 +598,149 @@
           }
         },
         {
-          "name": "Then wouldn’t you lose everything, have nothing (laugh)",
+          "name": "Then wouldnt you lose everything, have nothing (laugh)",
           "path": "那你岂不是什么都失去什么都没有了（笑）.MP3",
           "description": {
             "en-US": "Then wouldn’t you lose everything, have nothing (laugh)",
             "zh-CN": "那你岂不是什么都失去什么都没有了（笑）",
             "ja-JP": "それならすべてを失い、何もなくなってしまうのでは（笑）"
+          }
+        },
+        {
+          "name": "Is a fish on shore just waiting to die?",
+          "path": "上了岸的鱼难道等死吗.MP3",
+          "description": {
+            "en-US": "Is a fish on shore just waiting to die?",
+            "zh-CN": "上了岸的鱼难道等死吗",
+            "ja-JP": "陸に上がった魚は死ぬのを待つだけなのか？"
+          }
+        },
+        {
+          "name": "A child who doesnt cry doesnt get candy",
+          "path": "不会哭的孩子没糖吃.MP3",
+          "description": {
+            "en-US": "A child who doesn't cry doesn't get candy",
+            "zh-CN": "不会哭的孩子没糖吃",
+            "ja-JP": "泣かない子供にはお菓子がない"
+          }
+        },
+
+        {
+          "name": "Apologize to me, youve made me so anxious",
+          "path": "向我道歉，搞得我七上八下.MP3",
+          "description": {
+            "en-US": "Apologize to me, you've made me so anxious",
+            "zh-CN": "向我道歉，搞得我七上八下",
+            "ja-JP": "私に謝って、君は私をとても不安にさせた"
+          }
+        },
+        {
+          "name": "Ah! The water spilled",
+          "path": "呀！水倒了.MP3",
+          "description": {
+            "en-US": "Ah! The water spilled",
+            "zh-CN": "呀！水倒了",
+            "ja-JP": "ああ！水がこぼれた"
+          }
+        },
+        {
+          "name": "Are my sorrows just a joke to you?",
+          "path": "岁己的伤心事在你那就是好笑的事？.MP3",
+          "description": {
+            "en-US": "Are my sorrows just a joke to you?",
+            "zh-CN": "岁己的伤心事在你那就是好笑的事？",
+            "ja-JP": "私の悲しみが君にとってただの冗談なのか？"
+          }
+        },
+        {
+          "name": "My heart is crying",
+          "path": "心在流泪.MP3",
+          "description": {
+            "en-US": "My heart is crying",
+            "zh-CN": "心在流泪",
+            "ja-JP": "私の心は泣いている"
+          }
+        },
+        {
+          "name": "I feel like I can hardly breathe",
+          "path": "我感觉快要无法呼吸了.MP3",
+          "description": {
+            "en-US": "I feel like I can hardly breathe",
+            "zh-CN": "我感觉快要无法呼吸了",
+            "ja-JP": "息ができないような気がする"
+          }
+        },
+
+        {
+          "name": "Settle down",
+          "path": "沉淀吧.MP3",
+          "description": {
+            "en-US": "Settle down",
+            "zh-CN": "沉淀吧",
+            "ja-JP": "落ち着いて"
+          }
+        },
+        {
+          "name": "A child without an umbrella can only run hard",
+          "path": "没有伞的孩子只能努力奔跑.MP3",
+          "description": {
+            "en-US": "A child without an umbrella can only run hard",
+            "zh-CN": "没有伞的孩子只能努力奔跑",
+            "ja-JP": "傘のない子供は一生懸命走るしかない"
+          }
+        },
+        {
+          "name": "It exploded, I’m not even going to talk about it",
+          "path": "爆了我就不说了.MP3",
+          "description": {
+            "en-US": "It exploded, I’m not even going to talk about it",
+            "zh-CN": "爆了我就不说了",
+            "ja-JP": "爆発した、それについてはもう言わない"
+          }
+        },
+        {
+          "name": "Really?",
+          "path": "真的吗.MP3",
+          "description": {
+            "en-US": "Really?",
+            "zh-CN": "真的吗",
+            "ja-JP": "本当に？"
+          }
+        },
+        {
+          "name": "Apologize to me",
+          "path": "给我道歉.MP3",
+          "description": {
+            "en-US": "Apologize to me",
+            "zh-CN": "给我道歉",
+            "ja-JP": "私に謝って"
+          }
+        },
+        {
+          "name": "Eh, how could you do that to me?",
+          "path": "诶，你怎么能那个我呢.MP3",
+          "description": {
+            "en-US": "Eh, how could you do that to me?",
+            "zh-CN": "诶，你怎么能那个我呢",
+            "ja-JP": "ええ、どうして私にそんなことをするの？"
+          }
+        },
+        {
+          "name": "What’s there to explode about, why are you exploding me!",
+          "path": "这有什么爆的，那你们爆我干嘛！.MP3",
+          "description": {
+            "en-US": "What’s there to explode about, why are you exploding me!",
+            "zh-CN": "这有什么爆的，那你们爆我干嘛！",
+            "ja-JP": "何を爆発させるんだ、どうして私を爆発させるの？"
+          }
+        },
+        {
+          "name": "All the 饼干岁 are dead",
+          "path": "饼干岁都死完了.MP3",
+          "description": {
+            "en-US": "All the 饼干岁 are dead",
+            "zh-CN": "饼干岁都死完了",
+            "ja-JP": "饼干岁はみんな死んだ"
           }
         }
       ]
@@ -826,6 +963,24 @@
             "en-US": "Red bean?",
             "zh-CN": "红豆泥？",
             "ja-JP": "小豆？"
+          }
+        },
+        {
+          "name": "Is it fake?",
+          "path": "假的吧.MP3",
+          "description": {
+            "en-US": "Is it fake?",
+            "zh-CN": "假的吧",
+            "ja-JP": "偽物かな？"
+          }
+        },
+        {
+          "name": "Sigh~",
+          "path": "唉~.MP3",
+          "description": {
+            "en-US": "Sigh~",
+            "zh-CN": "唉~",
+            "ja-JP": "はあ〜"
           }
         }
       ]
@@ -1137,6 +1292,33 @@
             "en-US": "(Rapid breathing) mic pop",
             "zh-CN": "（快速呼吸）喷麦",
             "ja-JP": "（速い呼吸）マイクポップ"
+          }
+        },
+        {
+          "name": "Babang~",
+          "path": "吧邦~.MP3",
+          "description": {
+            "en-US": "Babang~",
+            "zh-CN": "吧邦~",
+            "ja-JP": "ババン〜"
+          }
+        },
+        {
+          "name": "Gua, gua, gua~~",
+          "path": "呱，呱，呱~~.MP3",
+          "description": {
+            "en-US": "Gua, gua, gua~~",
+            "zh-CN": "呱，呱，呱~~",
+            "ja-JP": "グア、グア、グア〜"
+          }
+        },
+        {
+          "name": "Oueh",
+          "path": "欧诶.MP3",
+          "description": {
+            "en-US": "Oueh",
+            "zh-CN": "欧诶",
+            "ja-JP": "オウエイ"
           }
         }
       ]
