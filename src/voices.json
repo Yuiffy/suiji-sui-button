@@ -870,30 +870,12 @@
           }
         },
         {
-          "name": "Ba ba bi bo bi bo",
-          "path": "巴巴比波比波.MP3",
-          "description": {
-            "en-US": "Ba ba bi bo bi bo",
-            "zh-CN": "巴巴比波比波",
-            "ja-JP": "ババビボビボ"
-          }
-        },
-        {
           "name": "When I get angry",
           "path": "当我发火.MP3",
           "description": {
             "en-US": "When I get angry",
             "zh-CN": "当我发火",
             "ja-JP": "私が怒るとき"
-          }
-        },
-        {
-          "name": "Hurry~~",
-          "path": "快点儿~~.MP3",
-          "description": {
-            "en-US": "Hurry~~",
-            "zh-CN": "快点儿~~",
-            "ja-JP": "急いで〜〜"
           }
         },
         {
@@ -1224,6 +1206,15 @@
             "en-US": "OK~~",
             "zh-CN": "OK~~",
             "ja-JP": "OK~~"
+          }
+        },
+        {
+          "name": "Hurry~~",
+          "path": "快点儿~~.MP3",
+          "description": {
+            "en-US": "Hurry~~",
+            "zh-CN": "快点儿~~",
+            "ja-JP": "急いで〜〜"
           }
         }
       ]
@@ -3032,7 +3023,7 @@
           }
         },
         {
-          "name": "No~",
+          "name": "No不要~",
           "path": "不要~.MP3",
           "description": {
             "en-US": "No~",
@@ -4547,6 +4538,15 @@
             "en-US": "Dun dun dun dun (Journey to the West OP)",
             "zh-CN": "噔噔噔噔（西游记OP）",
             "ja-JP": "ドゥンドゥンドゥン（西遊記OP）"
+          }
+        },
+        {
+          "name": "Ba ba bi bo bi bo",
+          "path": "巴巴比波比波.MP3",
+          "description": {
+            "en-US": "Ba ba bi bo bi bo",
+            "zh-CN": "巴巴比波比波",
+            "ja-JP": "ババビボビボ"
           }
         }
       ]
