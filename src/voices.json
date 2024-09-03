@@ -742,6 +742,240 @@
             "zh-CN": "饼干岁都死完了",
             "ja-JP": "饼干岁はみんな死んだ"
           }
+        },
+        {
+          "name": "EA",
+          "path": "EA.MP3",
+          "description": {
+            "en-US": "EA",
+            "zh-CN": "EA",
+            "ja-JP": "EA"
+          }
+        },
+        {
+          "name": "Why, what is this?",
+          "path": "为什么这是什么东西啊.MP3",
+          "description": {
+            "en-US": "Why, what is this?",
+            "zh-CN": "为什么这是什么东西啊",
+            "ja-JP": "なぜ、これは何？"
+          }
+        },
+        {
+          "name": "Why are you controlling me, I think theres no problem",
+          "path": "你为啥控制我，我觉得没啥问题.MP3",
+          "description": {
+            "en-US": "Why are you controlling me, I think there's no problem",
+            "zh-CN": "你干嘛控制我，我觉得没啥问题",
+            "ja-JP": "なんで私をコントロールしてるの、問題ないと思うけど"
+          }
+        },
+        {
+          "name": "Where are you? Where did you die?",
+          "path": "你人呢你死哪去了.MP3",
+          "description": {
+            "en-US": "Where are you? Where did you die?",
+            "zh-CN": "你人呢你死哪去了",
+            "ja-JP": "どこにいるの？どこで死んだの？"
+          }
+        },
+        {
+          "name": "You better be ready for me",
+          "path": "你最好给我准备好了.MP3",
+          "description": {
+            "en-US": "You better be ready for me",
+            "zh-CN": "你最好给我准备好了",
+            "ja-JP": "準備しておいた方がいいよ"
+          }
+        },
+        {
+          "name": "You cat!",
+          "path": "你猫的.MP3",
+          "description": {
+            "en-US": "You cat!",
+            "zh-CN": "你猫的",
+            "ja-JP": "お前猫だ！"
+          }
+        },
+        {
+          "name": "Did it freeze? Kids, this happens when you go in",
+          "path": "卡了吗卡了孩子们，进去的时候是这样的.MP3",
+          "description": {
+            "en-US": "Did it freeze? Kids, this happens when you go in",
+            "zh-CN": "卡了吗卡了孩子们，进去的时候是这样的",
+            "ja-JP": "フリーズした？子供たち、これが入ったときの現象だよ"
+          }
+        },
+        {
+          "name": "Oh, my leg is numb",
+          "path": "哎哟我的腿麻了.MP3",
+          "description": {
+            "en-US": "Oh, my leg is numb",
+            "zh-CN": "哎哟我的腿麻了",
+            "ja-JP": "ああ、足が痺れた"
+          }
+        },
+        {
+          "name": "Oh, it’s gone",
+          "path": "哎没有了.MP3",
+          "description": {
+            "en-US": "Oh, it’s gone",
+            "zh-CN": "哎没有了",
+            "ja-JP": "ああ、なくなった"
+          }
+        },
+        {
+          "name": "Not bad!",
+          "path": "哪里不错啦！.MP3",
+          "description": {
+            "en-US": "Not bad!",
+            "zh-CN": "哪里不错啦！",
+            "ja-JP": "悪くないね！"
+          }
+        },
+        {
+          "name": "Ah~ you scared me to death!",
+          "path": "啊~吓死我了我去.MP3",
+          "description": {
+            "en-US": "Ah~ you scared me to death!",
+            "zh-CN": "啊~吓死我了我去",
+            "ja-JP": "ああ〜死ぬかと思った！"
+          }
+        },
+        {
+          "name": "Mom, mom, mom, you scared me to death!",
+          "path": "妈妈妈妈，妈，吓死我了我去.MP3",
+          "description": {
+            "en-US": "Mom, mom, mom, you scared me to death!",
+            "zh-CN": "妈妈妈妈，妈，吓死我了我去",
+            "ja-JP": "ママ、ママ、ママ、死ぬかと思った！"
+          }
+        },
+        {
+          "name": "Mom, dad, grandpa, grandma",
+          "path": "妈妈爸爸爷爷奶奶.MP3",
+          "description": {
+            "en-US": "Mom, dad, grandpa, grandma",
+            "zh-CN": "妈妈爸爸爷爷奶奶",
+            "ja-JP": "お母さん、お父さん、おじいちゃん、おばあちゃん"
+          }
+        },
+        {
+          "name": "It won’t jump, it doesn’t listen to me",
+          "path": "它不跳，它不听我的.MP3",
+          "description": {
+            "en-US": "It won’t jump, it doesn’t listen to me",
+            "zh-CN": "它不跳，它不听我的",
+            "ja-JP": "ジャンプしない、私の言うことを聞かない"
+          }
+        },
+        {
+          "name": "Ba ba bi bo bi bo",
+          "path": "巴巴比波比波.MP3",
+          "description": {
+            "en-US": "Ba ba bi bo bi bo",
+            "zh-CN": "巴巴比波比波",
+            "ja-JP": "ババビボビボ"
+          }
+        },
+        {
+          "name": "When I get angry",
+          "path": "当我发火.MP3",
+          "description": {
+            "en-US": "When I get angry",
+            "zh-CN": "当我发火",
+            "ja-JP": "私が怒るとき"
+          }
+        },
+        {
+          "name": "Hurry~~",
+          "path": "快点儿~~.MP3",
+          "description": {
+            "en-US": "Hurry~~",
+            "zh-CN": "快点儿~~",
+            "ja-JP": "急いで〜〜"
+          }
+        },
+        {
+          "name": "I’ll give you one last chance",
+          "path": "我再给你最后一个机会.MP3",
+          "description": {
+            "en-US": "I’ll give you one last chance",
+            "zh-CN": "我再给你最后一个机会",
+            "ja-JP": "最後のチャンスをあげる"
+          }
+        },
+        {
+          "name": "I completely understand now",
+          "path": "我已经完全明白了.MP3",
+          "description": {
+            "en-US": "I completely understand now",
+            "zh-CN": "我已经完全明白了",
+            "ja-JP": "私はもう完全に理解しました"
+          }
+        },
+        {
+          "name": "Where’s my game? Why is it gone?",
+          "path": "我游戏呢，怎么没啦.MP3",
+          "description": {
+            "en-US": "Where’s my game? Why is it gone?",
+            "zh-CN": "我游戏呢，怎么没啦",
+            "ja-JP": "私のゲームはどこ？どうしてなくなったの？"
+          }
+        },
+        {
+          "name": "Wombat poops square",
+          "path": "拉屎方方的袋熊啊.MP3",
+          "description": {
+            "en-US": "Wombat poops square",
+            "zh-CN": "拉屎方方的袋熊啊",
+            "ja-JP": "うんちは四角いウォンバットだよ"
+          }
+        },
+        {
+          "name": "Shove it in your mouth",
+          "path": "插你嘴里.MP3",
+          "description": {
+            "en-US": "Shove it in your mouth",
+            "zh-CN": "插你嘴里",
+            "ja-JP": "君の口に突っ込む"
+          }
+        },
+        {
+          "name": "Just watch my moves",
+          "path": "看我的操作吧你就.MP3",
+          "description": {
+            "en-US": "Just watch my moves",
+            "zh-CN": "看我的操作吧你就",
+            "ja-JP": "私の操作を見てなさい"
+          }
+        },
+        {
+          "name": "Alan, I saw Alan",
+          "path": "艾伦我看到艾伦了.MP3",
+          "description": {
+            "en-US": "Alan, I saw Alan",
+            "zh-CN": "艾伦我看到艾伦了",
+            "ja-JP": "アラン、アランを見た"
+          }
+        },
+        {
+          "name": "Jump jump",
+          "path": "跳跳.MP3",
+          "description": {
+            "en-US": "Jump jump",
+            "zh-CN": "跳跳",
+            "ja-JP": "ジャンプジャンプ"
+          }
+        },
+        {
+          "name": "It hasn’t even started and you’re happy",
+          "path": "还没开始你就开心了.MP3",
+          "description": {
+            "en-US": "It hasn’t even started and you’re happy",
+            "zh-CN": "还没开始你就开心了",
+            "ja-JP": "まだ始まってもいないのに君は喜んでいる"
+          }
         }
       ]
     },
@@ -981,6 +1215,15 @@
             "en-US": "Sigh~",
             "zh-CN": "唉~",
             "ja-JP": "はあ〜"
+          }
+        },
+        {
+          "name": "OK~~",
+          "path": "OK~~.MP3",
+          "description": {
+            "en-US": "OK~~",
+            "zh-CN": "OK~~",
+            "ja-JP": "OK~~"
           }
         }
       ]
@@ -4295,6 +4538,15 @@
           "description": {
             "en-US": "Guizhou compare to Guangxi",
             "zh-CN": "贵州和广西相比"
+          }
+        },
+        {
+          "name": "Dun dun dun dun (Journey to the West OP)",
+          "path": "噔噔噔噔（西游记OP）.MP3",
+          "description": {
+            "en-US": "Dun dun dun dun (Journey to the West OP)",
+            "zh-CN": "噔噔噔噔（西游记OP）",
+            "ja-JP": "ドゥンドゥンドゥン（西遊記OP）"
           }
         }
       ]
