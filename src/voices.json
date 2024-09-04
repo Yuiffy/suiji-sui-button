@@ -983,15 +983,6 @@
             "zh-CN": "哎我们今天干嘛啊大家都不知道干嘛",
             "ja-JP": "今日は何をするの？みんな何をすべきかわからない"
           }
-        },
-        {
-          "name": "The effort of streaming means nothing to you, its just a formula",
-          "path": "岁己的努力直播在你眼里只是公式.MP3",
-          "description": {
-            "en-US": "The effort of streaming means nothing to you, it's just a formula",
-            "zh-CN": "岁己的努力直播在你眼里只是公式",
-            "ja-JP": "配信の努力は君にとって何の意味もない、ただの公式だ"
-          }
         }
       ]
     },
@@ -4745,6 +4736,15 @@
             "en-US": "A natural stream",
             "zh-CN": "自然而然的直播",
             "ja-JP": "自然な配信"
+          }
+        },
+        {
+          "name": "The effort of streaming means nothing to you, its just a formula",
+          "path": "岁己的努力直播在你眼里只是公式.MP3",
+          "description": {
+            "en-US": "The effort of streaming means nothing to you, it's just a formula",
+            "zh-CN": "岁己的努力直播在你眼里只是公式",
+            "ja-JP": "配信の努力は君にとって何の意味もない、ただの公式だ"
           }
         }
       ]
