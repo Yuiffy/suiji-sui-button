@@ -624,7 +624,6 @@
             "ja-JP": "泣かない子供にはお菓子がない"
           }
         },
-
         {
           "name": "Apologize to me, youve made me so anxious",
           "path": "向我道歉，搞得我七上八下.MP3",
@@ -670,7 +669,6 @@
             "ja-JP": "息ができないような気がする"
           }
         },
-
         {
           "name": "Settle down",
           "path": "沉淀吧.MP3",
@@ -958,6 +956,42 @@
             "zh-CN": "还没开始你就开心了",
             "ja-JP": "まだ始まってもいないのに君は喜んでいる"
           }
+        },
+        {
+          "name": "Starting today, no kids allowed",
+          "path": "从今天开始禁止孩子们.MP3",
+          "description": {
+            "en-US": "Starting today, no kids allowed",
+            "zh-CN": "从今天开始禁止孩子们",
+            "ja-JP": "今日から子供は禁止"
+          }
+        },
+        {
+          "name": "Guess what Im going to say next, we are doing today? Please stop guessing",
+          "path": "你猜我下一句话是我们今天干什么，求求你别猜了.MP3",
+          "description": {
+            "en-US": "Guess what I'm going to say next, we are doing today? Please stop guessing",
+            "zh-CN": "你猜我下一句话是我们今天干什么，求求你别猜了",
+            "ja-JP": "次に何を言うかを当てて、今日何をするの？もう推測しないで"
+          }
+        },
+        {
+          "name": "What are we doing today? Nobody knows what to do",
+          "path": "哎我们今天干嘛啊大家都不知道干嘛.MP3",
+          "description": {
+            "en-US": "What are we doing today? Nobody knows what to do",
+            "zh-CN": "哎我们今天干嘛啊大家都不知道干嘛",
+            "ja-JP": "今日は何をするの？みんな何をすべきかわからない"
+          }
+        },
+        {
+          "name": "The effort of streaming means nothing to you, its just a formula",
+          "path": "岁己的努力直播在你眼里只是公式.MP3",
+          "description": {
+            "en-US": "The effort of streaming means nothing to you, it's just a formula",
+            "zh-CN": "岁己的努力直播在你眼里只是公式",
+            "ja-JP": "配信の努力は君にとって何の意味もない、ただの公式だ"
+          }
         }
       ]
     },
@@ -1215,6 +1249,78 @@
             "en-US": "Hurry~~",
             "zh-CN": "快点儿~~",
             "ja-JP": "急いで〜〜"
+          }
+        },
+        {
+          "name": "Chi~ldren",
+          "path": "孩~子们.MP3",
+          "description": {
+            "en-US": "Chi~ldren",
+            "zh-CN": "孩~子们",
+            "ja-JP": "こ~どもたち"
+          }
+        },
+        {
+          "name": "Kids",
+          "path": "孩子们.MP3",
+          "description": {
+            "en-US": "Kids",
+            "zh-CN": "孩子们",
+            "ja-JP": "子供たち"
+          }
+        },
+        {
+          "name": "Kids 2",
+          "path": "孩子们2.MP3",
+          "description": {
+            "en-US": "Kids 2",
+            "zh-CN": "孩子们2",
+            "ja-JP": "子供たち 2"
+          }
+        },
+        {
+          "name": "The kids are gone",
+          "path": "孩子们走了.MP3",
+          "description": {
+            "en-US": "The kids are gone",
+            "zh-CN": "孩子们走了",
+            "ja-JP": "子供たちは行った"
+          }
+        },
+        {
+          "name": "Kids!",
+          "path": "孩子们！.MP3",
+          "description": {
+            "en-US": "Kids!",
+            "zh-CN": "孩子们！",
+            "ja-JP": "子供たち！"
+          }
+        },
+        {
+          "name": "Gone",
+          "path": "走了.MP3",
+          "description": {
+            "en-US": "Gone",
+            "zh-CN": "走了",
+            "ja-JP": "行った"
+          }
+        },
+        {
+          "name": "Gone, oh",
+          "path": "走了喔.MP3",
+          "description": {
+            "en-US": "Gone, oh",
+            "zh-CN": "走了喔",
+            "ja-JP": "行ったよ"
+          }
+        },
+        {
+          "name": "Gone, kids, I’m leaving",
+          "path": "走咯孩子们，我走了.MP3",
+          "description": {
+            "en-US": "Gone, kids, I’m leaving",
+            "zh-CN": "走咯孩子们，我走了",
+            "ja-JP": "行くよ、子供たち、私は行く"
           }
         }
       ]
@@ -1553,6 +1659,15 @@
             "en-US": "Oueh",
             "zh-CN": "欧诶",
             "ja-JP": "オウエイ"
+          }
+        },
+        {
+          "name": "Ah ↑",
+          "path": "哎呀↑.MP3",
+          "description": {
+            "en-US": "Ah ↑",
+            "zh-CN": "哎呀↑",
+            "ja-JP": "ああ↑"
           }
         }
       ]
@@ -4621,6 +4736,15 @@
             "en-US": "Log into my voice webpage",
             "zh-CN": "登录到岁己的语音网页里",
             "ja-JP": "自分の声のウェブページにログイン"
+          }
+        },
+        {
+          "name": "A natural stream",
+          "path": "自然而然的直播.MP3",
+          "description": {
+            "en-US": "A natural stream",
+            "zh-CN": "自然而然的直播",
+            "ja-JP": "自然な配信"
           }
         }
       ]
