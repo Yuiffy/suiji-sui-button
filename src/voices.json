@@ -983,6 +983,142 @@
             "zh-CN": "哎我们今天干嘛啊大家都不知道干嘛",
             "ja-JP": "今日は何をするの？みんな何をすべきかわからない"
           }
+        },
+        {
+          "name": "Ah Biscuit Sui Biscuit Sui",
+          "path": "啊饼干岁饼干岁.MP3",
+          "description": {
+            "en-US": "Ah Biscuit Sui Biscuit Sui",
+            "zh-CN": "啊饼干岁饼干岁",
+            "ja-JP": "ああビスケットスイビスケットスイ"
+          }
+        },
+
+        {
+          "name": "What’s wrong with me",
+          "path": "我咋了我到底.MP3",
+          "description": {
+            "en-US": "What’s wrong with me",
+            "zh-CN": "我咋了我到底",
+            "ja-JP": "私どうしたの"
+          }
+        },
+        {
+          "name": "What’s wrong with me (laugh)",
+          "path": "我咋了（笑）.MP3",
+          "description": {
+            "en-US": "What’s wrong with me (laugh)",
+            "zh-CN": "我咋了（笑）",
+            "ja-JP": "私どうしたの（笑）"
+          }
+        },
+        {
+          "name": "What’s wrong with me (voice)",
+          "path": "我咋了（语音）.MP3",
+          "description": {
+            "en-US": "What’s wrong with me (voice)",
+            "zh-CN": "我咋了（语音）",
+            "ja-JP": "私どうしたの（音声）"
+          }
+        },
+        {
+          "name": "I just want to eat hotpot this way",
+          "path": "我就要这么吃火锅！.MP3",
+          "description": {
+            "en-US": "I just want to eat hotpot this way",
+            "zh-CN": "我就要这么吃火锅！",
+            "ja-JP": "こうやって火鍋を食べたいだけだ"
+          }
+        },
+        {
+          "name": "I said what’s wrong with me",
+          "path": "我说我咋了.MP3",
+          "description": {
+            "en-US": "I said what’s wrong with me",
+            "zh-CN": "我说我咋了",
+            "ja-JP": "私はどうしたと言った"
+          }
+        },
+        {
+          "name": "Rub the right side, then rub the left side",
+          "path": "揉一下右边再揉一下左边.MP3",
+          "description": {
+            "en-US": "Rub the right side, then rub the left side",
+            "zh-CN": "揉一下右边再揉一下左边",
+            "ja-JP": "右側を揉んでから左側を揉む"
+          }
+        },
+        {
+          "name": "Who is it",
+          "path": "是谁啊？.MP3",
+          "description": {
+            "en-US": "Who is it",
+            "zh-CN": "是谁啊？",
+            "ja-JP": "誰なの"
+          }
+        },
+        {
+          "name": "Good night baby",
+          "path": "晚安宝宝.MP3",
+          "description": {
+            "en-US": "Good night baby",
+            "zh-CN": "晚安宝宝",
+            "ja-JP": "おやすみ赤ちゃん"
+          }
+        },
+        {
+          "name": "Cannot let go, cannot let go",
+          "path": "舍不得舍不得舍不得.MP3",
+          "description": {
+            "en-US": "Cannot let go, cannot let go",
+            "zh-CN": "舍不得舍不得舍不得",
+            "ja-JP": "手放せない、手放せない"
+          }
+        },
+        {
+          "name": "Who is it who is it",
+          "path": "谁是，谁是！.MP3",
+          "description": {
+            "en-US": "Who is it who is it",
+            "zh-CN": "谁是，谁是！",
+            "ja-JP": "誰だ、誰だ"
+          }
+        },
+        {
+          "name": "Biscuit Sui love",
+          "path": "饼干岁love.MP3",
+          "description": {
+            "en-US": "Biscuit Sui love",
+            "zh-CN": "饼干岁love",
+            "ja-JP": "ビスケットスイラブ"
+          }
+        },
+        {
+          "name": "Biscuit Sui are you there",
+          "path": "饼干岁你在吗.MP3",
+          "description": {
+            "en-US": "Biscuit Sui are you there",
+            "zh-CN": "饼干岁你在吗",
+            "ja-JP": "ビスケットスイいるの"
+          }
+        },
+        {
+          "name": "Biscuit Sui I tell you, you can only like me, no talking to other women",
+          "path": "饼干岁我告诉你只许喜欢我一个人，不许跟别的女人说话！.MP3",
+          "description": {
+            "en-US": "Biscuit Sui I tell you, you can only like me, no talking to other women",
+            "zh-CN": "饼干岁我告诉你只许喜欢我一个人，不许跟别的女人说话！",
+            "ja-JP": "ビスケットスイ、あなただけ私を好きでなければならない、他の女性と話してはいけない"
+          }
+        },
+        {
+          "name": "Biscuit Sui speak ah uh hum",
+          "path": "饼干岁说话啊啊哼.MP3",
+          "description": {
+            "en-US": "Biscuit Sui speak ah uh hum",
+            "zh-CN": "饼干岁说话啊啊哼",
+            "ja-JP": "ビスケットスイ話して、ああうん"
+          }
         }
       ]
     },
@@ -1312,6 +1448,69 @@
             "en-US": "Gone, kids, I’m leaving",
             "zh-CN": "走咯孩子们，我走了",
             "ja-JP": "行くよ、子供たち、私は行く"
+          }
+        },
+        {
+          "name": "You are",
+          "path": "你是.MP3",
+          "description": {
+            "en-US": "You are",
+            "zh-CN": "你是",
+            "ja-JP": "あなたは"
+          }
+        },
+        {
+          "name": "What!",
+          "path": "咋了！.MP3",
+          "description": {
+            "en-US": "What!",
+            "zh-CN": "咋了！",
+            "ja-JP": "何！"
+          }
+        },
+        {
+          "name": "Wawawa",
+          "path": "哇哇哇.MP3",
+          "description": {
+            "en-US": "Wawawa",
+            "zh-CN": "哇哇哇",
+            "ja-JP": "ワーワー"
+          }
+        },
+        {
+          "name": "How is it fierce",
+          "path": "哪里凶了.MP3",
+          "description": {
+            "en-US": "How is it fierce",
+            "zh-CN": "哪里凶了",
+            "ja-JP": "どこが怖いの"
+          }
+        },
+        {
+          "name": "Is it done? No!",
+          "path": "好了？不好！.MP3",
+          "description": {
+            "en-US": "Is it done? No!",
+            "zh-CN": "好了？不好！",
+            "ja-JP": "終わった？いいえ！"
+          }
+        },
+        {
+          "name": "Baby",
+          "path": "宝宝.MP3",
+          "description": {
+            "en-US": "Baby",
+            "zh-CN": "宝宝",
+            "ja-JP": "赤ちゃん"
+          }
+        },
+        {
+          "name": "What’s up",
+          "path": "干嘛.MP3",
+          "description": {
+            "en-US": "What’s up",
+            "zh-CN": "干嘛",
+            "ja-JP": "何してるの"
           }
         }
       ]
@@ -1659,6 +1858,42 @@
             "en-US": "Ah ↑",
             "zh-CN": "哎呀↑",
             "ja-JP": "ああ↑"
+          }
+        },
+        {
+          "name": "Yawn (old)",
+          "path": "呵欠（老）.MP3",
+          "description": {
+            "en-US": "Yawn (old)",
+            "zh-CN": "呵欠（老）",
+            "ja-JP": "あくび（老人風）"
+          }
+        },
+        {
+          "name": "Oh ah ah uh (yawn)",
+          "path": "哦啊啊呃（哈欠）.MP3",
+          "description": {
+            "en-US": "Oh ah ah uh (yawn)",
+            "zh-CN": "哦啊啊呃（哈欠）",
+            "ja-JP": "オーアーアー（あくび）"
+          }
+        },
+        {
+          "name": "Super big sneeze",
+          "path": "超大喷嚏.MP3",
+          "description": {
+            "en-US": "Super big sneeze",
+            "zh-CN": "超大喷嚏",
+            "ja-JP": "超大なくしゃみ"
+          }
+        },
+        {
+          "name": "Yes yes say it say it ahhhh uh",
+          "path": "对啊对啊快说快说啊啊啊啊呃.MP3",
+          "description": {
+            "en-US": "Yes yes say it say it ahhhh uh",
+            "zh-CN": "对啊对啊快说快说啊啊啊啊呃",
+            "ja-JP": "そうそう言って言ってああああ"
           }
         }
       ]
