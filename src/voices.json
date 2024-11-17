@@ -1119,6 +1119,168 @@
             "zh-CN": "饼干岁说话啊啊哼",
             "ja-JP": "ビスケットスイ話して、ああうん"
           }
+        },
+        {
+          "name": "Say it again, do you think I wont dare hit you",
+          "path": "你再说一句，是不是以为我不敢打你.MP3",
+          "description": {
+            "en-US": "Say it again, do you think I wont dare hit you",
+            "zh-CN": "你再说一句，是不是以为我不敢打你",
+            "ja-JP": "もう一度言ってみて、私が殴らないとでも思っているのか？"
+          }
+        },
+        {
+          "name": "You dare laugh",
+          "path": "你还敢笑？.MP3",
+          "description": {
+            "en-US": "You dare laugh",
+            "zh-CN": "你还敢笑？",
+            "ja-JP": "君、まだ笑えるのか？"
+          }
+        },
+        {
+          "name": "Oh, so satisfying",
+          "path": "哦好爽啊我去.MP3",
+          "description": {
+            "en-US": "Oh, so satisfying",
+            "zh-CN": "哦好爽啊我去",
+            "ja-JP": "ああ、気持ちいい"
+          }
+        },
+        {
+          "name": "Ah hit speak",
+          "path": "啊（打）说话！.MP3",
+          "description": {
+            "en-US": "Ah hit speak",
+            "zh-CN": "啊（打）说话！",
+            "ja-JP": "ああ 殴って 話せ"
+          }
+        },
+        {
+          "name": "So painful",
+          "path": "好痛.MP3",
+          "description": {
+            "en-US": "So painful",
+            "zh-CN": "好痛",
+            "ja-JP": "痛い"
+          }
+        },
+        {
+          "name": "How is it, scared now",
+          "path": "怎么样，怕了吧.MP3",
+          "description": {
+            "en-US": "How is it, scared now",
+            "zh-CN": "怎么样，怕了吧",
+            "ja-JP": "どうだ、怖くなったか？"
+          }
+        },
+        {
+          "name": "Scared now",
+          "path": "怕了吧.MP3",
+          "description": {
+            "en-US": "Scared now",
+            "zh-CN": "怕了吧",
+            "ja-JP": "怖くなったか？"
+          }
+        },
+        {
+          "name": "I am not two dimensional, I am normal",
+          "path": "我不是二次元，我是…现充.MP3",
+          "description": {
+            "en-US": "I am not two dimensional, I am... normal",
+            "zh-CN": "我不是二次元，我是…现充",
+            "ja-JP": "私は二次元ではない、私は…リア充"
+          }
+        },
+        {
+          "name": "Am I fierce",
+          "path": "我凶吗.MP3",
+          "description": {
+            "en-US": "Am I fierce",
+            "zh-CN": "我凶吗",
+            "ja-JP": "私、怖い？"
+          }
+        },
+        {
+          "name": "I am already very gentle",
+          "path": "我已经很温柔了呀.MP3",
+          "description": {
+            "en-US": "I am already very gentle",
+            "zh-CN": "我已经很温柔了呀",
+            "ja-JP": "私はもう十分優しい"
+          }
+        },
+        {
+          "name": "I will hit you to death",
+          "path": "我打死你.MP3",
+          "description": {
+            "en-US": "I will hit you to death",
+            "zh-CN": "我打死你",
+            "ja-JP": "殴り殺すぞ"
+          }
+        },
+        {
+          "name": "Comfortable? I am not comfortable",
+          "path": "舒服？我不舒服.MP3",
+          "description": {
+            "en-US": "Comfortable? I am not comfortable",
+            "zh-CN": "舒服？我不舒服",
+            "ja-JP": "気持ちいい？私は気持ちよくない"
+          }
+        },
+        {
+          "name": "Eh",
+          "path": "诶？.MP3",
+          "description": {
+            "en-US": "Eh",
+            "zh-CN": "诶？",
+            "ja-JP": "えっ"
+          }
+        },
+        {
+          "name": "Squat down, hands behind your back",
+          "path": "蹲下，把手背在后面.MP3",
+          "description": {
+            "en-US": "Squat down, hands behind your back",
+            "zh-CN": "蹲下，把手背在后面",
+            "ja-JP": "しゃがんで、手を後ろに"
+          }
+        },
+        {
+          "name": "Still dare to talk back, ah",
+          "path": "还敢犟嘴吗，啊？.MP3",
+          "description": {
+            "en-US": "Still dare to talk back, ah",
+            "zh-CN": "还敢犟嘴吗，啊？",
+            "ja-JP": "まだ口答えするのか？ああ？"
+          }
+        },
+        {
+          "name": "Still dare to speak, ah",
+          "path": "还敢说话吗，啊？.MP3",
+          "description": {
+            "en-US": "Still dare to speak, ah",
+            "zh-CN": "还敢说话吗，啊？",
+            "ja-JP": "まだ話すのか？ああ？"
+          }
+        },
+        {
+          "name": "Isn’t this funny? Tsk",
+          "path": "这不好笑吗？啧.MP3",
+          "description": {
+            "en-US": "Isn’t this funny? Tsk",
+            "zh-CN": "这不好笑吗？啧",
+            "ja-JP": "これ面白くない？チッ"
+          }
+        },
+        {
+          "name": "Slap slap slap it hurts",
+          "path": "（啪啪啪打）好痛啊.MP3",
+          "description": {
+            "en-US": "Slap slap slap it hurts",
+            "zh-CN": "（啪啪啪打）好痛啊",
+            "ja-JP": "パチパチパチ 痛い"
+          }
         }
       ]
     },
