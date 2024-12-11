@@ -1281,6 +1281,744 @@
             "zh-CN": "（啪啪啪打）好痛啊",
             "ja-JP": "パチパチパチ 痛い"
           }
+        },
+        {
+          "name": "bobobobo",
+          "path": "bobobobo！.MP3",
+          "description": {
+            "en-US": "bobobobo",
+            "zh-CN": "bobobobo",
+            "ja-JP": "ボボボボ"
+          }
+        },
+        {
+          "name": "Isnt it fun",
+          "path": "不好玩吗.MP3",
+          "description": {
+            "en-US": "Isnt it fun",
+            "zh-CN": "不好玩吗",
+            "ja-JP": "楽しくないの？"
+          }
+        },
+        {
+          "name": "Dont leave",
+          "path": "不要走！.MP3",
+          "description": {
+            "en-US": "Dont leave",
+            "zh-CN": "不要走",
+            "ja-JP": "行かないで"
+          }
+        },
+        {
+          "name": "You just let me watch this",
+          "path": "你们就让我看这个.MP3",
+          "description": {
+            "en-US": "You just let me watch this",
+            "zh-CN": "你们就让我看这个",
+            "ja-JP": "これだけ見せてくれるの？"
+          }
+        },
+        {
+          "name": "Where are you all, babies",
+          "path": "你们都在哪宝宝们.MP3",
+          "description": {
+            "en-US": "Where are you all, babies",
+            "zh-CN": "你们都在哪宝宝们",
+            "ja-JP": "みんなどこにいるの、赤ちゃんたち"
+          }
+        },
+        {
+          "name": "Whose badge do you want to wear, huh",
+          "path": "你想戴谁的牌子，啊？.MP3",
+          "description": {
+            "en-US": "Whose badge do you want to wear, huh",
+            "zh-CN": "你想戴谁的牌子，啊？",
+            "ja-JP": "誰のバッジをつけたいの？ああ？"
+          }
+        },
+        {
+          "name": "You are my Youlemei",
+          "path": "你是我的优乐美.MP3",
+          "description": {
+            "en-US": "You are my Youlemei",
+            "zh-CN": "你是我的优乐美",
+            "ja-JP": "君は私のユーレイメイ"
+          }
+        },
+        {
+          "name": "Look, you are not talking, how do I know what you mean",
+          "path": "你看你又不说话，我咋知道你想咋子嘛.MP3",
+          "description": {
+            "en-US": "Look, you are not talking, how do I know what you mean",
+            "zh-CN": "你看你又不说话，我咋知道你想咋子嘛",
+            "ja-JP": "君はまた黙ってる、どうやって君の考えを知るの？"
+          }
+        },
+        {
+          "name": "Kneel down to me",
+          "path": "你给我跪下.MP3",
+          "description": {
+            "en-US": "Kneel down to me",
+            "zh-CN": "你给我跪下",
+            "ja-JP": "私に跪け"
+          }
+        },
+        {
+          "name": "You are not Biscuit Sui",
+          "path": "你都不是饼干岁.MP3",
+          "description": {
+            "en-US": "You are not Biscuit Sui",
+            "zh-CN": "你都不是饼干岁",
+            "ja-JP": "君はビスケットスイじゃない"
+          }
+        },
+        {
+          "name": "Who is comfortable, I am not comfortable",
+          "path": "到底谁舒服了，我没舒服.MP3",
+          "description": {
+            "en-US": "Who is comfortable, I am not comfortable",
+            "zh-CN": "到底谁舒服了，我没舒服",
+            "ja-JP": "誰が気持ちいい？私は気持ちよくない"
+          }
+        },
+        {
+          "name": "E hehehe (silly laugh)",
+          "path": "呃嘿嘿嘿（傻笑）.MP3",
+          "description": {
+            "en-US": "E hehehe (silly laugh)",
+            "zh-CN": "呃嘿嘿嘿（傻笑）",
+            "ja-JP": "えへへへ（ばか笑い）"
+          }
+        },
+        {
+          "name": "Eh, then what",
+          "path": "呃？然后呢？.MP3",
+          "description": {
+            "en-US": "Eh, then what",
+            "zh-CN": "呃？然后呢？",
+            "ja-JP": "え？それで？"
+          }
+        },
+        {
+          "name": "Woo ah ah ah (yawn)",
+          "path": "呜哇，哇啊（呵欠）.MP3",
+          "description": {
+            "en-US": "Woo ah ah ah (yawn)",
+            "zh-CN": "呜哇，哇啊（呵欠）",
+            "ja-JP": "うわあ、ああ（あくび）"
+          }
+        },
+        {
+          "name": "Ha ha ha shout",
+          "path": "哈~哈哈（叫）.MP3",
+          "description": {
+            "en-US": "Ha ha ha shout",
+            "zh-CN": "哈~哈哈（叫）",
+            "ja-JP": "ハ〜ハハ（叫び）"
+          }
+        },
+        {
+          "name": "Ouch it hurts, dont bite me (Sichuan dialect)",
+          "path": "哎呀好痛啊不要咬我（四川话）.MP3",
+          "description": {
+            "en-US": "Ouch it hurts, dont bite me (Sichuan dialect)",
+            "zh-CN": "哎呀好痛啊不要咬我（四川话）",
+            "ja-JP": "ああ痛い、噛まないで（四川方言）"
+          }
+        },
+        {
+          "name": "Ouch dead pig",
+          "path": "哎呀死猪.MP3",
+          "description": {
+            "en-US": "Ouch dead pig",
+            "zh-CN": "哎呀死猪",
+            "ja-JP": "ああ死んだ豚"
+          }
+        },
+        {
+          "name": "Oops oops I was wrong",
+          "path": "哎哟嗷嗷我错了我错了.MP3",
+          "description": {
+            "en-US": "Oops oops I was wrong",
+            "zh-CN": "哎哟嗷嗷我错了我错了",
+            "ja-JP": "ああ、ああ私は間違っていた"
+          }
+        },
+        {
+          "name": "Oh no I dont understand",
+          "path": "哎完了我不懂了.MP3",
+          "description": {
+            "en-US": "Oh no I dont understand",
+            "zh-CN": "哎完了我不懂了",
+            "ja-JP": "ああもうわからない"
+          }
+        },
+        {
+          "name": "Eh, then what to do",
+          "path": "哎？那怎么办呢.MP3",
+          "description": {
+            "en-US": "Eh, then what to do",
+            "zh-CN": "哎？那怎么办呢",
+            "ja-JP": "え、それでどうする？"
+          }
+        },
+        {
+          "name": "Hum",
+          "path": "哼~.MP3",
+          "description": {
+            "en-US": "Hum",
+            "zh-CN": "哼~",
+            "ja-JP": "フン〜"
+          }
+        },
+        {
+          "name": "Haha you didnt catch me at all",
+          "path": "啊哈哈哈你根本没有抓住我.MP3",
+          "description": {
+            "en-US": "Haha you didnt catch me at all",
+            "zh-CN": "啊哈哈哈你根本没有抓住我",
+            "ja-JP": "ハハハ、君は私を捕まえていない"
+          }
+        },
+        {
+          "name": "Haha crying with joy",
+          "path": "啊哈哈（喜极而泣）.MP3",
+          "description": {
+            "en-US": "Haha crying with joy",
+            "zh-CN": "啊哈哈（喜极而泣）",
+            "ja-JP": "ハハハ（嬉し泣き）"
+          }
+        },
+        {
+          "name": "Ahhh",
+          "path": "啊啊啊~.MP3",
+          "description": {
+            "en-US": "Ahhh",
+            "zh-CN": "啊啊啊~",
+            "ja-JP": "あああ〜"
+          }
+        },
+        {
+          "name": "Ah it hurts",
+          "path": "啊好疼啊啊.MP3",
+          "description": {
+            "en-US": "Ah it hurts",
+            "zh-CN": "啊好疼啊啊",
+            "ja-JP": "ああ痛い"
+          }
+        },
+        {
+          "name": "Ah so nervous",
+          "path": "啊好紧张我去，啊！.MP3",
+          "description": {
+            "en-US": "Ah so nervous",
+            "zh-CN": "啊好紧张我去，啊！",
+            "ja-JP": "ああ緊張する"
+          }
+        },
+        {
+          "name": "Ah, can the time be adjusted",
+          "path": "啊时间可以调吗.MP3",
+          "description": {
+            "en-US": "Ah, can the time be adjusted",
+            "zh-CN": "啊时间可以调吗",
+            "ja-JP": "ああ、時間を調整できますか"
+          }
+        },
+        {
+          "name": "Ah! Oh, you scared me",
+          "path": "啊！哦吓我一跳.MP3",
+          "description": {
+            "en-US": "Ah! Oh, you scared me",
+            "zh-CN": "啊！哦吓我一跳",
+            "ja-JP": "ああ！おお、びっくりした"
+          }
+        },
+        {
+          "name": "Sneeze (wet)",
+          "path": "喷嚏（湿）.MP3",
+          "description": {
+            "en-US": "Sneeze (wet)",
+            "zh-CN": "喷嚏（湿）",
+            "ja-JP": "くしゃみ（湿った）"
+          }
+        },
+        {
+          "name": "Hmm gei gei gei gei (laugh)",
+          "path": "嗯给给给给（笑）.MP3",
+          "description": {
+            "en-US": "Hmm gei gei gei gei (laugh)",
+            "zh-CN": "嗯给给给给（笑）",
+            "ja-JP": "うん、ゲゲゲゲ（笑）"
+          }
+        },
+        {
+          "name": "Puh",
+          "path": "噗.MP3",
+          "description": {
+            "en-US": "Puh",
+            "zh-CN": "噗",
+            "ja-JP": "ぷっ"
+          }
+        },
+        {
+          "name": "Oh, I understand",
+          "path": "噢我懂了.MP3",
+          "description": {
+            "en-US": "Oh, I understand",
+            "zh-CN": "噢我懂了",
+            "ja-JP": "ああ、わかった"
+          }
+        },
+        {
+          "name": "Oh my, you are too lewd",
+          "path": "天哪你们也太色情了吧.MP3",
+          "description": {
+            "en-US": "Oh my, you are too lewd",
+            "zh-CN": "天哪你们也太色情了吧",
+            "ja-JP": "なんてこと、あなたたちはエッチすぎる"
+          }
+        },
+        {
+          "name": "So humorous",
+          "path": "太幽默了.MP3",
+          "description": {
+            "en-US": "So humorous",
+            "zh-CN": "太幽默了",
+            "ja-JP": "とてもユーモラスだ"
+          }
+        },
+        {
+          "name": "Such a cheat~",
+          "path": "太耍赖了~.MP3",
+          "description": {
+            "en-US": "Such a cheat~",
+            "zh-CN": "太耍赖了~",
+            "ja-JP": "とてもずるい〜"
+          }
+        },
+        {
+          "name": "Is it fun? A little",
+          "path": "好玩吗？有一点.MP3",
+          "description": {
+            "en-US": "Is it fun? A little",
+            "zh-CN": "好玩吗？有一点",
+            "ja-JP": "楽しい？少しだけ"
+          }
+        },
+        {
+          "name": "How is my skill",
+          "path": "姐的技术怎么样.MP3",
+          "description": {
+            "en-US": "How is my skill",
+            "zh-CN": "姐的技术怎么样",
+            "ja-JP": "私の技術はどう？"
+          }
+        },
+        {
+          "name": "Little Sui is here",
+          "path": "小岁在呢.MP3",
+          "description": {
+            "en-US": "Little Sui is here",
+            "zh-CN": "小岁在呢",
+            "ja-JP": "シャオスイがいるよ"
+          }
+        },
+        {
+          "name": "Little biscuit baby",
+          "path": "小饼宝宝.MP3",
+          "description": {
+            "en-US": "Little biscuit baby",
+            "zh-CN": "小饼宝宝",
+            "ja-JP": "ビスケットちゃん"
+          }
+        },
+        {
+          "name": "Sui Ji appears",
+          "path": "岁己出现.MP3",
+          "description": {
+            "en-US": "Sui Ji appears",
+            "zh-CN": "岁己出现",
+            "ja-JP": "スイジが現れた"
+          }
+        },
+        {
+          "name": "Sui Ji is treated like a fool by them",
+          "path": "岁己被他们当成傻子.MP3",
+          "description": {
+            "en-US": "Sui Ji is treated like a fool by them",
+            "zh-CN": "岁己被他们当成傻子",
+            "ja-JP": "スイジは彼らにバカにされている"
+          }
+        },
+        {
+          "name": "Helping the teacher record transactions",
+          "path": "帮老师记录流水的.MP3",
+          "description": {
+            "en-US": "Helping the teacher record transactions",
+            "zh-CN": "帮老师记录流水的",
+            "ja-JP": "先生のために取引を記録する"
+          }
+        },
+        {
+          "name": "Quickly call me back, hurry up",
+          "path": "快呼唤我回来呀快点.MP3",
+          "description": {
+            "en-US": "Quickly call me back, hurry up",
+            "zh-CN": "快呼唤我回来呀快点",
+            "ja-JP": "早く私を呼び戻して、急いで"
+          }
+        },
+        {
+          "name": "Yo-yo emperor",
+          "path": "悠悠球皇帝.MP3",
+          "description": {
+            "en-US": "Yo-yo emperor",
+            "zh-CN": "悠悠球皇帝",
+            "ja-JP": "ヨーヨーの皇帝"
+          }
+        },
+        {
+          "name": "We are not that kind of relationship",
+          "path": "我们不是那种关系.MP3",
+          "description": {
+            "en-US": "We are not that kind of relationship",
+            "zh-CN": "我们不是那种关系",
+            "ja-JP": "私たちはそういう関係じゃない"
+          }
+        },
+        {
+          "name": "Oh my, what are you thinking again",
+          "path": "我去你们又在想什么呀.MP3",
+          "description": {
+            "en-US": "Oh my, what are you thinking again",
+            "zh-CN": "我去你们又在想什么呀",
+            "ja-JP": "ああ、また何を考えているの？"
+          }
+        },
+        {
+          "name": "Am I strong, hmm hmm, girl, are you fascinated by me",
+          "path": "我强不强嗯哼嗯哼丫头怎么样很为我着迷吧.MP3",
+          "description": {
+            "en-US": "Am I strong, hmm hmm, girl, are you fascinated by me",
+            "zh-CN": "我强不强嗯哼嗯哼丫头怎么样很为我着迷吧",
+            "ja-JP": "私強いでしょ、うーんうーん、女の子、私に夢中でしょ"
+          }
+        },
+        {
+          "name": "I want to move a little bit",
+          "path": "我想挪动一点点.MP3",
+          "description": {
+            "en-US": "I want to move a little bit",
+            "zh-CN": "我想挪动一点点",
+            "ja-JP": "少し動きたい"
+          }
+        },
+        {
+          "name": "I get it! I dont get it",
+          "path": "我懂了！我不懂.MP3",
+          "description": {
+            "en-US": "I get it! I don't get it",
+            "zh-CN": "我懂了！我不懂",
+            "ja-JP": "わかった！わからない"
+          }
+        },
+        {
+          "name": "I guess your heart",
+          "path": "我猜着你的心.MP3",
+          "description": {
+            "en-US": "I guess your heart",
+            "zh-CN": "我猜着你的心",
+            "ja-JP": "あなたの心を推測する"
+          }
+        },
+        {
+          "name": "Where are my little deer babies",
+          "path": "我的小鹿宝宝们呢.MP3",
+          "description": {
+            "en-US": "Where are my little deer babies",
+            "zh-CN": "我的小鹿宝宝们呢",
+            "ja-JP": "私の小鹿ちゃんたちはどこ"
+          }
+        },
+        {
+          "name": "I jumped but it doesnt let me jump",
+          "path": "我跳了它不让我跳.MP3",
+          "description": {
+            "en-US": "I jumped but it doesn't let me jump",
+            "zh-CN": "我跳了它不让我跳",
+            "ja-JP": "ジャンプしたのに、させてくれない"
+          }
+        },
+        {
+          "name": "Got it",
+          "path": "收到.MP3",
+          "description": {
+            "en-US": "Got it",
+            "zh-CN": "收到",
+            "ja-JP": "了解"
+          }
+        },
+        {
+          "name": "Put me down",
+          "path": "放我下来.MP3",
+          "description": {
+            "en-US": "Put me down",
+            "zh-CN": "放我下来",
+            "ja-JP": "下ろして"
+          }
+        },
+        {
+          "name": "Let go",
+          "path": "放手.MP3",
+          "description": {
+            "en-US": "Let go",
+            "zh-CN": "放手",
+            "ja-JP": "手を離して"
+          }
+        },
+        {
+          "name": "Let go!",
+          "path": "放！.MP3",
+          "description": {
+            "en-US": "Let go",
+            "zh-CN": "放！",
+            "ja-JP": "放せ！"
+          }
+        },
+        {
+          "name": "I clearly pressed it",
+          "path": "明明就按到了.MP3",
+          "description": {
+            "en-US": "I clearly pressed it",
+            "zh-CN": "明明就按到了",
+            "ja-JP": "確かに押したのに"
+          }
+        },
+        {
+          "name": "Good night everyone",
+          "path": "晚安大家.MP3",
+          "description": {
+            "en-US": "Good night everyone",
+            "zh-CN": "晚安大家",
+            "ja-JP": "皆さんおやすみなさい"
+          }
+        },
+        {
+          "name": "The deadliest of sins",
+          "path": "死罪中的死罪.MP3",
+          "description": {
+            "en-US": "The deadliest of sins",
+            "zh-CN": "死罪中的死罪",
+            "ja-JP": "死罪中の死罪"
+          }
+        },
+        {
+          "name": "What to do without arrows!",
+          "path": "没有箭了怎么办！.MP3",
+          "description": {
+            "en-US": "What to do without arrows!",
+            "zh-CN": "没有箭了怎么办！",
+            "ja-JP": "矢がなくなったらどうする！"
+          }
+        },
+        {
+          "name": "You are really disgusting",
+          "path": "真恶心你这种人.MP3",
+          "description": {
+            "en-US": "You are really disgusting",
+            "zh-CN": "真恶心你这种人",
+            "ja-JP": "本当に気持ち悪い、あなたみたいな人"
+          }
+        },
+        {
+          "name": "I really cant do anything about you",
+          "path": "真是拿你没办法.MP3",
+          "description": {
+            "en-US": "I really can't do anything about you",
+            "zh-CN": "真是拿你没办法",
+            "ja-JP": "本当にあなたにはどうしようもない"
+          }
+        },
+        {
+          "name": "Really a cheater",
+          "path": "真的就是赖子.MP3",
+          "description": {
+            "en-US": "Really a cheater",
+            "zh-CN": "真的就是赖子",
+            "ja-JP": "本当にズルい人"
+          }
+        },
+        {
+          "name": "Has the conflict started again",
+          "path": "纷争又开始了吗.MP3",
+          "description": {
+            "en-US": "Has the conflict started again",
+            "zh-CN": "纷争又开始了吗",
+            "ja-JP": "また争いが始まったの？"
+          }
+        },
+        {
+          "name": "Cheating, cheating!",
+          "path": "耍赖耍赖！.MP3",
+          "description": {
+            "en-US": "Cheating, cheating!",
+            "zh-CN": "耍赖耍赖！",
+            "ja-JP": "ズルをする、ズルをする！"
+          }
+        },
+        {
+          "name": "Scorpion Lai Lai",
+          "path": "蝎子莱莱.MP3",
+          "description": {
+            "en-US": "Scorpion Lai Lai",
+            "zh-CN": "蝎子莱莱",
+            "ja-JP": "サソリ・ライライ"
+          }
+        },
+        {
+          "name": "Cockroach bully",
+          "path": "蟑螂恶霸.MP3",
+          "description": {
+            "en-US": "Cockroach bully",
+            "zh-CN": "蟑螂恶霸",
+            "ja-JP": "ゴキブリのいじめっ子"
+          }
+        },
+        {
+          "name": "Who appointed the emperor",
+          "path": "谁钦点的皇帝.MP3",
+          "description": {
+            "en-US": "Who appointed the emperor",
+            "zh-CN": "谁钦点的皇帝",
+            "ja-JP": "誰が皇帝を指名したの？"
+          }
+        },
+        {
+          "name": "Lie down and play with phone baby",
+          "path": "躺下跟手机宝宝玩.MP3",
+          "description": {
+            "en-US": "Lie down and play with phone baby",
+            "zh-CN": "躺下跟手机宝宝玩",
+            "ja-JP": "横になってスマホちゃんと遊ぶ"
+          }
+        },
+        {
+          "name": "There is still chicken?",
+          "path": "还有鸡？.MP3",
+          "description": {
+            "en-US": "There is still chicken?",
+            "zh-CN": "还有鸡？",
+            "ja-JP": "まだ鶏があるの？"
+          }
+        },
+        {
+          "name": "This is me turning back time to choose your favorite route",
+          "path": "这是我倒转时光选择你最喜欢的路线.MP3",
+          "description": {
+            "en-US": "This is me turning back time to choose your favorite route",
+            "zh-CN": "这是我倒转时光选择你最喜欢的路线",
+            "ja-JP": "これは私が時間を戻してあなたの好きなルートを選んだ"
+          }
+        },
+        {
+          "name": "This time I really dont understand",
+          "path": "这次我是真的不懂了.MP3",
+          "description": {
+            "en-US": "This time I really don't understand",
+            "zh-CN": "这次我是真的不懂了",
+            "ja-JP": "今回は本当にわからない"
+          }
+        },
+        {
+          "name": "Still not dead!",
+          "path": "这都不死！.MP3",
+          "description": {
+            "en-US": "Still not dead!",
+            "zh-CN": "这都不死！",
+            "ja-JP": "これでも死なない！"
+          }
+        },
+        {
+          "name": "Then what to do",
+          "path": "那怎么办.MP3",
+          "description": {
+            "en-US": "Then what to do",
+            "zh-CN": "那怎么办",
+            "ja-JP": "それでどうする"
+          }
+        },
+        {
+          "name": "Then what to do~ what to do",
+          "path": "那怎么办呀~怎么办呀.MP3",
+          "description": {
+            "en-US": "Then what to do~ what to do",
+            "zh-CN": "那怎么办呀~怎么办呀",
+            "ja-JP": "それでどうしよう〜どうしよう"
+          }
+        },
+        {
+          "name": "Really making a big fuss",
+          "path": "闹麻了真的是.MP3",
+          "description": {
+            "en-US": "Really making a big fuss",
+            "zh-CN": "闹麻了真的是",
+            "ja-JP": "本当に大騒ぎだ"
+          }
+        },
+        {
+          "name": "Biscuit Sui cannot have an emperor, only I can be the emperor",
+          "path": "饼干岁不能有皇帝，只能有我一个皇帝.MP3",
+          "description": {
+            "en-US": "Biscuit Sui cannot have an emperor, only I can be the emperor",
+            "zh-CN": "饼干岁不能有皇帝，只能有我一个皇帝",
+            "ja-JP": "ビスケットスイに皇帝はいらない、私だけが皇帝"
+          }
+        },
+        {
+          "name": "Biscuit Sui, are you there, did you fall asleep",
+          "path": "饼干岁你在吗，是不是睡着了.MP3",
+          "description": {
+            "en-US": "Biscuit Sui, are you there, did you fall asleep",
+            "zh-CN": "饼干岁你在吗，是不是睡着了",
+            "ja-JP": "ビスケットスイ、いるの？寝ちゃった？"
+          }
+        },
+        {
+          "name": "Biscuit Sui, kneel down to me immediately",
+          "path": "饼干岁直接给我跪下.MP3",
+          "description": {
+            "en-US": "Biscuit Sui, kneel down to me immediately",
+            "zh-CN": "饼干岁直接给我跪下",
+            "ja-JP": "ビスケットスイ、すぐに私に跪け"
+          }
+        },
+        {
+          "name": "Biscuit Sui says I overact",
+          "path": "饼干岁说我戏太多.MP3",
+          "description": {
+            "en-US": "Biscuit Sui says I overact",
+            "zh-CN": "饼干岁说我戏太多",
+            "ja-JP": "ビスケットスイは私が演技過剰だと言う"
+          }
+        },
+        {
+          "name": "Biscuit Sui, who is the emperor",
+          "path": "饼干岁谁是皇帝.MP3",
+          "description": {
+            "en-US": "Biscuit Sui, who is the emperor",
+            "zh-CN": "饼干岁谁是皇帝",
+            "ja-JP": "ビスケットスイ、誰が皇帝なの？"
+          }
+        },
+        {
+          "name": "Lu A Jinan car",
+          "path": "鲁A济南车.MP3",
+          "description": {
+            "en-US": "Lu A Jinan car",
+            "zh-CN": "鲁A济南车",
+            "ja-JP": "魯Aナンバーの済南の車"
+          }
         }
       ]
     },
