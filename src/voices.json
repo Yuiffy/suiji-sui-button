@@ -5935,6 +5935,22 @@
             "zh-CN": "耶，你这个辣鸡",
             "ja-JP": "やった、ゴミ"
           }
+        },
+        {
+          "name": "WTF 1",
+          "path": "卧槽_1.MP3",
+          "description": {
+            "en-US": "WTF 1",
+            "zh-CN": "卧槽 1"
+          }
+        },
+        {
+          "name": "WTF 2",
+          "path": "卧槽_2.MP3",
+          "description": {
+            "en-US": "WTF 2",
+            "zh-CN": "卧槽 2"
+          }
         }
       ]
     }
