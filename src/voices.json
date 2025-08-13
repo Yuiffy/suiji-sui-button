@@ -8,14 +8,6 @@
       },
       "voiceList": [
         {
-          "name": "rumbling",
-          "path": "rumbling，rumbling.MP3",
-          "description": {
-            "en-US": "rumbling, rumbling",
-            "zh-CN": "rumbling，rumbling"
-          }
-        },
-        {
           "name": "上车！",
           "path": "上车！.MP3",
           "description": {
@@ -333,6 +325,14 @@
           "description": {
             "en-US": "The addiction is too strong, really needs training",
             "zh-CN": "瘾真的太大了真的是欠调教"
+          }
+        },
+        {
+          "name": "rumbling",
+          "path": "rumbling，rumbling.MP3",
+          "description": {
+            "en-US": "rumbling, rumbling",
+            "zh-CN": "rumbling，rumbling"
           }
         }
       ]
