@@ -216,6 +216,14 @@
           }
         },
         {
+          "name": "闪购！闪购！",
+          "path": "闪购！闪购！.MP3",
+          "description": {
+            "en-US": "Flash sale! Flash sale!",
+            "zh-CN": "闪购！闪购！"
+          }
+        },
+        {
           "name": "捏捏八点大春袋",
           "path": "捏捏八点大春袋.MP3",
           "description": {
@@ -224,19 +232,19 @@
           }
         },
         {
-          "name": "搞了个大笑",
-          "path": "搞了个大笑.MP3",
+          "name": "搞了个大笑1",
+          "path": "搞了个大笑20250628_161748.MP3",
           "description": {
             "en-US": "Made a big laugh",
-            "zh-CN": "搞了个大笑"
+            "zh-CN": "搞了个大笑1"
           }
         },
         {
-          "name": "晚上好_3",
-          "path": "晚上好_3.MP3",
+          "name": "搞了个大笑2",
+          "path": "搞了个大笑20250810160030.MP3",
           "description": {
-            "en-US": "Good evening 3",
-            "zh-CN": "晚上好_3"
+            "en-US": "Made a big laugh",
+            "zh-CN": "搞了个大笑2"
           }
         },
         {
@@ -269,14 +277,6 @@
           "description": {
             "en-US": "Wild motorcycle soft voice",
             "zh-CN": "野摩托小声"
-          }
-        },
-        {
-          "name": "闪购！闪购！",
-          "path": "闪购！闪购！.MP3",
-          "description": {
-            "en-US": "Flash sale! Flash sale!",
-            "zh-CN": "闪购！闪购！"
           }
         },
         {
