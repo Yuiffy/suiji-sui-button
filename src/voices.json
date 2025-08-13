@@ -1,6 +1,311 @@
 {
   "voices": [
     {
+      "categoryName": "2025小岁",
+      "categoryDescription": {
+        "en-US": "2025 little SUI",
+        "zh-CN": "2025小岁"
+      },
+      "voiceList": [
+        {
+          "name": "rumbling",
+          "path": "rumbling，rumbling.MP3",
+          "description": {
+            "en-US": "rumbling, rumbling",
+            "zh-CN": "rumbling，rumbling"
+          }
+        },
+        {
+          "name": "上车！",
+          "path": "上车！.MP3",
+          "description": {
+            "en-US": "Get on!",
+            "zh-CN": "上车！"
+          }
+        },
+        {
+          "name": "再近点",
+          "path": "再近点.MP3",
+          "description": {
+            "en-US": "Come closer",
+            "zh-CN": "再近点"
+          }
+        },
+        {
+          "name": "坠机语音",
+          "path": "坠机语音.MP3",
+          "description": {
+            "en-US": "Crash voice",
+            "zh-CN": "坠机语音"
+          }
+        },
+        {
+          "name": "天哪你这个剑人",
+          "path": "天哪你这个剑人.MP3",
+          "description": {
+            "en-US": "Oh my god you sword person",
+            "zh-CN": "天哪你这个剑人"
+          }
+        },
+        {
+          "name": "好啦~",
+          "path": "好啦~.MP3",
+          "description": {
+            "en-US": "Alright~",
+            "zh-CN": "好啦~"
+          }
+        },
+        {
+          "name": "呜哇~好伤心啊",
+          "path": "呜哇~好伤心啊.MP3",
+          "description": {
+            "en-US": "Woo wah~ so sad",
+            "zh-CN": "呜哇~好伤心啊"
+          }
+        },
+        {
+          "name": "又是艳阳天",
+          "path": "又是艳阳天.MP3",
+          "description": {
+            "en-US": "Another bright sunny day",
+            "zh-CN": "又是艳阳天"
+          }
+        },
+        {
+          "name": "又是大晴天",
+          "path": "又是大晴天.MP3",
+          "description": {
+            "en-US": "Another sunny day",
+            "zh-CN": "又是大晴天"
+          }
+        },
+        {
+          "name": "你方不方便",
+          "path": "你方不方便.MP3",
+          "description": {
+            "en-US": "Are you convenient?",
+            "zh-CN": "你方不方便"
+          }
+        },
+        {
+          "name": "报备一哈1",
+          "path": "报备一哈1.MP3",
+          "description": {
+            "en-US": "Report 1",
+            "zh-CN": "报备一哈1"
+          }
+        },
+        {
+          "name": "报备一哈2",
+          "path": "报备一哈2.MP3",
+          "description": {
+            "en-US": "Report 2",
+            "zh-CN": "报备一哈2"
+          }
+        },
+        {
+          "name": "报备一哈3大声",
+          "path": "报备一哈3大声.MP3",
+          "description": {
+            "en-US": "Report 3 loud",
+            "zh-CN": "报备一哈3大声"
+          }
+        },
+        {
+          "name": "报备啊，很难吗",
+          "path": "报备啊，很难吗.MP3",
+          "description": {
+            "en-US": "Report, is it hard?",
+            "zh-CN": "报备啊，很难吗"
+          }
+        },
+        {
+          "name": "哭啥子我在凶你吗",
+          "path": "哭啥子我在凶你吗.MP3",
+          "description": {
+            "en-US": "Why are you crying, am I being fierce to you?",
+            "zh-CN": "哭啥子我在凶你吗"
+          }
+        },
+        {
+          "name": "我只想晓得我们家乖乖去哪咯",
+          "path": "我只想晓得我们家乖乖去哪咯.MP3",
+          "description": {
+            "en-US": "I just want to know where our baby went",
+            "zh-CN": "我只想晓得我们家乖乖去哪咯"
+          }
+        },
+        {
+          "name": "哎我终于合体了",
+          "path": "哎我终于合体了.MP3",
+          "description": {
+            "en-US": "Hey I finally combined",
+            "zh-CN": "哎我终于合体了"
+          }
+        },
+        {
+          "name": "宝宝我们快来合体吧",
+          "path": "宝宝我们快来合体吧.MP3",
+          "description": {
+            "en-US": "Baby let's combine quickly",
+            "zh-CN": "宝宝我们快来合体吧"
+          }
+        },
+        {
+          "name": "别玩你那破游戏啦",
+          "path": "别玩你那破游戏啦.MP3",
+          "description": {
+            "en-US": "Stop playing your broken game",
+            "zh-CN": "别玩你那破游戏啦"
+          }
+        },
+        {
+          "name": "游戏打多了思维固化了",
+          "path": "游戏打多了思维固化了.MP3",
+          "description": {
+            "en-US": "Played too many games, thinking became rigid",
+            "zh-CN": "游戏打多了思维固化了"
+          }
+        },
+        {
+          "name": "你有没有想过，气抖冷",
+          "path": "你有没有想过，气抖冷.MP3",
+          "description": {
+            "en-US": "Have you ever thought about it, angry and cold",
+            "zh-CN": "你有没有想过，气抖冷"
+          }
+        },
+        {
+          "name": "啊啊啊快，受不了了",
+          "path": "啊啊啊快，受不了了.MP3",
+          "description": {
+            "en-US": "Ah ah ah quick, I can't take it anymore",
+            "zh-CN": "啊啊啊快，受不了了"
+          }
+        },
+        {
+          "name": "就唱就唱",
+          "path": "就唱就唱.MP3",
+          "description": {
+            "en-US": "Just sing just sing",
+            "zh-CN": "就唱就唱"
+          }
+        },
+        {
+          "name": "我想邀请你坐上我的野摩托，蹦蹦蹦~",
+          "path": "我想邀请你坐上我的野摩托，蹦蹦蹦~.MP3",
+          "description": {
+            "en-US": "I want to invite you to ride my wild motorcycle, beng beng beng~",
+            "zh-CN": "我想邀请你坐上我的野摩托，蹦蹦蹦~"
+          }
+        },
+        {
+          "name": "我的头很大吗",
+          "path": "我的头很大吗.MP3",
+          "description": {
+            "en-US": "Is my head big?",
+            "zh-CN": "我的头很大吗"
+          }
+        },
+        {
+          "name": "我说闪购，闪购",
+          "path": "我说闪购，闪购.MP3",
+          "description": {
+            "en-US": "I said flash sale, flash sale",
+            "zh-CN": "我说闪购，闪购"
+          }
+        },
+        {
+          "name": "捏捏八点大春袋",
+          "path": "捏捏八点大春袋.MP3",
+          "description": {
+            "en-US": "Pinch pinch eight o'clock big spring bag",
+            "zh-CN": "捏捏八点大春袋"
+          }
+        },
+        {
+          "name": "搞了个大笑",
+          "path": "搞了个大笑.MP3",
+          "description": {
+            "en-US": "Made a big laugh",
+            "zh-CN": "搞了个大笑"
+          }
+        },
+        {
+          "name": "晚上好_3",
+          "path": "晚上好_3.MP3",
+          "description": {
+            "en-US": "Good evening 3",
+            "zh-CN": "晚上好_3"
+          }
+        },
+        {
+          "name": "疯了吧",
+          "path": "疯了吧.MP3",
+          "description": {
+            "en-US": "Are you crazy?",
+            "zh-CN": "疯了吧"
+          }
+        },
+        {
+          "name": "看我动不会头晕目眩吗",
+          "path": "看我动不会头晕目眩吗.MP3",
+          "description": {
+            "en-US": "Won't you get dizzy watching me move?",
+            "zh-CN": "看我动不会头晕目眩吗"
+          }
+        },
+        {
+          "name": "自娱自乐",
+          "path": "自娱自乐.MP3",
+          "description": {
+            "en-US": "Self entertainment",
+            "zh-CN": "自娱自乐"
+          }
+        },
+        {
+          "name": "野摩托小声",
+          "path": "野摩托20250116232931小声.MP3",
+          "description": {
+            "en-US": "Wild motorcycle soft voice",
+            "zh-CN": "野摩托小声"
+          }
+        },
+        {
+          "name": "闪购！闪购！",
+          "path": "闪购！闪购！.MP3",
+          "description": {
+            "en-US": "Flash sale! Flash sale!",
+            "zh-CN": "闪购！闪购！"
+          }
+        },
+        {
+          "name": "饼干岁把手从屏幕伸出来偷吃",
+          "path": "饼干岁把手从屏幕伸出来偷吃.MP3",
+          "description": {
+            "en-US": "Biscuit Sui reaches hand out from screen to steal food",
+            "zh-CN": "饼干岁把手从屏幕伸出来偷吃"
+          }
+        },
+        {
+          "name": "饼干岁饼干岁我在呢",
+          "path": "饼干岁饼干岁我在呢.MP3",
+          "description": {
+            "en-US": "Biscuit Sui Biscuit Sui I'm here",
+            "zh-CN": "饼干岁饼干岁我在呢"
+          }
+        },
+        {
+          "name": "魔丸",
+          "path": "魔丸.MP3",
+          "description": {
+            "en-US": "Magic pill",
+            "zh-CN": "魔丸"
+          }
+        }
+      ]
+    },
+    {
       "categoryName": "suiShortVoice",
       "categoryDescription": {
         "en-US": "Short Sentence",
@@ -993,7 +1298,6 @@
             "ja-JP": "ああビスケットスイビスケットスイ"
           }
         },
-
         {
           "name": "What’s wrong with me",
           "path": "我咋了我到底.MP3",
