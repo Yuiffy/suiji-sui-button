@@ -302,6 +302,38 @@
             "en-US": "Magic pill",
             "zh-CN": "魔丸"
           }
+        },
+        {
+          "name": "什么，这也是AI",
+          "path": "什么，这也是AI.MP3",
+          "description": {
+            "en-US": "What, this is also AI?",
+            "zh-CN": "什么，这也是AI"
+          }
+        },
+        {
+          "name": "又在三角洲",
+          "path": "又在三角洲.MP3",
+          "description": {
+            "en-US": "Again at the Delta",
+            "zh-CN": "又在三角洲"
+          }
+        },
+        {
+          "name": "干嘛叫我，打完游戏了是吧",
+          "path": "干嘛叫我，打完游戏了是吧.MP3",
+          "description": {
+            "en-US": "Why calling me, you're done playing games, right?",
+            "zh-CN": "干嘛叫我，打完游戏了是吧"
+          }
+        },
+        {
+          "name": "瘾真的太大了真的是欠调教",
+          "path": "瘾真的太大了真的是欠调教.MP3",
+          "description": {
+            "en-US": "The addiction is too strong, really needs training",
+            "zh-CN": "瘾真的太大了真的是欠调教"
+          }
         }
       ]
     },
