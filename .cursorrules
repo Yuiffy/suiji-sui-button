@@ -1,0 +1,61 @@
+# Authoring rules for voices configuration
+
+- PURPOSE: Keep `src/voices.json` consistent when adding or editing voice lines.
+
+- FILE: `src/voices.json`
+  - Root:
+    {
+      "voices": [ CategoryObject, ... ]
+    }
+  - CategoryObject:
+    {
+      "categoryName": string,
+      "categoryDescription": { "en-US": string, "zh-CN": string },
+      "voiceList": [ VoiceObject, ... ]
+    }
+  - VoiceObject:
+    {
+      "name": string,
+      "path": string,  // exact filename including extension
+      "description": {
+        "en-US": string,
+        "zh-CN": string,
+        "ja-JP"?: string
+      }
+    }
+
+- STYLE:
+  - Indentation: two spaces. Keep field order: name → path → description. No trailing commas on final items.
+  - Preserve full-width punctuation/emoji as-is (e.g. （ ）！~ ↗). Do not ASCII-normalize.
+
+- ADDING NEW VOICES:
+  - Default category: append to `2025小岁` → `voiceList` unless otherwise specified.
+  - Keep insertion order identical to the user’s provided list.
+  - `path` must exactly equal the audio filename (including `.MP3`). Do not escape, rename, or change case.
+  - `description.zh-CN`: mirror `name` by default.
+  - `description.en-US`: concise natural-English gloss; if unclear, mirror or transliterate.
+  - `description.ja-JP`: provide brief Japanese gloss when possible; if unclear, mirror or transliterate.
+
+- NEW CATEGORY (when requested):
+  {
+    "categoryName": "<name>",
+    "categoryDescription": { "en-US": "<en>", "zh-CN": "<zh>" },
+    "voiceList": [ /* VoiceObject items */ ]
+  }
+
+- VALIDATION BEFORE COMMIT:
+  - JSON is valid; no linter errors.
+  - Each voice has `name`, `path`, and `description` with at least `en-US` and `zh-CN`.
+  - `path` strings match actual files in assets exactly (including extension).
+  - Indentation and commas conform to file style.
+
+- EXAMPLE (exact order and indentation):
+  {
+    "name": "注意闪光",
+    "path": "注意闪光.MP3",
+    "description": {
+      "en-US": "Watch the flash",
+      "zh-CN": "注意闪光",
+      "ja-JP": "フラッシュ注意"
+    }
+  }

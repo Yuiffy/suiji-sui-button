@@ -334,6 +334,285 @@
             "en-US": "rumbling, rumbling",
             "zh-CN": "rumbling，rumbling"
           }
+        },
+        {
+          "name": "反恐精英",
+          "path": "反恐精英.MP3",
+          "description": {
+            "en-US": "Counter-Strike",
+            "zh-CN": "反恐精英",
+            "ja-JP": "カウンターストライク"
+          }
+        },
+        {
+          "name": "发现多个全副武装的目标（口音）",
+          "path": "发现多个全副武装的目标（口音）.MP3",
+          "description": {
+            "en-US": "Multiple fully armed targets spotted (accent)",
+            "zh-CN": "发现多个全副武装的目标（口音）",
+            "ja-JP": "複数の完全武装の目標を発見（訛り）"
+          }
+        },
+        {
+          "name": "发现多个全副武装的目标（平稳）",
+          "path": "发现多个全副武装的目标（平稳）.MP3",
+          "description": {
+            "en-US": "Multiple fully armed targets spotted (calm)",
+            "zh-CN": "发现多个全副武装的目标（平稳）",
+            "ja-JP": "複数の完全武装の目標を発見（落ち着き）"
+          }
+        },
+        {
+          "name": "呃啊（惊）",
+          "path": "呃啊（惊）.MP3",
+          "description": {
+            "en-US": "Uh ah (surprised)",
+            "zh-CN": "呃啊（惊）",
+            "ja-JP": "うわっ（驚き）"
+          }
+        },
+        {
+          "name": "呃？（惊，搞笑）",
+          "path": "呃？（惊，搞笑）.MP3",
+          "description": {
+            "en-US": "Eh? (surprised, funny)",
+            "zh-CN": "呃？（惊，搞笑）",
+            "ja-JP": "えっ？（驚き・おもしろ）"
+          }
+        },
+        {
+          "name": "哈哈↗（下头笑）",
+          "path": "哈哈↗（下头笑）.MP3",
+          "description": {
+            "en-US": "Haha (awkward laugh)",
+            "zh-CN": "哈哈↗（下头笑）",
+            "ja-JP": "はは↗（気まずい笑い）"
+          }
+        },
+        {
+          "name": "哈哈啊~你们可以假装没看到吗",
+          "path": "哈哈啊~你们可以假装没看到吗.MP3",
+          "description": {
+            "en-US": "Haha~ can you pretend you didn't see?",
+            "zh-CN": "哈哈啊~你们可以假装没看到吗",
+            "ja-JP": "はは〜見なかったことにしてくれる？"
+          }
+        },
+        {
+          "name": "哎呀~神经病",
+          "path": "哎呀~神经病.MP3",
+          "description": {
+            "en-US": "Aiya~ psycho",
+            "zh-CN": "哎呀~神经病",
+            "ja-JP": "あいや〜頭おかしい"
+          }
+        },
+        {
+          "name": "哎呀~（娇嗔）",
+          "path": "哎呀~（娇嗔）.MP3",
+          "description": {
+            "en-US": "Aiya~ (coquettish)",
+            "zh-CN": "哎呀~（娇嗔）",
+            "ja-JP": "あいや〜（甘え）"
+          }
+        },
+        {
+          "name": "哎呀好矫情啊我受不了了啊啊好弱智啊岁己好弱智我不想做岁己啦！",
+          "path": "哎呀好矫情啊我受不了了啊啊好弱智啊岁己好弱智我不想做岁己啦！.MP3",
+          "description": {
+            "en-US": "So pretentious I can't take it, so dumb, I don't want to be myself!",
+            "zh-CN": "哎呀好矫情啊我受不了了啊啊好弱智啊岁己好弱智我不想做岁己啦！",
+            "ja-JP": "ああもう気取りすぎ無理！バカすぎ！自分なんてやめたい！"
+          }
+        },
+        {
+          "name": "哎呀！我真的要生气了（怒音）",
+          "path": "哎呀！我真的要生气了（怒音）.MP3",
+          "description": {
+            "en-US": "Aiya! I'm really getting angry (angry tone)",
+            "zh-CN": "哎呀！我真的要生气了（怒音）",
+            "ja-JP": "あいや！本当に怒るよ（怒り声）"
+          }
+        },
+        {
+          "name": "我不喝啦！我再也不喝了好难受啊",
+          "path": "我不喝啦！我再也不喝了好难受啊.MP3",
+          "description": {
+            "en-US": "I won't drink! Never again, I feel awful",
+            "zh-CN": "我不喝啦！我再也不喝了好难受啊",
+            "ja-JP": "もう飲まない！二度と飲まない、つらい"
+          }
+        },
+        {
+          "name": "我聚赌最多罚三千",
+          "path": "我聚赌最多罚三千.MP3",
+          "description": {
+            "en-US": "Group gambling fine at most three thousand",
+            "zh-CN": "我聚赌最多罚三千",
+            "ja-JP": "集団賭博でも最高罰金は三千"
+          }
+        },
+        {
+          "name": "我跟你100万，再大你一百万，再show hand",
+          "path": "我跟你100万，再大你一百万，再show hand.MP3",
+          "description": {
+            "en-US": "I go 1M with you, you raise 1M more, then show hand",
+            "zh-CN": "我跟你100万，再大你一百万，再show hand",
+            "ja-JP": "100万コール、さらに100万レイズ、そしてショウハンド"
+          }
+        },
+        {
+          "name": "救救我呀救救我呀",
+          "path": "救救我呀救救我呀.MP3",
+          "description": {
+            "en-US": "Save me, save me",
+            "zh-CN": "救救我呀救救我呀",
+            "ja-JP": "助けて、助けて"
+          }
+        },
+        {
+          "name": "来，咱俩练练",
+          "path": "来，咱俩练练.MP3",
+          "description": {
+            "en-US": "Come on, let's spar",
+            "zh-CN": "来，咱俩练练",
+            "ja-JP": "さあ、二人で稽古しよう"
+          }
+        },
+        {
+          "name": "注意闪光",
+          "path": "注意闪光.MP3",
+          "description": {
+            "en-US": "Watch the flash",
+            "zh-CN": "注意闪光",
+            "ja-JP": "フラッシュ注意"
+          }
+        },
+        {
+          "name": "滴个der啊滴",
+          "path": "滴个der啊滴.MP3",
+          "description": {
+            "en-US": "Di ge der ah di",
+            "zh-CN": "滴个der啊滴",
+            "ja-JP": "ディーガ・ダー、ディ"
+          }
+        },
+        {
+          "name": "猛攻！",
+          "path": "猛攻！.MP3",
+          "description": {
+            "en-US": "All-out attack!",
+            "zh-CN": "猛攻！",
+            "ja-JP": "突撃！"
+          }
+        },
+        {
+          "name": "瓦罗兰特",
+          "path": "瓦罗兰特.MP3",
+          "description": {
+            "en-US": "VALORANT",
+            "zh-CN": "瓦罗兰特",
+            "ja-JP": "ヴァロラント"
+          }
+        },
+        {
+          "name": "航天基地充满科技的气息",
+          "path": "航天基地充满科技的气息.MP3",
+          "description": {
+            "en-US": "The space base is full of tech vibe",
+            "zh-CN": "航天基地充满科技的气息",
+            "ja-JP": "宇宙基地はテクノロジー感に満ちている"
+          }
+        },
+        {
+          "name": "这世上竟然有人自称赌神，我就叫赌圣",
+          "path": "这世上竟然有人自称赌神，我就叫赌圣.MP3",
+          "description": {
+            "en-US": "Someone calls themselves God of Gamblers; I'm the Saint",
+            "zh-CN": "这世上竟然有人自称赌神，我就叫赌圣",
+            "ja-JP": "世の中に自称ギャンブル神？私はギャンブル聖と呼ばれる"
+          }
+        },
+        {
+          "name": "这里是公海",
+          "path": "这里是公海.MP3",
+          "description": {
+            "en-US": "This is the high seas",
+            "zh-CN": "这里是公海",
+            "ja-JP": "ここは公海だ"
+          }
+        },
+        {
+          "name": "闪光无人机启动",
+          "path": "闪光无人机启动.MP3",
+          "description": {
+            "en-US": "Flash drone activated",
+            "zh-CN": "闪光无人机启动",
+            "ja-JP": "フラッシュドローン起動"
+          }
+        },
+        {
+          "name": "闪瞎他们",
+          "path": "闪瞎他们.MP3",
+          "description": {
+            "en-US": "Blind them",
+            "zh-CN": "闪瞎他们",
+            "ja-JP": "まぶしてやれ"
+          }
+        },
+        {
+          "name": "零号大坝危机四伏",
+          "path": "零号大坝危机四伏.MP3",
+          "description": {
+            "en-US": "Zero Dam is fraught with danger",
+            "zh-CN": "零号大坝危机四伏",
+            "ja-JP": "ゼロダムは危険がいっぱい"
+          }
+        },
+        {
+          "name": "好离谱啊好离谱",
+          "path": "好离谱啊好离谱.MP3",
+          "description": {
+            "en-US": "So outrageous, so outrageous",
+            "zh-CN": "好离谱啊好离谱",
+            "ja-JP": "ありえない、ありえない"
+          }
+        },
+        {
+          "name": "好离谱好离谱",
+          "path": "好离谱好离谱.MP3",
+          "description": {
+            "en-US": "So outrageous, so outrageous",
+            "zh-CN": "好离谱好离谱",
+            "ja-JP": "ありえない、ありえない"
+          }
+        },
+        {
+          "name": "好臭啊，给我臭死了",
+          "path": "好臭啊，给我臭死了.MP3",
+          "description": {
+            "en-US": "So stinky, it's killing me",
+            "zh-CN": "好臭啊，给我臭死了",
+            "ja-JP": "くさっ、死ぬほど臭い"
+          }
+        },
+        {
+          "name": "好臭好臭",
+          "path": "好臭好臭.MP3",
+          "description": {
+            "en-US": "So stinky, so stinky",
+            "zh-CN": "好臭好臭",
+            "ja-JP": "くさい、くさい"
+          }
+        },
+        {
+          "name": "我一直再说好臭好臭怎么会这么臭",
+          "path": "我一直再说好臭好臭怎么会这么臭.MP3",
+          "description": {
+            "en-US": "I keep saying it's so stinky, how is it this smelly?",
+            "zh-CN": "我一直再说好臭好臭怎么会这么臭",
+            "ja-JP": "ずっと臭い臭いって言ってる、なんでこんなに臭いの"
+          }
         }
       ]
     },
