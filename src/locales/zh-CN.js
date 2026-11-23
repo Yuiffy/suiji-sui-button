@@ -20,7 +20,8 @@ const zh_CN = {
         overlap: "允许声音重叠",
         autoplay: "播放不要停下来",
         playing: "正在播放：",
-        noplay: "暂无播放"
+        noplay: "暂无播放",
+        source: "来源"
     },
     lang: {
         'zh-CN': "简体中文",

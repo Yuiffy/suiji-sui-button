@@ -25,6 +25,7 @@ const ja_JP = {
         loop: "ループ再生",
         playing: "再生中：",
         noplay: "再生なし",
+        source: "出典",
         volume: "ボリューム: "
     },
     lang: {

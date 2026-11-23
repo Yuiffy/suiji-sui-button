@@ -33,9 +33,12 @@
         <div v-for="category in voices" v-bind:key="category.categoryName">
             <div class="cate-header">{{ $t("voicecategory." + category.categoryName) }}</div>
             <div class="cate-body">
-                <button class="btn btn-new" v-for="voiceItem in category.voiceList" v-bind:key="voiceItem.name" @click="play(voiceItem)">
-                    {{ $t("voice." + voiceItem.name )}}
-                </button>
+                <div class="voice-entry" v-for="voiceItem in category.voiceList" v-bind:key="voiceItem.name">
+                    <button class="btn btn-new" @click="play(voiceItem)">
+                        {{ $t("voice." + voiceItem.name )}}
+                    </button>
+                    <a v-if="voiceItem.source" class="voice-source" :href="sourceUrl(voiceItem)" :title="sourceTitle(voiceItem)" target="_blank" rel="noopener" @click.stop>{{ $t("action.source") }}</a>
+                </div>
             </div>
         </div>
     </div>
@@ -76,6 +79,17 @@
     word-wrap: break-word !important;
     word-break: break-all !important;
     white-space: normal !important;
+}
+.voice-entry {
+    display: inline-flex;
+    align-items: center;
+    max-width: 100%;
+}
+.voice-source {
+    color: #a33a63;
+    font-size: 12px;
+    margin: 0 6px 0 0;
+    white-space: nowrap;
 }
 .cate-body button:hover{
     color: #fdb3d8;
@@ -226,6 +240,13 @@ class HomePage extends Vue {
             default:
                 return 0;
         }
+    }
+    sourceUrl(item) {
+        return item.source.videoUrl || item.source.liveUrl || '#';
+    }
+    sourceTitle(item) {
+        const source = item.source || {};
+        return [source.title, source.author, source.liveTitle, source.videoUrl, source.liveUrl].filter(Boolean).join(' · ');
     }
 }
 export default HomePage;

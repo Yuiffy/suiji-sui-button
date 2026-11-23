@@ -25,6 +25,7 @@ const zh_TW = {
         loop: "循環播放",
         playing: "正在播放 : ",
         noplay: "沒有聲音在播放",
+        source: "來源",
         volume: "音量 : "
     },
     lang: {

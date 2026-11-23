@@ -41,6 +41,8 @@ Because this site uses a strong cache strategy, except for `index.html`, files w
 
 If you are modifying voice, delete the original file after modification.
 
+New voice metadata may include an optional `source` object in `src/voices.json`. Use `videoUrl` for the source video, `liveUrl` for the related livestream, `title` and `author` for readable attribution, and `start` / `end` for the source segment in seconds. The site shows a `来源` link beside voices that have this metadata.
+
 ### Participate in translation
 
 Please help us translate to the available languages! (EN/JP/TW/MY)

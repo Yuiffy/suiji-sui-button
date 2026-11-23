@@ -25,6 +25,7 @@ const en_US = {
         loop: "Loop",
         playing: "Now Playing：",
         noplay: "Nothing playing.",
+        source: "Source",
         volume: "Volume: "
     },
     lang: {

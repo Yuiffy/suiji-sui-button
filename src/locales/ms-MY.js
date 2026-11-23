@@ -25,6 +25,7 @@ const ms_MY = {
         loop: "Gelungkan",
         playing: "Main balik sekarang：",
         noplay: "Tiada main balik.",
+        source: "Sumber",
         volume: "Kelantangan: "
     },
     lang: {

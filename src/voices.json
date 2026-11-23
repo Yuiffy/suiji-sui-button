@@ -2634,6 +2634,26 @@
             "zh-CN": "鲁A济南车",
             "ja-JP": "魯Aナンバーの済南の車"
           }
+        },
+        {
+          "name": "哈哈哈，嘎嘎嘎！（唐）",
+          "path": "哈哈哈，嘎嘎嘎！（唐）-sui-button-00001.MP3",
+          "description": {
+            "zh-CN": "好唐我好喜欢",
+            "zh-TW": "好唐我好喜歡",
+            "en-US": "I love how silly this is",
+            "ja-JP": "こんなに唐なのが大好き",
+            "ms-MY": "Saya suka betapa kelakarnya ini"
+          },
+          "source": {
+            "videoUrl": "https://www.bilibili.com/video/BV1vxyjzvEFf/?p=1",
+            "liveUrl": "https://live.bilibili.com/25788785",
+            "liveTitle": "岁己直播间",
+            "title": "【自用循环1分钟】好唐我好喜欢【岁己SUI】",
+            "author": "物说有栖_Official",
+            "start": 4.5,
+            "end": 8.55
+          }
         }
       ]
     },
